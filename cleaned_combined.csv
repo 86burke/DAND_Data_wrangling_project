@@ -1,0 +1,1807 @@
+title_mov,title_nfx,year_norm,budget,revenue,runtime,type,duration_value,duration_unit,country
+GoldenEye,GoldenEye,1995.0,58000000.0,352194034.0,130.0,Movie,130.0,min,"United Kingdom, United States"
+The American President,The American President,1995.0,62000000.0,107879496.0,106.0,Movie,113.0,min,United States
+Balto,Balto,1995.0,,11348324.0,78.0,Movie,78.0,min,United States
+Now and Then,Now and Then,1995.0,12000000.0,27400000.0,100.0,Movie,102.0,min,United States
+It Takes Two,It Takes Two,1995.0,,,101.0,Movie,101.0,min,United States
+Mortal Kombat,Mortal Kombat,1995.0,18000000.0,122195920.0,101.0,Movie,101.0,min,United States
+How To Make An American Quilt,How to Make an American Quilt,1995.0,10000000.0,23574130.0,116.0,Movie,116.0,min,United States
+The Indian in the Cupboard,The Indian in the Cupboard,1995.0,45000000.0,,96.0,Movie,96.0,min,United States
+Kicking and Screaming,Kicking and Screaming,1995.0,,718490.0,96.0,Movie,97.0,min,United States
+Rumble in the Bronx,Rumble in the Bronx,1995.0,7500000.0,32392047.0,91.0,Movie,89.0,min,Hong Kong
+Bad Boys,Bad Boys,1995.0,19000000.0,141407024.0,118.0,Movie,119.0,min,United States
+Congo,Congo,1995.0,50000000.0,152022101.0,109.0,Movie,108.0,min,United States
+The Net,The Net,1995.0,22000000.0,110627965.0,114.0,Movie,114.0,min,United States
+"To Wong Foo, Thanks for Everything! Julie Newmar","To Wong Foo, Thanks for Everything! Julie Newmar",1995.0,,47774193.0,105.0,Movie,108.0,min,United States
+Like Water for Chocolate,Like Water for Chocolate,1992.0,2000000.0,21665468.0,105.0,Movie,105.0,min,Mexico
+Major Payne,Major Payne,1995.0,,,95.0,Movie,97.0,min,United States
+Pulp Fiction,Pulp Fiction,1994.0,8000000.0,213928762.0,154.0,Movie,154.0,min,United States
+Stargate,Stargate,1994.0,55000000.0,196567262.0,121.0,Movie,121.0,min,"United States, France"
+What's Eating Gilbert Grape,What's Eating Gilbert Grape,1993.0,11000000.0,10032765.0,118.0,Movie,118.0,min,United States
+Clear and Present Danger,Clear and Present Danger,1994.0,62000000.0,215887717.0,141.0,Movie,142.0,min,"United States, Mexico"
+The Crow,The Crow,1994.0,15000000.0,94000000.0,102.0,Movie,102.0,min,United States
+The Flintstones,The Flintstones,1994.0,46000000.0,341631208.0,91.0,Movie,91.0,min,United States
+Four Weddings and a Funeral,Four Weddings and a Funeral,1994.0,6000000.0,254700832.0,117.0,Movie,118.0,min,United Kingdom
+The River Wild,The River Wild,1994.0,45000000.0,,111.0,Movie,111.0,min,United States
+Wyatt Earp,Wyatt Earp,1994.0,63000000.0,25052000.0,191.0,Movie,191.0,min,United States
+Cliffhanger,Cliffhanger,1993.0,70000000.0,255000211.0,112.0,Movie,113.0,min,"United States, Italy, France, Japan"
+Free Willy,Free Willy,1993.0,20000000.0,153698625.0,112.0,Movie,112.0,min,"United States, France, Mexico"
+House Party 3,House Party 3,1994.0,,,100.0,Movie,94.0,min,United States
+In the Line of Fire,In the Line of Fire,1993.0,40000000.0,176997168.0,128.0,Movie,129.0,min,United States
+Executive Decision,Executive Decision,1996.0,55000000.0,121969216.0,133.0,Movie,133.0,min,United States
+The Next Karate Kid,The Next Karate Kid,1994.0,12000000.0,15826984.0,107.0,Movie,107.0,min,United States
+Philadelphia,Philadelphia,1993.0,26000000.0,206678440.0,125.0,Movie,126.0,min,United States
+The Piano,The Piano,1993.0,7000000.0,116700000.0,121.0,Movie,121.0,min,"New Zealand, Australia, France, United States"
+Schindler's List,Schindler's List,1993.0,22000000.0,321365567.0,195.0,Movie,195.0,min,United States
+Searching for Bobby Fischer,Searching for Bobby Fischer,1993.0,,7266383.0,110.0,Movie,110.0,min,United States
+Sliver,Sliver,1993.0,40000000.0,116300000.0,108.0,Movie,107.0,min,United States
+Dances with Wolves,Dances with Wolves,1990.0,22000000.0,424208848.0,181.0,Movie,181.0,min,"United States, United Kingdom"
+Primal Fear,Primal Fear,1996.0,30000000.0,102616183.0,129.0,Movie,131.0,min,United States
+DragonHeart,Dragonheart,1996.0,57000000.0,115267375.0,103.0,Movie,103.0,min,United States
+The Craft,The Craft,1996.0,15000000.0,24769466.0,101.0,Movie,101.0,min,United States
+Striptease,Striptease,1996.0,50000000.0,113309743.0,115.0,Movie,117.0,min,United States
+Heavy,Heavy,1995.0,,,105.0,Movie,104.0,min,United States
+Trainspotting,Trainspotting,1996.0,4000000.0,16491080.0,93.0,Movie,94.0,min,United Kingdom
+Kingpin,Kingpin,1996.0,27000000.0,25023434.0,113.0,Movie,114.0,min,United States
+The Nutty Professor,The Nutty Professor,1996.0,54000000.0,128769345.0,95.0,Movie,95.0,min,United States
+The First Wives Club,The First Wives Club,1996.0,26000000.0,116400000.0,102.0,Movie,103.0,min,United States
+The Trigger Effect,The Trigger Effect,1996.0,8000000.0,,94.0,Movie,94.0,min,United States
+My Fair Lady,My Fair Lady,1964.0,17000000.0,72070731.0,170.0,Movie,173.0,min,United States
+Gigi,Gigi,1958.0,,,116.0,Movie,115.0,min,United States
+Cat on a Hot Tin Roof,Cat on a Hot Tin Roof,1958.0,3000000.0,17570324.0,108.0,Movie,108.0,min,United States
+Bliss,Bliss,1997.0,,294064.0,103.0,Movie,103.0,min,"Canada, United States"
+Maximum Risk,Maximum Risk,1996.0,25000000.0,51702483.0,100.0,Movie,101.0,min,United States
+Willy Wonka & the Chocolate Factory,Willy Wonka & the Chocolate Factory,1971.0,3000000.0,4000000.0,100.0,Movie,100.0,min,"United States, East Germany, West Germany"
+Bonnie and Clyde,Bonnie and Clyde,1967.0,2500000.0,50700000.0,111.0,Movie,111.0,min,United States
+Platoon,Platoon,1986.0,6000000.0,138530565.0,120.0,Movie,120.0,min,"United States, United Kingdom"
+Basic Instinct,Basic Instinct,1992.0,49000000.0,352927224.0,127.0,Movie,128.0,min,"United States, France"
+The Crying Game,The Crying Game,1992.0,3705538.0,62548947.0,112.0,Movie,112.0,min,"United Kingdom, Japan, United States"
+Rebel Without a Cause,Rebel Without a Cause,1955.0,1500000.0,,111.0,Movie,111.0,min,United States
+Monty Python and the Holy Grail,Monty Python and the Holy Grail,1975.0,400000.0,5028948.0,91.0,Movie,92.0,min,United Kingdom
+Strictly Ballroom,Strictly Ballroom,1992.0,3000000.0,33946224.0,94.0,Movie,95.0,min,"Australia, United Kingdom"
+Paris is Burning,Paris Is Burning,1990.0,500000.0,3779620.0,71.0,Movie,77.0,min,United States
+A Clockwork Orange,A Clockwork Orange,1971.0,2200000.0,26589000.0,136.0,Movie,137.0,min,"United Kingdom, United States"
+Once Upon a Time in the West,Once Upon a Time in the West,1968.0,5000000.0,5321508.0,175.0,Movie,166.0,min,"Italy, United States"
+GoodFellas,GoodFellas,1990.0,25000000.0,46836394.0,145.0,Movie,145.0,min,United States
+Once Upon a Time in America,Once Upon a Time in America,1984.0,30000000.0,,229.0,Movie,229.0,min,"Italy, United States"
+Raging Bull,Raging Bull,1980.0,18000000.0,23000000.0,129.0,Movie,129.0,min,United States
+Cool Hand Luke,Cool Hand Luke,1967.0,3000000.0,16217773.0,126.0,Movie,127.0,min,United States
+Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,1989.0,48000000.0,474171806.0,127.0,Movie,127.0,min,United States
+Forbidden Planet,Forbidden Planet,1956.0,1900000.0,3250000.0,98.0,Movie,98.0,min,United States
+Candyman,Candyman,1992.0,6000000.0,25792310.0,99.0,Movie,99.0,min,"United States, United Kingdom"
+Carrie,Carrie,1976.0,1800000.0,33800000.0,98.0,Movie,98.0,min,United States
+The Mirror Has Two Faces,The Mirror Has Two Faces,1996.0,42000000.0,,126.0,Movie,127.0,min,United States
+Sling Blade,Sling Blade,1996.0,1000000.0,24444121.0,135.0,Movie,135.0,min,United States
+Grease,Grease,1978.0,6000000.0,181813770.0,110.0,Movie,110.0,min,United States
+Under Siege,Under Siege,1992.0,35000000.0,156563139.0,103.0,Movie,102.0,min,"France, United States"
+Jaws,Jaws,1975.0,7000000.0,470654000.0,124.0,Movie,124.0,min,United States
+Jaws 2,Jaws 2,1978.0,20000000.0,187884007.0,116.0,Movie,116.0,min,United States
+Mars Attacks!,Mars Attacks!,1996.0,70000000.0,101371017.0,106.0,Movie,106.0,min,United States
+Beavis and Butt-Head Do America,Beavis and Butt-head Do America,1996.0,12000000.0,,81.0,Movie,81.0,min,United States
+Beverly Hills Ninja,Beverly Hills Ninja,1997.0,,,88.0,Movie,89.0,min,United States
+Dante's Peak,Dante's Peak,1997.0,116000000.0,178127760.0,108.0,Movie,108.0,min,United States
+Fools Rush In,Fools Rush In,1997.0,,29481428.0,109.0,Movie,109.0,min,United States
+Donnie Brasco,Donnie Brasco,1997.0,35000000.0,41954997.0,127.0,Movie,127.0,min,United States
+Rhyme & Reason,Rhyme & Reason,1997.0,,,0.0,Movie,89.0,min,United States
+Love Jones,Love Jones,1997.0,10000000.0,,104.0,Movie,109.0,min,United States
+Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,1997.0,16500000.0,67683989.0,94.0,Movie,90.0,min,United States
+Men in Black,Men in Black,1997.0,90000000.0,589390539.0,98.0,Movie,98.0,min,United States
+Event Horizon,Event Horizon,1997.0,60000000.0,26673242.0,96.0,Movie,96.0,min,"United Kingdom, United States"
+Money Talks,Money Talks,1997.0,,,97.0,Movie,96.0,min,United States
+Air Force One,Air Force One,1997.0,85000000.0,315156409.0,124.0,Movie,125.0,min,"United States, Germany"
+The Peacemaker,The Peacemaker,1997.0,50000000.0,,124.0,Movie,124.0,min,United States
+Kiss the Girls,Kiss the Girls,1997.0,27000000.0,60527873.0,115.0,Movie,116.0,min,United States
+The Game,The Game,1997.0,50000000.0,109423648.0,129.0,Movie,129.0,min,United States
+Chasing Amy,Chasing Amy,1997.0,250000.0,12021272.0,113.0,Movie,113.0,min,United States
+Stripes,Stripes,1981.0,10000000.0,85300000.0,106.0,Movie,106.0,min,United States
+The Rainmaker,The Rainmaker,1997.0,40000000.0,45916769.0,135.0,Movie,136.0,min,"United States, Germany"
+Boogie Nights,Boogie Nights,1997.0,15000000.0,43101594.0,155.0,Movie,155.0,min,United States
+Scream 2,Scream 2,1997.0,24000000.0,172363301.0,120.0,Movie,121.0,min,United States
+Tomorrow Never Dies,Tomorrow Never Dies,1997.0,110000000.0,333011068.0,119.0,Movie,119.0,min,"United Kingdom, United States"
+Jackie Brown,Jackie Brown,1997.0,12000000.0,39673162.0,154.0,Movie,154.0,min,United States
+Fallen,Fallen,1998.0,,25232289.0,124.0,Movie,124.0,min,United States
+As Good as It Gets,As Good as It Gets,1997.0,50000000.0,314178011.0,139.0,Movie,139.0,min,United States
+Kurt & Courtney,Kurt & Courtney,1998.0,,,95.0,Movie,95.0,min,United Kingdom
+Fear and Loathing in Las Vegas,Fear and Loathing in Las Vegas,1998.0,18500000.0,10680275.0,118.0,Movie,118.0,min,United States
+I Got the Hook Up,I Got the Hook Up,1998.0,,,93.0,Movie,93.0,min,United States
+Can't Hardly Wait,Can't Hardly Wait,1998.0,10000000.0,25605015.0,100.0,Movie,101.0,min,United States
+Small Soldiers,Small Soldiers,1998.0,40000000.0,54682547.0,110.0,Movie,110.0,min,United States
+Rocky,Rocky,1976.0,1000000.0,117235147.0,119.0,Movie,120.0,min,United States
+Rain Man,Rain Man,1988.0,25000000.0,412800000.0,133.0,Movie,134.0,min,United States
+Labyrinth,Labyrinth,1986.0,25000000.0,12729917.0,101.0,Movie,101.0,min,"United Kingdom, United States"
+Child's Play,Child's Play,1988.0,9000000.0,44196684.0,87.0,Movie,87.0,min,United States
+The Mask of Zorro,The Mask of Zorro,1998.0,95000000.0,250288523.0,136.0,Movie,138.0,min,"United States, Germany, Mexico"
+BASEketball,BASEketball,1998.0,,7027290.0,103.0,Movie,103.0,min,United States
+Doctor Zhivago,Doctor Zhivago,1965.0,11000000.0,111858363.0,197.0,Movie,200.0,min,"United States, Italy, United Kingdom, Liechtenstein"
+Popeye,Popeye,1980.0,20000000.0,,114.0,Movie,114.0,min,United States
+Indiana Jones and the Temple of Doom,Indiana Jones and the Temple of Doom,1984.0,28000000.0,333000000.0,118.0,Movie,119.0,min,United States
+All Dogs Go to Heaven,All Dogs Go to Heaven,1989.0,13800000.0,27100027.0,89.0,Movie,85.0,min,"Ireland, United Kingdom, United States"
+Charlotte's Web,Charlotte's Web,1973.0,,,94.0,Movie,94.0,min,United States
+The Dark Crystal,The Dark Crystal,1982.0,15000000.0,40577001.0,93.0,Movie,93.0,min,"United States, United Kingdom"
+An American Tail,An American Tail,1986.0,9000000.0,84542002.0,80.0,Movie,80.0,min,United States
+An American Tail: Fievel Goes West,An American Tail: Fievel Goes West,1991.0,,40766041.0,75.0,Movie,75.0,min,United States
+Rosemary's Baby,Rosemary's Baby,1968.0,3200000.0,33395426.0,136.0,Movie,137.0,min,United States
+Why Do Fools Fall In Love,Why Do Fools Fall in Love,1998.0,,12413650.0,116.0,Movie,116.0,min,United States
+Rounders,Rounders,1998.0,12000000.0,22921898.0,121.0,Movie,121.0,min,United States
+A Night at the Roxbury,A Night at the Roxbury,1998.0,17000000.0,30331165.0,81.0,Movie,82.0,min,United States
+What Dreams May Come,What Dreams May Come,1998.0,85000000.0,71485043.0,113.0,Movie,114.0,min,"United States, New Zealand"
+Soldier,Soldier,1998.0,75000000.0,14567883.0,99.0,Movie,155.0,min,India
+Soldier,Soldier,1998.0,,,156.0,Movie,155.0,min,India
+American History X,American History X,1998.0,20000000.0,23875127.0,119.0,Movie,119.0,min,United States
+The Waterboy,The Waterboy,1998.0,23000000.0,185991646.0,90.0,Movie,90.0,min,United States
+The Rugrats Movie,The Rugrats Movie,1998.0,30000000.0,100491683.0,79.0,Movie,81.0,min,United States
+Rocky II,Rocky II,1979.0,7000000.0,200182160.0,119.0,Movie,119.0,min,United States
+Rocky III,Rocky III,1982.0,17000000.0,270000000.0,99.0,Movie,100.0,min,United States
+Rocky IV,Rocky IV,1985.0,31000000.0,300473716.0,91.0,Movie,92.0,min,United States
+Rocky V,Rocky V,1990.0,42000000.0,119946358.0,104.0,Movie,104.0,min,United States
+The Karate Kid,The Karate Kid,1984.0,8000000.0,90815558.0,126.0,Movie,127.0,min,United States
+The Last Days,The Last Days,1998.0,,,87.0,Movie,87.0,min,United States
+Logan's Run,Logan's Run,1976.0,9000000.0,25000000.0,119.0,Movie,118.0,min,United States
+"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",1998.0,1350000.0,3897569.0,105.0,Movie,108.0,min,United Kingdom
+The Matrix,The Matrix,1999.0,63000000.0,463517383.0,136.0,Movie,136.0,min,United States
+Edge of Seventeen,Edge of Seventeen,1998.0,1500000.0,870751.0,99.0,Movie,103.0,min,United States
+Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,1999.0,33000000.0,310940086.0,95.0,Movie,95.0,min,United States
+Tarzan,Tarzan,1999.0,150000000.0,448000000.0,88.0,Movie,89.0,min,United States
+Big Daddy,Big Daddy,1999.0,34200000.0,234801895.0,93.0,Movie,93.0,min,United States
+Wild Wild West,Wild Wild West,1999.0,170000000.0,222104681.0,106.0,Movie,106.0,min,United States
+Deep Blue Sea,Deep Blue Sea,1999.0,60000000.0,73648228.0,105.0,Movie,105.0,min,"United States, Mexico"
+Mystery Men,Mystery Men,1999.0,68000000.0,29762011.0,121.0,Movie,121.0,min,United States
+Runaway Bride,Runaway Bride,1999.0,70000000.0,309457509.0,116.0,Movie,116.0,min,United States
+Lolita,Lolita,1962.0,2000000.0,9250000.0,153.0,Movie,153.0,min,"United Kingdom, United States"
+The Golden Child,The Golden Child,1986.0,25000000.0,79817939.0,94.0,Movie,94.0,min,United States
+Head On,Head On,1998.0,,378667.0,104.0,Movie,104.0,min,Australia
+The Pelican Brief,The Pelican Brief,1993.0,45000000.0,195268056.0,141.0,Movie,141.0,min,United States
+Universal Soldier: The Return,Universal Soldier: The Return,1999.0,45000000.0,10667893.0,82.0,Movie,83.0,min,United States
+In Too Deep,In Too Deep,1999.0,7000000.0,14011454.0,97.0,Movie,97.0,min,United States
+American Beauty,American Beauty,1999.0,15000000.0,356296601.0,122.0,Movie,122.0,min,United States
+Blue Streak,Blue Streak,1999.0,65000000.0,117758500.0,93.0,Movie,94.0,min,"Germany, United States"
+Double Jeopardy,Double Jeopardy,1999.0,70000000.0,177841558.0,105.0,Movie,105.0,min,"United States, Germany, Canada"
+Superstar,Superstar,1999.0,,,81.0,Movie,82.0,min,United States
+Total Recall,Total Recall,1990.0,65000000.0,261317921.0,113.0,Movie,114.0,min,"United States, Mexico"
+Ferris Bueller's Day Off,Ferris Bueller's Day Off,1986.0,6000000.0,70136369.0,103.0,Movie,103.0,min,United States
+The Blue Lagoon,The Blue Lagoon,1980.0,4500000.0,58853106.0,104.0,Movie,105.0,min,United States
+Mansfield Park,Mansfield Park,1999.0,,,112.0,Movie,112.0,min,United Kingdom
+The World Is Not Enough,The World Is Not Enough,1999.0,135000000.0,361832400.0,128.0,Movie,128.0,min,"United Kingdom, United States"
+The Natural,The Natural,1984.0,28000000.0,47951979.0,137.0,Movie,138.0,min,United States
+Midnight Run,Midnight Run,1988.0,30000000.0,38413606.0,126.0,Movie,126.0,min,United States
+Stuart Little,Stuart Little,1999.0,133000000.0,300135367.0,84.0,Movie,85.0,min,"Germany, United States"
+Magnolia,Magnolia,1999.0,37000000.0,48451803.0,188.0,Movie,189.0,min,United States
+The Talented Mr. Ripley,The Talented Mr. Ripley,1999.0,40000000.0,128798265.0,139.0,Movie,139.0,min,United States
+National Lampoon's Loaded Weapon 1,National Lampoon's Loaded Weapon 1,1993.0,,,84.0,Movie,82.0,min,
+Patriot Games,Patriot Games,1992.0,45000000.0,178051587.0,117.0,Movie,117.0,min,United States
+Howards End,Howards End,1992.0,,25966555.0,140.0,Movie,143.0,min,"United Kingdom, Japan, United States"
+Scream 3,Scream 3,2000.0,40000000.0,161834276.0,116.0,Movie,117.0,min,United States
+Snow Day,Snow Day,2000.0,,,89.0,Movie,89.0,min,United States
+The Whole Nine Yards,The Whole Nine Yards,2000.0,41300000.0,106371651.0,98.0,Movie,99.0,min,United States
+Daughters of the Dust,Daughters of the Dust,1991.0,800000.0,,112.0,Movie,112.0,min,"United Kingdom, United States"
+Final Destination,Final Destination,2000.0,23000000.0,53302314.0,98.0,Movie,98.0,min,United States
+School Daze,School Daze,1988.0,,,121.0,Movie,120.0,min,United States
+Do the Right Thing,Do the Right Thing,1989.0,6500000.0,37295445.0,120.0,Movie,120.0,min,United States
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991.0,25000000.0,78000000.0,88.0,Movie,88.0,min,"United States, Hong Kong"
+Red Dawn,Red Dawn,1984.0,4200000.0,38376497.0,114.0,Movie,114.0,min,United States
+La Bamba,La Bamba,1987.0,6500000.0,54215416.0,108.0,Movie,109.0,min,United States
+True Grit,True Grit,1969.0,,14250000.0,128.0,Movie,128.0,min,United States
+The Outlaw Josey Wales,The Outlaw Josey Wales,1976.0,3700000.0,31800000.0,135.0,Movie,136.0,min,United States
+28 Days,28 Days,2000.0,43000000.0,,103.0,Movie,104.0,min,United States
+American Psycho,American Psycho,2000.0,7000000.0,34266564.0,102.0,Movie,102.0,min,"United States, Canada"
+Where the Money is,Where the Money Is,2000.0,,,89.0,Movie,89.0,min,"Germany, United States, United Kingdom, Canada"
+The Flintstones in Viva Rock Vegas,The Flintstones in Viva Rock Vegas,2000.0,83000000.0,59468275.0,90.0,Movie,91.0,min,United States
+Battlefield Earth,Battlefield Earth,2000.0,44000000.0,21400000.0,118.0,Movie,118.0,min,United States
+Center Stage,Center Stage,2000.0,18000000.0,17200925.0,115.0,Movie,116.0,min,United States
+The Guns of Navarone,The Guns of Navarone,1961.0,6000000.0,28900000.0,158.0,Movie,156.0,min,"United Kingdom, United States"
+For the Love of Benji,For the Love of Benji,1977.0,,,85.0,Movie,84.0,min,United States
+White Christmas,White Christmas,1954.0,,,120.0,Movie,120.0,min,United States
+Mad Max,Mad Max,1979.0,400000.0,100000000.0,93.0,Movie,93.0,min,"Australia, United States"
+House Party,House Party,1990.0,2500000.0,26386000.0,100.0,Movie,104.0,min,United States
+House Party 2,House Party 2,1991.0,,,94.0,Movie,94.0,min,United States
+Croupier,Croupier,1998.0,,,94.0,Movie,95.0,min,"Ireland, United Kingdom, France, Germany"
+Scary Movie,Scary Movie,2000.0,19000000.0,278019771.0,88.0,Movie,88.0,min,United States
+What Lies Beneath,What Lies Beneath,2000.0,100000000.0,155464351.0,130.0,Movie,130.0,min,United States
+Space Cowboys,Space Cowboys,2000.0,65000000.0,128884132.0,130.0,Movie,130.0,min,United States
+The Original Kings of Comedy,The Original Kings of Comedy,2000.0,,,115.0,Movie,111.0,min,United States
+The Naked Gun: From the Files of Police Squad!,The Naked Gun: From the Files of Police Squad!,1988.0,12000000.0,78756177.0,85.0,Movie,85.0,min,United States
+The Art of War,The Art of War,2000.0,40000000.0,30199105.0,117.0,Movie,117.0,min,"United States, Canada"
+Billy Elliot,Billy Elliot,2000.0,5000000.0,110000000.0,110.0,Movie,110.0,min,"United Kingdom, France"
+Charlie's Angels,Charlie's Angels,2000.0,92000000.0,264105545.0,98.0,Movie,98.0,min,"United States, Germany"
+Little Nicky,Little Nicky,2000.0,85000000.0,,90.0,Movie,90.0,min,United States
+How the Grinch Stole Christmas,How the Grinch Stole Christmas,2000.0,123000000.0,345141403.0,104.0,Movie,105.0,min,United States
+Rugrats in Paris: The Movie,Rugrats in Paris: The Movie,2000.0,30.0,103.0,78.0,Movie,79.0,min,"Germany, United States"
+"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",2000.0,17000000.0,213525736.0,120.0,Movie,120.0,min,"Taiwan, Hong Kong, United States, China"
+Mystic Pizza,Mystic Pizza,1988.0,,,104.0,Movie,104.0,min,United States
+The Evil Dead,The Evil Dead,1981.0,350000.0,29400000.0,85.0,Movie,85.0,min,United States
+Jaws: The Revenge,Jaws: The Revenge,1987.0,23000000.0,51881013.0,89.0,Movie,91.0,min,United States
+The Longest Yard,The Longest Yard,1974.0,2900000.0,43008075.0,121.0,Movie,121.0,min,United States
+Exit Wounds,Exit Wounds,2001.0,50000000.0,79958599.0,101.0,Movie,101.0,min,United States
+Heartbreakers,Heartbreakers,2001.0,35000000.0,,123.0,Movie,124.0,min,United States
+Spy Kids,Spy Kids,2001.0,35000000.0,147934180.0,88.0,Movie,88.0,min,United States
+Along Came a Spider,Along Came a Spider,2001.0,60000000.0,105178561.0,104.0,Movie,103.0,min,"United States, Germany, Canada"
+Blow,Blow,2001.0,53000000.0,83282296.0,124.0,Movie,123.0,min,United States
+Crocodile Dundee in Los Angeles,Crocodile Dundee in Los Angeles,2001.0,21150000.0,39438674.0,92.0,Movie,95.0,min,"Australia, United States"
+Angel Eyes,Angel Eyes,2001.0,53000000.0,29700000.0,102.0,Movie,103.0,min,United States
+Evolution,Evolution,2001.0,80000000.0,98376292.0,101.0,Movie,102.0,min,United States
+Swordfish,Swordfish,2001.0,102000000.0,147080413.0,99.0,Movie,99.0,min,United States
+Legally Blonde,Legally Blonde,2001.0,18000000.0,141774679.0,96.0,Movie,96.0,min,United States
+The Score,The Score,2001.0,68000000.0,71069884.0,124.0,Movie,124.0,min,"Germany, Canada, United States"
+Dad,Dad,1989.0,19000000.0,19738015.0,117.0,Movie,117.0,min,United States
+Little Monsters,Little Monsters,1989.0,7000000.0,793775.0,102.0,Movie,102.0,min,United States
+Osmosis Jones,Osmosis Jones,2001.0,75000000.0,13596911.0,95.0,Movie,95.0,min,United States
+American Outlaws,American Outlaws,2001.0,35000000.0,13678913.0,94.0,Movie,94.0,min,United States
+Jay and Silent Bob Strike Back,Jay and Silent Bob Strike Back,2001.0,22000000.0,33788161.0,104.0,Movie,105.0,min,United States
+Tortilla Soup,Tortilla Soup,2001.0,,4574762.0,103.0,Movie,104.0,min,United States
+Training Day,Training Day,2001.0,45000000.0,104876233.0,122.0,Movie,122.0,min,United States
+Fiddler on the Roof,Fiddler on the Roof,1971.0,9000000.0,83304330.0,181.0,Movie,181.0,min,United States
+Domestic Disturbance,Domestic Disturbance,2001.0,75000000.0,54249294.0,89.0,Movie,89.0,min,United States
+Ocean's Eleven,Ocean's Eleven,1960.0,,,127.0,Movie,127.0,min,United States
+Behind Enemy Lines,Behind Enemy Lines,2001.0,40000000.0,91753202.0,106.0,TV Show,1.0,season,United States
+Not Another Teen Movie,Not Another Teen Movie,2001.0,16000000.0,66468332.0,89.0,Movie,89.0,min,United States
+Jimmy Neutron: Boy Genius,Jimmy Neutron: Boy Genius,2001.0,25000000.0,80936232.0,83.0,Movie,83.0,min,"United States, Spain"
+Kate & Leopold,Kate & Leopold,2001.0,,,118.0,Movie,118.0,min,United States
+Black Hawk Down,Black Hawk Down,2001.0,92000000.0,172989651.0,144.0,Movie,144.0,min,"United States, United Kingdom"
+Gosford Park,Gosford Park,2001.0,19800000.0,87754044.0,137.0,Movie,137.0,min,"United States, United Kingdom, Italy"
+I Am Sam,I Am Sam,2001.0,22000000.0,92542418.0,132.0,Movie,132.0,min,United States
+A Walk to Remember,A Walk to Remember,2002.0,11000000.0,41227069.0,101.0,Movie,102.0,min,United States
+Big Fat Liar,Big Fat Liar,2002.0,15000000.0,52970014.0,88.0,Movie,88.0,min,"United States, Germany"
+The Time Machine,The Time Machine,2002.0,80000000.0,123729176.0,96.0,Movie,96.0,min,"United States, United Arab Emirates"
+The Long Riders,The Long Riders,1980.0,10000000.0,15795189.0,99.0,Movie,100.0,min,United States
+Y Tu Mamá También,Y Tu Mamá También,2001.0,5000000.0,33616692.0,106.0,Movie,106.0,min,Mexico
+Panic Room,Panic Room,2002.0,48000000.0,196397415.0,111.0,Movie,112.0,min,United States
+The Sweetest Thing,The Sweetest Thing,2002.0,43000000.0,68696770.0,84.0,Movie,89.0,min,United States
+About a Boy,About a Boy,2002.0,27000000.0,129000000.0,101.0,Movie,101.0,min,"United Kingdom, United States, France, Germany"
+The Sum of All Fears,The Sum of All Fears,2002.0,68000000.0,193000000.0,124.0,Movie,124.0,min,"United States, Germany, Canada"
+Mr. Deeds,Mr. Deeds,2002.0,50000000.0,171269535.0,96.0,Movie,97.0,min,United States
+Men in Black II,Men in Black II,2002.0,140000000.0,441818803.0,88.0,Movie,88.0,min,United States
+K-19: The Widowmaker,K-19: The Widowmaker,2002.0,100000000.0,35168966.0,138.0,Movie,138.0,min,"United Kingdom, Germany, Canada, United States"
+Stuart Little 2,Stuart Little 2,2002.0,120000000.0,169956806.0,78.0,Movie,78.0,min,United States
+Austin Powers in Goldmember,Austin Powers in Goldmember,2002.0,63000000.0,296655431.0,94.0,Movie,94.0,min,United States
+Spy Kids 2: The Island of Lost Dreams,Spy Kids 2: The Island of Lost Dreams,2002.0,38000000.0,119723358.0,100.0,Movie,100.0,min,United States
+xXx,XXx,2002.0,70000000.0,277448382.0,124.0,Movie,124.0,min,United States
+Martin Lawrence Live: Runteldat,Martin Lawrence Live: Runteldat,2002.0,3000000.0,19184015.0,113.0,Movie,104.0,min,United States
+The Tuxedo,The Tuxedo,2002.0,,,98.0,Movie,99.0,min,United States
+The Ring,The Ring,2002.0,48000000.0,249348933.0,115.0,Movie,116.0,min,United States
+The Four Seasons,The Four Seasons,1981.0,,,107.0,Movie,108.0,min,United States
+Paid in Full,Paid in Full,2002.0,,3090862.0,93.0,Movie,98.0,min,United States
+Die Another Day,Die Another Day,2002.0,140000000.0,431971116.0,133.0,Movie,133.0,min,"United Kingdom, United States"
+Equilibrium,Equilibrium,2002.0,20000000.0,5359645.0,107.0,Movie,107.0,min,United States
+Zoot Suit,Zoot Suit,1981.0,,,103.0,Movie,103.0,min,United States
+The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,2002.0,79000000.0,926287400.0,179.0,Movie,179.0,min,"New Zealand, United States"
+Gangs of New York,Gangs of New York,2002.0,100000000.0,193772504.0,167.0,Movie,167.0,min,"United States, Italy"
+My Girl 2,My Girl 2,1994.0,,,99.0,Movie,99.0,min,United States
+My Girl,My Girl,1991.0,16500000.0,,102.0,Movie,102.0,min,United States
+Asoka,Asoka,2001.0,,19000000.0,155.0,Movie,168.0,min,India
+Catch Me If You Can,Catch Me If You Can,2002.0,52000000.0,352114312.0,141.0,Movie,142.0,min,"United States, Canada"
+The Pianist,The Pianist,2002.0,35000000.0,120072577.0,150.0,Movie,149.0,min,"United Kingdom, France, Poland, Germany, United States"
+City of God,City of God,2002.0,3300000.0,30641770.0,130.0,Movie,130.0,min,"Brazil, France, Germany"
+American Me,American Me,1992.0,,,125.0,Movie,126.0,min,United States
+Final Destination 2,Final Destination 2,2003.0,26000000.0,90426405.0,90.0,Movie,90.0,min,"United States, Canada"
+Dennis the Menace,Dennis the Menace,1993.0,35000000.0,117270765.0,94.0,Movie,96.0,min,United States
+The Life of David Gale,The Life of David Gale,2003.0,50000000.0,38955598.0,130.0,Movie,130.0,min,"United Kingdom, Germany, Spain, United States"
+Cradle 2 the Grave,Cradle 2 the Grave,2003.0,25000000.0,56489558.0,101.0,Movie,101.0,min,United States
+Tears of the Sun,Tears of the Sun,2003.0,70000000.0,85632458.0,121.0,Movie,121.0,min,United States
+What a Girl Wants,What a Girl Wants,2003.0,,,105.0,Movie,105.0,min,"United States, United Kingdom"
+Raising Victor Vargas,Raising Victor Vargas,2002.0,800000.0,2816116.0,88.0,Movie,88.0,min,"France, United States"
+Anger Management,Anger Management,2003.0,75000000.0,195745823.0,106.0,Movie,105.0,min,United States
+Daddy Day Care,Daddy Day Care,2003.0,60000000.0,164433867.0,92.0,Movie,93.0,min,United States
+The Matrix Reloaded,The Matrix Reloaded,2003.0,150000000.0,738599701.0,138.0,Movie,138.0,min,United States
+Good Burger,Good Burger,1997.0,,,103.0,Movie,96.0,min,United States
+Dumb and Dumberer: When Harry Met Lloyd,Dumb and Dumberer: When Harry Met Lloyd,2003.0,19000000.0,39267515.0,85.0,Movie,85.0,min,United States
+Charlie's Angels: Full Throttle,Charlie's Angels: Full Throttle,2003.0,120000000.0,259175788.0,106.0,Movie,106.0,min,United States
+Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,2003.0,200000000.0,435000000.0,109.0,Movie,109.0,min,"United States, Germany, United Kingdom"
+Bad Boys II,Bad Boys II,2003.0,130000000.0,273339556.0,147.0,Movie,147.0,min,United States
+Seabiscuit,Seabiscuit,2003.0,87000000.0,148336445.0,141.0,Movie,141.0,min,United States
+S.W.A.T.,S.W.A.T.,2003.0,80000000.0,116643346.0,117.0,Movie,117.0,min,United States
+Tremors,Tremors,1990.0,11000000.0,48572000.0,96.0,Movie,96.0,min,United States
+My Boss's Daughter,My Boss's Daughter,2003.0,14000000.0,,83.0,Movie,86.0,min,United States
+Underworld,Underworld,2003.0,22000000.0,95708457.0,121.0,Movie,121.0,min,"United States, United Kingdom, Germany, Hungary"
+Beethoven,Beethoven,1992.0,,147214049.0,87.0,Movie,87.0,min,United States
+Beethoven's 2nd,Beethoven's 2nd,1993.0,15000000.0,118243066.0,89.0,Movie,88.0,min,United States
+School of Rock,School of Rock,2003.0,35000000.0,131282949.0,108.0,Movie,110.0,min,"United States, Germany"
+Mystic River,Mystic River,2003.0,25000000.0,156822020.0,138.0,Movie,138.0,min,"United States, Australia"
+Kill Bill: Vol. 1,Kill Bill: Vol. 1,2003.0,30000000.0,180949000.0,111.0,Movie,111.0,min,"United States, Japan"
+In the Cut,In the Cut,2003.0,12000000.0,23.0,119.0,Movie,118.0,min,"United Kingdom, Australia, France, United States"
+The Matrix Revolutions,The Matrix Revolutions,2003.0,150000000.0,424988211.0,129.0,Movie,129.0,min,United States
+Gothika,Gothika,2003.0,40000000.0,141591324.0,98.0,Movie,98.0,min,"United States, France, Canada, Spain"
+The Last Boy Scout,The Last Boy Scout,1991.0,29000000.0,59509925.0,105.0,Movie,105.0,min,United States
+Passenger 57,Passenger 57,1992.0,15000000.0,44065653.0,84.0,Movie,84.0,min,United States
+Streets of Fire,Streets of Fire,1984.0,14500000.0,8089290.0,93.0,Movie,94.0,min,United States
+Love Don't Cost a Thing,Love Don't Cost a Thing,2003.0,,,105.0,Movie,101.0,min,United States
+Something's Gotta Give,Something's Gotta Give,2003.0,80000000.0,266728738.0,128.0,Movie,128.0,min,United States
+The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,2003.0,94000000.0,1118888979.0,201.0,Movie,201.0,min,"New Zealand, United States"
+Mona Lisa Smile,Mona Lisa Smile,2003.0,65000000.0,,117.0,Movie,119.0,min,United States
+Cold Mountain,Cold Mountain,2003.0,79000000.0,173013509.0,154.0,Movie,154.0,min,"United States, Italy, Romania, United Kingdom"
+Melvin Goes to Dinner,Melvin Goes to Dinner,2003.0,,,83.0,Movie,84.0,min,United States
+Chitty Chitty Bang Bang,Chitty Chitty Bang Bang,1968.0,10000000.0,,144.0,Movie,146.0,min,"United Kingdom, United States"
+Miracle,Miracle,2004.0,28000000.0,64445708.0,135.0,Movie,136.0,min,"Canada, United States"
+50 First Dates,50 First Dates,2004.0,75000000.0,196482882.0,99.0,Movie,99.0,min,United States
+Starsky & Hutch,Starsky & Hutch,2004.0,60000000.0,170268750.0,101.0,Movie,101.0,min,United States
+Hellboy,Hellboy,2004.0,66000000.0,99318987.0,122.0,Movie,122.0,min,United States
+The Prince & Me,The Prince & Me,2004.0,,,111.0,Movie,111.0,min,"United States, Czech Republic"
+Kill Bill: Vol. 2,Kill Bill: Vol. 2,2004.0,30000000.0,152159461.0,136.0,Movie,137.0,min,United States
+New York Minute,New York Minute,2004.0,,,91.0,Movie,91.0,min,United States
+Enter the Dragon,Enter the Dragon,1973.0,850000.0,90000000.0,99.0,Movie,103.0,min,"Hong Kong, United States"
+Tremors 3: Back to Perfection,Tremors 3: Back to Perfection,2001.0,,,104.0,Movie,104.0,min,United States
+A Bridge Too Far,A Bridge Too Far,1977.0,22000000.0,50750000.0,175.0,Movie,176.0,min,"United States, United Kingdom"
+Mean Streets,Mean Streets,1973.0,500000.0,3000000.0,110.0,Movie,112.0,min,United States
+Hamburger Hill,Hamburger Hill,1987.0,,13839404.0,112.0,Movie,110.0,min,United States
+The Cincinnati Kid,The Cincinnati Kid,1965.0,,15260000.0,102.0,Movie,103.0,min,United States
+BUtterfield 8,Butterfield 8,1960.0,,,109.0,Movie,108.0,min,United States
+Sleepover,Sleepover,2004.0,,,89.0,Movie,89.0,min,United States
+A Cinderella Story,A Cinderella Story,2004.0,19000000.0,70067909.0,95.0,Movie,95.0,min,"United States, Canada"
+Harold & Kumar Go to White Castle,Harold & Kumar Go to White Castle,2004.0,9000000.0,23936908.0,88.0,Movie,88.0,min,"United States, Canada, Germany"
+Alice Doesn't Live Here Anymore,Alice Doesn't Live Here Anymore,1974.0,,,112.0,Movie,112.0,min,United States
+Team America: World Police,Team America: World Police,2004.0,32000000.0,50907422.0,98.0,Movie,98.0,min,"United States, Germany"
+The Machinist,The Machinist,2004.0,5000000.0,8203235.0,101.0,Movie,102.0,min,"Spain, France, United Kingdom, United States"
+The Polar Express,The Polar Express,2004.0,165000000.0,305875730.0,100.0,Movie,100.0,min,United States
+National Treasure,National Treasure,2004.0,100000000.0,347451894.0,131.0,Movie,131.0,min,United States
+Christmas with the Kranks,Christmas with the Kranks,2004.0,60000000.0,,99.0,Movie,99.0,min,United States
+Ocean's Twelve,Ocean's Twelve,2004.0,110000000.0,362744280.0,125.0,Movie,125.0,min,United States
+Mutiny on the Bounty,Mutiny on the Bounty,1962.0,19000000.0,13680000.0,178.0,Movie,185.0,min,United States
+The Five Venoms,The Five Venoms,1978.0,,,98.0,Movie,97.0,min,Hong Kong
+Eddie Murphy: Delirious,Eddie Murphy: Delirious,1983.0,,,69.0,Movie,69.0,min,United States
+Killer Klowns from Outer Space,Killer Klowns from Outer Space,1988.0,1800000.0,,88.0,Movie,86.0,min,United States
+Quigley Down Under,Quigley Down Under,1990.0,,,119.0,Movie,120.0,min,"Australia, United States"
+Destiny,Destiny,1997.0,,,135.0,Movie,136.0,min,"France, Egypt"
+The End of Evangelion,The End of Evangelion,1997.0,,20000000.0,87.0,Movie,87.0,min,Japan
+Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,1998.0,1530000.0,15306000.0,185.0,Movie,185.0,min,India
+Kabhi Khushi Kabhie Gham,Kabhi Khushi Kabhie Gham,2001.0,,,210.0,Movie,209.0,min,India
+Dil Chahta Hai,Dil Chahta Hai,2001.0,2079000.0,4099000.0,183.0,Movie,185.0,min,India
+The Gathering,The Gathering,2003.0,,,92.0,Movie,124.0,min,Indonesia
+Tremors 4: The Legend Begins,Tremors 4: The Legend Begins,2004.0,5000000.0,,101.0,Movie,101.0,min,United States
+Kal Ho Naa Ho,Kal Ho Naa Ho,2003.0,,13200241.0,186.0,Movie,187.0,min,India
+Inuyasha the Movie 2: The Castle Beyond the Looking Glass,InuYasha the Movie 2: The Castle Beyond the Looking Glass,2002.0,,,99.0,Movie,99.0,min,Japan
+The Interpreter,The Interpreter,2005.0,80000000.0,162944923.0,128.0,Movie,128.0,min,"United Kingdom, France, Germany, United States"
+Layer Cake,Layer Cake,2004.0,6500000.0,11850214.0,105.0,Movie,105.0,min,United Kingdom
+Jerry Seinfeld: I'm Telling You for the Last Time,Jerry Seinfeld: I'm Telling You for the Last Time,1998.0,,,75.0,Movie,69.0,min,United States
+Million Dollar Baby,Million Dollar Baby,2004.0,30000000.0,216763646.0,132.0,Movie,133.0,min,United States
+Charlie and the Chocolate Factory,Charlie and the Chocolate Factory,2005.0,150000000.0,474968763.0,115.0,Movie,115.0,min,"United Kingdom, United States"
+The Phantom of the Opera,The Phantom of the Opera,2004.0,70000000.0,154648887.0,143.0,Movie,141.0,min,"United Kingdom, United States"
+Coach Carter,Coach Carter,2005.0,30000000.0,76669806.0,136.0,Movie,137.0,min,"United States, Germany"
+Hitch,Hitch,2005.0,70000000.0,368100420.0,118.0,Movie,118.0,min,United States
+Kung Fu Hustle,Kung Fu Hustle,2004.0,20000000.0,100914445.0,99.0,Movie,99.0,min,"Hong Kong, China, United States"
+Whisky,Whisky,2004.0,,,99.0,Movie,98.0,min,"Uruguay, Argentina, Germany, Spain"
+The Amityville Horror,The Amityville Horror,2005.0,19000000.0,108047131.0,90.0,Movie,89.0,min,United States
+King's Ransom,King's Ransom,2005.0,,,95.0,Movie,98.0,min,"United States, Canada"
+xXx: State of the Union,XXX: State of the Union,2005.0,60000000.0,71073932.0,101.0,Movie,101.0,min,United States
+Crash,Crash,2004.0,6500000.0,98410061.0,112.0,Movie,112.0,min,"United States, Germany"
+300 Miles to Heaven,300 Miles to Heaven,1989.0,,,0.0,Movie,93.0,min,"Denmark, France, Poland"
+Monster-in-Law,Monster-in-Law,2005.0,43000000.0,154749918.0,101.0,Movie,101.0,min,"United States, Germany"
+The Adventures of Sharkboy and Lavagirl,The Adventures of Sharkboy and Lavagirl,2005.0,50000000.0,69425966.0,92.0,Movie,93.0,min,United States
+Rize,Rize,2005.0,,,86.0,Movie,87.0,min,"United States, United Kingdom"
+Hustle & Flow,Hustle & Flow,2005.0,8000000.0,23563727.0,116.0,Movie,117.0,min,United States
+The Dukes of Hazzard,The Dukes of Hazzard,2005.0,50000000.0,110803676.0,104.0,Movie,104.0,min,United States
+Junebug,Junebug,2005.0,,,106.0,Movie,107.0,min,United States
+The Great Raid,The Great Raid,2005.0,80000000.0,10166502.0,132.0,Movie,133.0,min,"United States, Australia"
+Main Hoon Na,Main Hoon Na,2004.0,,,175.0,Movie,171.0,min,India
+The Brothers Grimm,The Brothers Grimm,2005.0,88000000.0,105316267.0,118.0,Movie,119.0,min,"United States, Czech Republic, United Kingdom"
+Doom,Doom,2005.0,60000000.0,55987321.0,105.0,Movie,105.0,min,"United Kingdom, Czech Republic, Germany, United States"
+Waiting...,Waiting...,2005.0,3000000.0,18637690.0,94.0,Movie,94.0,min,United States
+Æon Flux,Æon Flux,2005.0,62000000.0,52304001.0,93.0,Movie,93.0,min,United States
+An Unfinished Life,An Unfinished Life,2005.0,30000000.0,18618284.0,108.0,Movie,108.0,min,"Germany, United States"
+Zozo,Zozo,2005.0,5600000.0,,105.0,Movie,99.0,min,"Sweden, Czech Republic, United Kingdom, Denmark, Netherlands"
+No Direction Home: Bob Dylan,No Direction Home: Bob Dylan,2005.0,2000000.0,,208.0,Movie,208.0,min,"United Kingdom, United States, Japan"
+The Squid and the Whale,The Squid and the Whale,2005.0,1500000.0,11098131.0,81.0,Movie,81.0,min,United States
+Chicken Little,Chicken Little,2005.0,150000000.0,314432665.0,81.0,Movie,82.0,min,United States
+Just Friends,Just Friends,2005.0,,50817508.0,96.0,Movie,94.0,min,"Germany, United States, Canada"
+Memoirs of a Geisha,Memoirs of a Geisha,2005.0,85000000.0,162242962.0,145.0,Movie,145.0,min,"France, Japan, United States"
+Richard Pryor: Live in Concert,Richard Pryor: Live in Concert,1979.0,,,78.0,Movie,79.0,min,United States
+Paheli,Paheli,2005.0,,,141.0,Movie,134.0,min,India
+Final Destination 3,Final Destination 3,2006.0,25000000.0,117719158.0,93.0,Movie,93.0,min,"United States, Germany"
+The Pink Panther,The Pink Panther,2006.0,,,93.0,Movie,93.0,min,"United States, Czech Republic"
+Freedomland,Freedomland,2006.0,37665000.0,14655628.0,113.0,Movie,113.0,min,United States
+16 Blocks,16 Blocks,2006.0,55000000.0,65664721.0,105.0,Movie,102.0,min,"United States, Germany"
+The Lives of Others,The Lives of Others,2006.0,2000000.0,70000000.0,137.0,Movie,138.0,min,Germany
+Brick,Brick,2005.0,475000.0,3919254.0,110.0,Movie,110.0,min,United States
+Shutter,Shutter,2004.0,,,97.0,Movie,96.0,min,Thailand
+Poseidon,Poseidon,2006.0,160000000.0,181674817.0,99.0,Movie,98.0,min,United States
+The Da Vinci Code,The Da Vinci Code,2006.0,125000000.0,767820459.0,149.0,Movie,149.0,min,"United States, Malta, France, United Kingdom"
+The Break-Up,The Break-Up,2006.0,52000000.0,204999686.0,106.0,Movie,107.0,min,United States
+Nacho Libre,Nacho Libre,2006.0,32000000.0,80197993.0,92.0,Movie,92.0,min,"United States, Mexico"
+The Lake House,The Lake House,2006.0,40000000.0,114830111.0,99.0,Movie,98.0,min,United States
+Click,Click,2006.0,82500000.0,237681299.0,107.0,Movie,108.0,min,United States
+Lady in the Water,Lady in the Water,2006.0,75000000.0,42285169.0,110.0,Movie,110.0,min,United States
+Superman Returns,Superman Returns,2006.0,270000000.0,391081192.0,154.0,Movie,154.0,min,United States
+Babel,Babel,2006.0,25000000.0,135330182.0,143.0,Movie,143.0,min,"France, United States, Mexico"
+Monster House,Monster House,2006.0,75000000.0,140175006.0,91.0,Movie,91.0,min,United States
+Talladega Nights: The Ballad of Ricky Bobby,Talladega Nights: The Ballad of Ricky Bobby,2006.0,72500000.0,162966177.0,116.0,Movie,108.0,min,United States
+World Trade Center,World Trade Center,2006.0,63000000.0,162945894.0,128.0,Movie,129.0,min,United States
+Stranger Than Fiction,Stranger than Fiction,2006.0,30000000.0,53653224.0,113.0,Movie,113.0,min,"United States, United Kingdom"
+The Pursuit of Happyness,The Pursuit of Happyness,2006.0,55000000.0,307077295.0,117.0,Movie,117.0,min,United States
+The Death of Mr. Lazarescu,The Death of Mr. Lazarescu,2005.0,,,150.0,Movie,154.0,min,Romania
+Zoom,Zoom,2006.0,35000000.0,12506188.0,83.0,Movie,88.0,min,United States
+Accepted,Accepted,2006.0,23000000.0,38505009.0,93.0,Movie,93.0,min,United States
+The Queen,The Queen,2006.0,15000000.0,123384128.0,103.0,Movie,103.0,min,"United Kingdom, United States, France, Italy"
+Initial D,Initial D,2005.0,1549000.0,7096000.0,107.0,Movie,109.0,min,"China, Hong Kong"
+Yuva,Yuva,2004.0,,,161.0,Movie,160.0,min,India
+Pan's Labyrinth,Pan's Labyrinth,2006.0,19000000.0,83258226.0,118.0,Movie,119.0,min,"Mexico, Spain"
+Open Season,Open Season,2006.0,85000000.0,197309027.0,83.0,Movie,86.0,min,United States
+The Departed,The Departed,2006.0,90000000.0,289847354.0,151.0,Movie,151.0,min,"United States, Hong Kong"
+Employee of the Month,Employee of the Month,2006.0,12000000.0,38368909.0,103.0,Movie,108.0,min,United States
+Casino Royale,Casino Royale,2006.0,150000000.0,599045960.0,144.0,Movie,145.0,min,"United Kingdom, Czech Republic, United States, Germany, Bahamas"
+Tenacious D in The Pick of Destiny,Tenacious D in The Pick of Destiny,2006.0,22000000.0,13405595.0,93.0,Movie,94.0,min,"United States, Germany"
+Unaccompanied Minors,Unaccompanied Minors,2006.0,26000000.0,,90.0,Movie,90.0,min,United States
+Freedom Writers,Freedom Writers,2007.0,21000000.0,41170784.0,123.0,Movie,124.0,min,"Germany, United States"
+Code Name: The Cleaner,Code Name: The Cleaner,2007.0,20000000.0,10337477.0,84.0,Movie,91.0,min,United States
+Loving Annabelle,Loving Annabelle,2006.0,900000.0,,76.0,Movie,77.0,min,United States
+The Secret,The Secret,2006.0,,,90.0,Movie,91.0,min,"Australia, United States"
+Trailer Park Boys: The Movie,Trailer Park Boys: The Movie,2006.0,5000000.0,3833507.0,95.0,Movie,95.0,min,Canada
+Ghost Rider,Ghost Rider,2007.0,110000000.0,228738393.0,114.0,Movie,110.0,min,"United States, Australia"
+Next,Next,2007.0,70000000.0,76066841.0,96.0,Movie,96.0,min,United States
+Zodiac,Zodiac,2007.0,65000000.0,84785914.0,157.0,Movie,158.0,min,United States
+Becoming Jane,Becoming Jane,2007.0,16500000.0,37311672.0,120.0,Movie,121.0,min,"United Kingdom, Ireland"
+Perfect Stranger,Perfect Stranger,2007.0,60795000.0,73090611.0,109.0,Movie,109.0,min,United States
+Fracture,Fracture,2007.0,,91354215.0,113.0,Movie,113.0,min,"United States, Germany"
+Spider-Man 3,Spider-Man 3,2007.0,258000000.0,890871626.0,139.0,Movie,139.0,min,United States
+Hairspray,Hairspray,2007.0,50000000.0,90450008.0,117.0,Movie,116.0,min,"United States, United Kingdom, Canada"
+Dragon Tiger Gate,Dragon Tiger Gate,2006.0,,8685526.0,94.0,Movie,94.0,min,"Hong Kong, China"
+Ocean's Thirteen,Ocean's Thirteen,2007.0,85000000.0,311312624.0,122.0,Movie,122.0,min,United States
+Surf's Up,Surf's Up,2007.0,85000000.0,149044513.0,85.0,Movie,86.0,min,"United States, Canada"
+Evan Almighty,Evan Almighty,2007.0,175000000.0,173000000.0,96.0,Movie,96.0,min,United States
+Across the Universe,Across the Universe,2007.0,,,133.0,Movie,133.0,min,"United States, United Kingdom"
+Hot Rod,Hot Rod,2007.0,,14334401.0,88.0,Movie,88.0,min,United States
+Stardust,Stardust,2007.0,70000000.0,135560026.0,127.0,Movie,128.0,min,"United Kingdom, United States"
+No Reservations,No Reservations,2007.0,28000000.0,92601050.0,104.0,Movie,104.0,min,United States
+Superbad,Superbad,2007.0,20000000.0,121463226.0,113.0,Movie,113.0,min,United States
+War,War,2007.0,25000000.0,40452643.0,103.0,Movie,103.0,min,"United States, Canada"
+The Brave One,The Brave One,2007.0,70000000.0,69766619.0,122.0,Movie,122.0,min,United States
+Rang De Basanti,Rang De Basanti,2006.0,2200000.0,11502151.0,157.0,Movie,159.0,min,India
+Mr. Woodcock,Mr. Woodcock,2007.0,22000000.0,,87.0,Movie,88.0,min,United States
+Good Luck Chuck,Good Luck Chuck,2007.0,25000000.0,59192128.0,101.0,Movie,99.0,min,"United States, Canada"
+Into the Wild,Into the Wild,2007.0,15000000.0,56255142.0,148.0,Movie,148.0,min,United States
+The Heartbreak Kid,The Heartbreak Kid,2007.0,60000000.0,127766650.0,116.0,Movie,116.0,min,United States
+The Jane Austen Book Club,The Jane Austen Book Club,2007.0,,,106.0,Movie,106.0,min,United States
+Return to the 36th Chamber,Return To The 36th Chamber,1980.0,,,99.0,Movie,97.0,min,Hong Kong
+Bee Movie,Bee Movie,2007.0,150000000.0,287594577.0,91.0,Movie,92.0,min,United States
+Fred Claus,Fred Claus,2007.0,100000000.0,97838349.0,116.0,Movie,115.0,min,United States
+Beowulf,Beowulf,2007.0,70000000.0,195735876.0,115.0,Movie,114.0,min,"United States, United Kingdom"
+Murder Party,Murder Party,2007.0,190000.0,,79.0,Movie,79.0,min,United States
+Om Shanti Om,Om Shanti Om,2007.0,9100000.0,37707444.0,170.0,Movie,169.0,min,India
+The Bucket List,The Bucket List,2007.0,45000000.0,175372502.0,97.0,Movie,97.0,min,United States
+Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,2007.0,50000000.0,152000000.0,116.0,Movie,116.0,min,"United States, United Kingdom"
+There Will Be Blood,There Will Be Blood,2007.0,25000000.0,77208711.0,158.0,Movie,158.0,min,United States
+P.S. I Love You,P.S. I Love You,2007.0,30000000.0,156835339.0,126.0,Movie,126.0,min,United States
+Taare Zameen Par,Taare Zameen Par,2007.0,2600000.0,28430000.0,165.0,Movie,162.0,min,India
+Cloverfield,Cloverfield,2008.0,25000000.0,170764026.0,85.0,Movie,85.0,min,United States
+Mad Money,Mad Money,2008.0,,,104.0,Movie,99.0,min,United States
+Welcome Home Roscoe Jenkins,Welcome Home Roscoe Jenkins,2008.0,35000000.0,43650785.0,114.0,Movie,114.0,min,United States
+Vantage Point,Vantage Point,2008.0,40000000.0,151161491.0,90.0,Movie,90.0,min,United States
+The Spiderwick Chronicles,The Spiderwick Chronicles,2008.0,90000000.0,162839667.0,95.0,Movie,97.0,min,United States
+Jodhaa Akbar,Jodhaa Akbar,2008.0,8376800.0,13000000.0,213.0,Movie,214.0,min,India
+The Bank Job,The Bank Job,2008.0,20000000.0,64822796.0,112.0,Movie,112.0,min,"United Kingdom, United States, Australia"
+The Love Guru,The Love Guru,2008.0,62000000.0,41819064.0,87.0,Movie,87.0,min,"United Kingdom, Germany, United States"
+Penelope,Penelope,2006.0,15000000.0,,103.0,Movie,89.0,min,"United Kingdom, United States"
+Never Back Down,Never Back Down,2008.0,20000000.0,41627431.0,115.0,Movie,113.0,min,United States
+21,21,2008.0,35000000.0,69823199.0,123.0,Movie,123.0,min,United States
+Smart People,Smart People,2008.0,7000000.0,10569964.0,95.0,Movie,95.0,min,United States
+The Aerial,The Aerial,2007.0,,,99.0,Movie,99.0,min,Argentina
+Harold & Kumar Escape from Guantanamo Bay,Harold & Kumar Escape from Guantanamo Bay,2008.0,12000000.0,43493123.0,107.0,Movie,101.0,min,United States
+The Forbidden Kingdom,The Forbidden Kingdom,2008.0,55000000.0,127906624.0,104.0,Movie,104.0,min,"United States, China"
+Prom Night,Prom Night,2008.0,,14796236.0,88.0,Movie,88.0,min,"United States, Canada"
+Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones and the Kingdom of the Crystal Skull,2008.0,185000000.0,786636033.0,122.0,Movie,123.0,min,United States
+The Strangers,The Strangers,2008.0,9000000.0,82391145.0,86.0,Movie,85.0,min,United States
+Kung Fu Panda,Kung Fu Panda,2008.0,130000000.0,631744560.0,90.0,Movie,94.0,min,"United States, China"
+You Don't Mess with the Zohan,You Don't Mess with the Zohan,2008.0,90000000.0,201596308.0,113.0,Movie,113.0,min,United States
+Get Smart,Get Smart,2008.0,80000000.0,230685453.0,110.0,Movie,110.0,min,United States
+Just Another Love Story,Just Another Love Story,2007.0,,,100.0,Movie,104.0,min,Denmark
+Death Note,DEATH NOTE,2006.0,20000000.0,27793200.0,126.0,TV Show,1.0,season,Japan
+Felon,Felon,2008.0,2900000.0,,103.0,Movie,104.0,min,United States
+Step Brothers,Step Brothers,2008.0,65000000.0,128107642.0,98.0,Movie,98.0,min,United States
+Frozen River,Frozen River,2008.0,,,97.0,Movie,97.0,min,United States
+Pineapple Express,Pineapple Express,2008.0,27000000.0,101624843.0,111.0,Movie,112.0,min,United States
+The Longshots,The Longshots,2008.0,,,94.0,Movie,95.0,min,United States
+Traitor,Traitor,2008.0,22000000.0,23530831.0,114.0,Movie,114.0,min,United States
+Righteous Kill,Righteous Kill,2008.0,60000000.0,73174566.0,101.0,Movie,101.0,min,United States
+Nights in Rodanthe,Nights in Rodanthe,2008.0,,84375061.0,97.0,Movie,97.0,min,"United States, Australia"
+Rachel Getting Married,Rachel Getting Married,2008.0,,,113.0,Movie,113.0,min,United States
+Zack and Miri Make a Porno,Zack and Miri Make a Porno,2008.0,24000000.0,42105111.0,102.0,Movie,101.0,min,United States
+Flash of Genius,Flash of Genius,2008.0,,,119.0,Movie,119.0,min,"Canada, United States"
+Madagascar: Escape 2 Africa,Madagascar: Escape 2 Africa,2008.0,150000000.0,603900354.0,89.0,Movie,91.0,min,United States
+Quantum of Solace,Quantum of Solace,2008.0,200000000.0,586090727.0,106.0,Movie,106.0,min,"United Kingdom, United States"
+Sex Drive,Sex Drive,2008.0,19000000.0,18755936.0,109.0,Movie,109.0,min,United States
+Bolt,Bolt,2008.0,150000000.0,309979994.0,98.0,Movie,99.0,min,United States
+Milk,Milk,2008.0,20000000.0,54586584.0,128.0,Movie,128.0,min,United States
+Milk,Milk,2008.0,,,102.0,Movie,128.0,min,United States
+Twilight,Twilight,2008.0,37000000.0,392616625.0,122.0,Movie,122.0,min,United States
+Four Christmases,Four Christmases,2008.0,80000000.0,163733697.0,88.0,Movie,88.0,min,"Germany, United States"
+Igor,Igor,2008.0,25000000.0,30000000.0,87.0,Movie,87.0,min,"United States, France"
+Doubt,Doubt,2008.0,20000000.0,50907234.0,104.0,Movie,104.0,min,United States
+Gran Torino,Gran Torino,2008.0,33000000.0,269958228.0,116.0,Movie,117.0,min,"Germany, United States"
+Seven Pounds,Seven Pounds,2008.0,55000000.0,168167691.0,123.0,Movie,123.0,min,United States
+Why We Fight: The Battle of Russia,Why We Fight: The Battle of Russia,1943.0,,,83.0,Movie,82.0,min,United States
+Yes Man,Yes Man,2008.0,70000000.0,225990978.0,104.0,Movie,104.0,min,"United States, United Kingdom"
+Bedtime Stories,Bedtime Stories,2008.0,80000000.0,212874442.0,99.0,Movie,100.0,min,United States
+Revolutionary Road,Revolutionary Road,2008.0,35000000.0,75225693.0,119.0,Movie,120.0,min,"United States, United Kingdom"
+Wild Child,Wild Child,2008.0,20000000.0,21972336.0,98.0,Movie,98.0,min,"United States, United Kingdom, France"
+Defiance,Defiance,2008.0,32000000.0,51155219.0,137.0,Movie,137.0,min,United States
+Open Season 2,Open Season 2,2008.0,,,76.0,Movie,76.0,min,"United States, Canada"
+Ip Man,Ip Man,2008.0,11715578.0,21888598.0,108.0,Movie,107.0,min,"Hong Kong, China"
+Underworld: Rise of the Lycans,Underworld: Rise of the Lycans,2009.0,35000000.0,91353501.0,92.0,Movie,92.0,min,"United States, New Zealand"
+Inkheart,Inkheart,2008.0,60000000.0,57490374.0,106.0,Movie,106.0,min,"Germany, United Kingdom, United States"
+Paul Blart: Mall Cop,Paul Blart: Mall Cop,2009.0,26000000.0,183293131.0,91.0,Movie,91.0,min,United States
+Coraline,Coraline,2009.0,60000000.0,124596398.0,100.0,Movie,101.0,min,United States
+Hotel for Dogs,Hotel for Dogs,2009.0,35000000.0,73034460.0,100.0,Movie,101.0,min,"Germany, United States"
+Berlin Calling,Berlin Calling,2008.0,,,105.0,Movie,105.0,min,Germany
+Friday the 13th,Friday the 13th,2009.0,19000000.0,91379051.0,97.0,Movie,97.0,min,United States
+Knowing,Knowing,2009.0,50000000.0,155446362.0,121.0,Movie,121.0,min,"United States, United Kingdom, Australia"
+17 Again,17 Again,2009.0,20000000.0,136267476.0,102.0,Movie,102.0,min,United States
+Inglourious Basterds,Inglourious Basterds,2009.0,70000000.0,319131050.0,153.0,Movie,153.0,min,"Germany, United States"
+State of Play,State of Play,2009.0,60000000.0,87784194.0,127.0,Movie,127.0,min,"United States, United Kingdom, France"
+Moon,Moon,2009.0,5000000.0,9760104.0,97.0,Movie,97.0,min,"United Kingdom, United States"
+Aamir,Aamir,2008.0,364000.0,,99.0,Movie,95.0,min,India
+Star Trek,Star Trek,2009.0,150000000.0,385680446.0,127.0,Movie,128.0,min,"United States, Germany"
+Angels & Demons,Angels & Demons,2009.0,150000000.0,356613439.0,138.0,Movie,139.0,min,"United States, Italy"
+Terminator Salvation,Terminator Salvation,2009.0,200000000.0,371353001.0,115.0,Movie,115.0,min,"United States, Germany, United Kingdom, Italy"
+Billu,Billu,2009.0,5750000.0,10000000.0,137.0,Movie,132.0,min,India
+Imagine That,Imagine That,2009.0,55000000.0,,107.0,Movie,108.0,min,"United States, Germany"
+Tyson,Tyson,2008.0,,,90.0,Movie,90.0,min,"United States, France"
+Garfield's Pet Force,Garfield's Pet Force,2009.0,,,78.0,Movie,78.0,min,"South Korea, United States"
+My Sister's Keeper,My Sister's Keeper,2009.0,30000000.0,95714875.0,109.0,Movie,109.0,min,United States
+The Imaginarium of Doctor Parnassus,The Imaginarium of Doctor Parnassus,2009.0,30000000.0,64352607.0,123.0,Movie,123.0,min,"United Kingdom, Canada, France, United States"
+The Ugly Truth,The Ugly Truth,2009.0,38000000.0,205298907.0,96.0,Movie,96.0,min,United States
+District 9,District 9,2009.0,30000000.0,210819611.0,112.0,Movie,112.0,min,"South Africa, United States, New Zealand, Canada"
+Julie & Julia,Julie & Julia,2009.0,40000000.0,129540499.0,123.0,Movie,123.0,min,United States
+Race to Witch Mountain,Race to Witch Mountain,2009.0,50000000.0,106303988.0,98.0,Movie,99.0,min,United States
+"The Goods: Live Hard, Sell Hard","The Goods: Live Hard, Sell Hard",2009.0,10000000.0,,90.0,Movie,89.0,min,United States
+The Time Traveler's Wife,The Time Traveler's Wife,2009.0,39000000.0,101229792.0,107.0,Movie,107.0,min,United States
+The Haunting of Molly Hartley,The Haunting of Molly Hartley,2008.0,,,82.0,Movie,85.0,min,United States
+G-Force,G-Force,2009.0,150000000.0,292817841.0,88.0,Movie,88.0,min,United States
+9,9,2009.0,30000000.0,48428063.0,79.0,Movie,80.0,min,United States
+The Men Who Stare at Goats,The Men Who Stare at Goats,2009.0,24000000.0,68729358.0,93.0,Movie,94.0,min,"United States, United Kingdom"
+The Informant!,The Informant!,2009.0,22000000.0,35424826.0,108.0,Movie,108.0,min,United States
+The Final Destination,The Final Destination,2009.0,40000000.0,186167139.0,82.0,Movie,82.0,min,United States
+Cloudy with a Chance of Meatballs,Cloudy with a Chance of Meatballs,2009.0,100000000.0,242988466.0,90.0,Movie,90.0,min,"United States, Canada"
+Bright Star,Bright Star,2009.0,8500000.0,4440055.0,119.0,Movie,119.0,min,"United Kingdom, Australia, France"
+Chronicle of an Escape,Chronicle of an Escape,2006.0,,,103.0,Movie,104.0,min,Argentina
+Paranormal Activity,Paranormal Activity,2007.0,15000.0,193355800.0,86.0,Movie,86.0,min,United States
+A Serious Man,A Serious Man,2009.0,7000000.0,31430334.0,105.0,Movie,106.0,min,"United States, United Kingdom, France"
+The Invention of Lying,The Invention of Lying,2009.0,18500000.0,31912793.0,100.0,Movie,99.0,min,United States
+Zombieland,Zombieland,2009.0,23600000.0,102391382.0,88.0,Movie,88.0,min,United States
+Jab We Met,Jab We Met,2007.0,2300000.0,4600000.0,145.0,Movie,143.0,min,India
+Shorts,Shorts,2009.0,40000000.0,28972508.0,89.0,Movie,89.0,min,"United States, United Arab Emirates"
+The Stepfather,The Stepfather,2009.0,,,101.0,Movie,102.0,min,United States
+Afterschool,Afterschool,2008.0,,,122.0,Movie,107.0,min,United States
+Up in the Air,Up in the Air,2009.0,25000000.0,163670000.0,109.0,Movie,110.0,min,United States
+A Dangerous Woman,A Dangerous Woman,1993.0,,,102.0,Movie,101.0,min,United States
+Cirque du Freak: The Vampire's Assistant,Cirque du Freak: The Vampire's Assistant,2009.0,40000000.0,28169671.0,109.0,Movie,109.0,min,United States
+Good Hair,Good Hair,2009.0,,,95.0,Movie,96.0,min,United States
+2012,2012,2009.0,200000000.0,769653595.0,158.0,Movie,158.0,min,United States
+The Box,The Box,2009.0,30000000.0,33333531.0,115.0,Movie,116.0,min,United States
+The Twilight Saga: New Moon,The Twilight Saga: New Moon,2009.0,50000000.0,709827462.0,130.0,Movie,131.0,min,United States
+Ninja Assassin,Ninja Assassin,2009.0,40000000.0,60462347.0,99.0,Movie,99.0,min,"Germany, United States, France"
+Planet 51,Planet 51,2009.0,70000000.0,104945765.0,91.0,Movie,91.0,min,"Spain, United Kingdom, United States"
+A Single Man,A Single Man,2009.0,7000000.0,,101.0,Movie,100.0,min,United States
+The Lovely Bones,The Lovely Bones,2009.0,65000000.0,93525586.0,136.0,Movie,136.0,min,"United States, United Kingdom, New Zealand"
+Invictus,Invictus,2009.0,60000000.0,122233971.0,134.0,Movie,134.0,min,United States
+The Princess and the Frog,The Princess and the Frog,2009.0,105000000.0,267045765.0,97.0,Movie,98.0,min,United States
+Sherlock Holmes,Sherlock Holmes,2009.0,90000000.0,524028679.0,128.0,Movie,128.0,min,"United States, Germany, United Kingdom, Australia"
+Guru,Guru,2007.0,4700000.0,31000000.0,166.0,Movie,155.0,min,India
+Carriers,Carriers,2009.0,,5802422.0,84.0,Movie,85.0,min,United States
+Hachi: A Dog's Tale,Hachi: A Dog's Tale,2009.0,16000000.0,47801389.0,93.0,Movie,93.0,min,"United Kingdom, United States"
+Leap Year,Leap Year,2010.0,19000000.0,29922472.0,100.0,Movie,100.0,min,"United States, Ireland"
+Leap Year,Leap Year,2010.0,,,94.0,Movie,100.0,min,"United States, Ireland"
+The Book of Eli,The Book of Eli,2010.0,80000000.0,157107755.0,118.0,Movie,118.0,min,United States
+Nowhere Boy,Nowhere Boy,2009.0,,,98.0,Movie,99.0,min,"United Kingdom, Canada"
+3 Idiots,3 Idiots,2009.0,9000000.0,70000000.0,170.0,Movie,164.0,min,India
+Legion,Legion,2010.0,26000000.0,67918658.0,100.0,Movie,100.0,min,United States
+Lucky: No Time for Love,Lucky: No Time for Love,2005.0,,,180.0,Movie,131.0,min,India
+Valentine's Day,Valentine's Day,2010.0,52000000.0,216485654.0,125.0,Movie,125.0,min,United States
+Shutter Island,Shutter Island,2010.0,80000000.0,294804195.0,138.0,Movie,139.0,min,United States
+Trailer Park Boys: Countdown to Liquor Day,Trailer Park Boys: Countdown to Liquor Day,2009.0,3500000.0,,101.0,Movie,102.0,min,Canada
+The Spy Next Door,The Spy Next Door,2010.0,28000000.0,45236543.0,94.0,Movie,94.0,min,United States
+Dear John,Dear John,2010.0,25000000.0,114977104.0,115.0,Movie,108.0,min,United States
+Under the Bombs,Under the Bombs,2007.0,,,98.0,Movie,94.0,min,"France, Lebanon, United Kingdom"
+Green Zone,Green Zone,2010.0,100000000.0,94882889.0,115.0,Movie,115.0,min,"United Kingdom, France, Spain, United States"
+From Paris with Love,From Paris with Love,2010.0,52000000.0,52826594.0,92.0,Movie,93.0,min,"France, United Kingdom, United States"
+Road Trip: Beer Pong,Road Trip: Beer Pong,2009.0,,,96.0,Movie,97.0,min,United States
+Brooklyn's Finest,Brooklyn's Finest,2009.0,17000000.0,29536299.0,133.0,Movie,133.0,min,United States
+She's Out of My League,She's Out of My League,2010.0,20000000.0,49779728.0,104.0,Movie,106.0,min,United States
+Remember Me,Remember Me,2010.0,16000000.0,56032889.0,113.0,Movie,112.0,min,United States
+The Bounty Hunter,The Bounty Hunter,2010.0,40000000.0,136000000.0,110.0,Movie,111.0,min,United States
+Case 39,Case 39,2009.0,27000000.0,29000000.0,109.0,Movie,111.0,min,"United States, Canada"
+Chloe,Chloe,2009.0,15000000.0,8459458.0,96.0,Movie,96.0,min,"United States, Canada, France"
+Clash of the Titans,Clash of the Titans,2010.0,125000000.0,232713139.0,106.0,Movie,106.0,min,"United States, United Kingdom, Australia"
+One 2 Ka 4,One 2 Ka 4,2001.0,,,178.0,Movie,160.0,min,India
+Shakti: The Power,Shakti: The Power,2002.0,,,170.0,Movie,168.0,min,India
+Chalte Chalte,Chalte Chalte,2003.0,,,167.0,Movie,166.0,min,India
+The Runaways,The Runaways,2010.0,10000000.0,2995811.0,106.0,Movie,107.0,min,United States
+Death at a Funeral,Death at a Funeral,2010.0,21000000.0,49050886.0,92.0,Movie,93.0,min,United States
+The Losers,The Losers,2010.0,25000000.0,23580000.0,97.0,Movie,97.0,min,"United States, France"
+Solomon Kane,Solomon Kane,2009.0,45000000.0,7810000.0,104.0,Movie,104.0,min,"Czech Republic, United Kingdom, France"
+Merantau,Merantau,2009.0,,,106.0,Movie,112.0,min,Indonesia
+Harishchandrachi Factory,Harishchandrachi Factory,2009.0,,,96.0,Movie,99.0,min,India
+Blue Valentine,Blue Valentine,2010.0,3500000.0,16566240.0,112.0,Movie,112.0,min,United States
+Killers,Killers,2010.0,75000000.0,98159963.0,100.0,Movie,100.0,min,United States
+Sex and the City 2,Sex and the City 2,2010.0,100000000.0,288347692.0,146.0,Movie,146.0,min,United States
+Get Him to the Greek,Get Him to the Greek,2010.0,40000000.0,90029656.0,109.0,Movie,109.0,min,United States
+Letters to Juliet,Letters to Juliet,2010.0,30000000.0,,105.0,Movie,105.0,min,United States
+Chance Pe Dance,Chance Pe Dance,2010.0,,,158.0,Movie,121.0,min,India
+Dhoondte Reh Jaoge,Dhoondte Reh Jaoge,2009.0,,,135.0,Movie,124.0,min,India
+Winter's Bone,Winter's Bone,2010.0,2000000.0,13831503.0,100.0,Movie,100.0,min,United States
+The Twilight Saga: Eclipse,The Twilight Saga: Eclipse,2010.0,68000000.0,698491347.0,124.0,Movie,124.0,min,United States
+The Last Airbender,The Last Airbender,2010.0,150000000.0,318502923.0,103.0,Movie,104.0,min,United States
+Inception,Inception,2010.0,160000000.0,825532764.0,148.0,Movie,148.0,min,"United States, United Kingdom"
+Grown Ups,Grown Ups,2010.0,80000000.0,271430189.0,102.0,Movie,103.0,min,United States
+Dinner for Schmucks,Dinner for Schmucks,2010.0,69000000.0,86387857.0,114.0,Movie,115.0,min,United States
+Amar Akbar Anthony,Amar Akbar Anthony,1977.0,,,184.0,Movie,172.0,min,India
+Ip Man 2,Ip Man 2,2010.0,12902809.0,36000000.0,109.0,Movie,108.0,min,"Hong Kong, China"
+The Other Guys,The Other Guys,2010.0,100000000.0,170432927.0,107.0,Movie,108.0,min,United States
+Scott Pilgrim vs. the World,Scott Pilgrim vs. the World,2010.0,60000000.0,47664559.0,112.0,Movie,112.0,min,"United States, United Kingdom, Canada, Japan"
+Raajneeti,Raajneeti,2010.0,,,167.0,Movie,162.0,min,India
+Accident,Accident,2009.0,,,89.0,Movie,87.0,min,Hong Kong
+Tony Manero,Tony Manero,2008.0,,,97.0,Movie,97.0,min,"Chile, Brazil"
+The Last Exorcism,The Last Exorcism,2010.0,1800000.0,67738090.0,87.0,Movie,88.0,min,"France, United States"
+San Pietro,San Pietro,1945.0,,,40.0,Movie,32.0,min,United States
+The American,The American,2010.0,20000000.0,65464324.0,104.0,Movie,105.0,min,"United States, United Kingdom"
+Resident Evil: Afterlife,Resident Evil: Afterlife,2010.0,60000000.0,300228084.0,97.0,Movie,97.0,min,"Germany, France, United States, Canada, United Kingdom"
+The Social Network,The Social Network,2010.0,40000000.0,224920315.0,120.0,Movie,121.0,min,United States
+Easy A,Easy A,2010.0,8000000.0,74952305.0,92.0,Movie,92.0,min,United States
+Eat Pray Love,Eat Pray Love,2010.0,60000000.0,204594016.0,133.0,Movie,140.0,min,United States
+Flipped,Flipped,2010.0,14000000.0,1755212.0,89.0,Movie,90.0,min,United States
+Legend of the Guardians: The Owls of Ga'Hoole,Legend of the Guardians: The Owls of Ga'Hoole,2010.0,80000000.0,140073390.0,97.0,Movie,97.0,min,"United States, Australia"
+Middle Men,Middle Men,2009.0,22000000.0,,105.0,Movie,113.0,min,United States
+Life As We Know It,Life as We Know It,2010.0,38000000.0,105610124.0,114.0,Movie,115.0,min,United States
+Luck By Chance,Luck by Chance,2009.0,,,155.0,Movie,156.0,min,India
+Shelter,Shelter,2010.0,22000000.0,851517.0,112.0,Movie,112.0,min,United States
+Due Date,Due Date,2010.0,65000000.0,211780824.0,95.0,Movie,95.0,min,United States
+The Next Three Days,The Next Three Days,2010.0,30000000.0,51148651.0,133.0,Movie,133.0,min,"United States, France"
+The King's Speech,The King's Speech,2010.0,15000000.0,414211549.0,118.0,Movie,118.0,min,"United Kingdom, United States, Australia"
+The Fighter,The Fighter,2010.0,25000000.0,93617009.0,116.0,Movie,116.0,min,United States
+Skyline,Skyline,2010.0,10000000.0,66821036.0,100.0,Movie,94.0,min,United States
+Karthik Calling Karthik,Karthik Calling Karthik,2010.0,,293500.0,155.0,Movie,135.0,min,India
+The Tourist,The Tourist,2010.0,100000000.0,278731369.0,103.0,Movie,103.0,min,"United States, France, Italy, United Kingdom"
+The Company Men,The Company Men,2010.0,15000000.0,4882577.0,104.0,Movie,105.0,min,United States
+Mujhse Shaadi Karogi,Mujhse Shaadi Karogi,2004.0,,,164.0,Movie,158.0,min,India
+Disco Dancer,Disco Dancer,1982.0,,,134.0,Movie,134.0,min,India
+Burlesque,Burlesque,2010.0,55000000.0,89519773.0,119.0,Movie,119.0,min,United States
+The Pixar Story,The Pixar Story,2007.0,,,87.0,Movie,89.0,min,United States
+Last Night,Last Night,2010.0,7000000.0,7644937.0,90.0,Movie,93.0,min,"United States, France"
+The Green Hornet,The Green Hornet,2011.0,120000000.0,227817248.0,119.0,Movie,119.0,min,United States
+Hum Aapke Hain Koun,Hum Aapke Hain Koun,1994.0,,26900000.0,206.0,Movie,193.0,min,India
+Season of the Witch,Season of the Witch,2011.0,40000000.0,88100000.0,95.0,Movie,95.0,min,United States
+Even the Rain,Even the Rain,2010.0,10600000.0,,104.0,Movie,103.0,min,"Spain, Mexico, France"
+No Strings Attached,No Strings Attached,2011.0,25000000.0,147780440.0,107.0,Movie,109.0,min,"United States, United Kingdom"
+The Lincoln Lawyer,The Lincoln Lawyer,2011.0,40000000.0,85412898.0,119.0,Movie,118.0,min,United States
+For Colored Girls,For Colored Girls,2010.0,,37000000.0,134.0,Movie,134.0,min,United States
+Unknown,Unknown,2011.0,30000000.0,130786397.0,113.0,Movie,113.0,min,"United Kingdom, Germany, France, United States"
+Rango,Rango,2011.0,135000000.0,245724603.0,107.0,Movie,110.0,min,"United States, Canada"
+Take Me Home Tonight,Take Me Home Tonight,2011.0,19000000.0,6928068.0,97.0,Movie,97.0,min,"United States, Germany"
+Battle: Los Angeles,Battle: Los Angeles,2011.0,70000000.0,202466756.0,116.0,Movie,116.0,min,United States
+Senna,Senna,2010.0,,8212430.0,106.0,Movie,106.0,min,"United Kingdom, France, United States"
+Insidious,Insidious,2010.0,1500000.0,97009150.0,103.0,Movie,103.0,min,"United States, Canada"
+Hop,Hop,2011.0,63000000.0,183953723.0,95.0,Movie,95.0,min,"United States, France, Japan"
+Arthur,Arthur,2011.0,40000000.0,45735397.0,110.0,Movie,110.0,min,United States
+Louis C.K.: Hilarious,Louis C.K.: Hilarious,2010.0,,,84.0,Movie,,nan,United States
+Kill the Irishman,Kill the Irishman,2011.0,,1188194.0,106.0,Movie,106.0,min,United States
+Soul Surfer,Soul Surfer,2011.0,18000000.0,47088990.0,106.0,Movie,106.0,min,United States
+The Roommate,The Roommate,2011.0,16000000.0,40492759.0,91.0,Movie,91.0,min,United States
+Kung Fu Panda 2,Kung Fu Panda 2,2011.0,150000000.0,665692281.0,91.0,Movie,93.0,min,"United States, China"
+Green Lantern,Green Lantern,2011.0,200000000.0,219851172.0,114.0,Movie,114.0,min,United States
+Judy Moody and the Not Bummer Summer,Judy Moody and the Not Bummer Summer,2011.0,20000000.0,14166853.0,91.0,Movie,91.0,min,United States
+Takers,Takers,2010.0,32000000.0,69055695.0,107.0,Movie,107.0,min,United States
+Delhi Belly,Delhi Belly,2011.0,4090000.0,18035000.0,102.0,Movie,101.0,min,India
+And Then Came Lola,And Then Came Lola,2009.0,,,71.0,Movie,70.0,min,United States
+The Smurfs,The Smurfs,2011.0,110000000.0,563749323.0,103.0,Movie,103.0,min,"United States, Belgium, Canada, France"
+Cairo Station,Cairo Station,1958.0,,,77.0,Movie,73.0,min,Egypt
+Our Idiot Brother,Our Idiot Brother,2011.0,10000000.0,17273593.0,90.0,Movie,90.0,min,United States
+The Help,The Help,2011.0,25000000.0,124272124.0,146.0,Movie,147.0,min,United States
+30 Minutes or Less,30 Minutes or Less,2011.0,28000000.0,40547440.0,83.0,Movie,83.0,min,United States
+Spy Kids: All the Time in the World,Spy Kids: All the Time in the World,2011.0,27000000.0,85564310.0,89.0,Movie,88.0,min,United States
+Don't Be Afraid of the Dark,Don't Be Afraid of the Dark,2010.0,25000000.0,36993168.0,99.0,Movie,99.0,min,"United States, Australia, Mexico"
+I Don't Know How She Does It,I Don't Know How She Does It,2011.0,24000000.0,30551495.0,89.0,Movie,89.0,min,United States
+Shark Night,Shark Night,2011.0,28000000.0,10126458.0,91.0,Movie,91.0,min,United States
+Zindagi Na Milegi Dobara,Zindagi Na Milegi Dobara,2011.0,,,155.0,Movie,154.0,min,India
+A Separation,A Separation,2011.0,800000.0,,123.0,Movie,123.0,min,"Iran, France"
+50/50,50/50,2011.0,8000000.0,39187783.0,100.0,Movie,100.0,min,United States
+The Artist,The Artist,2011.0,15000000.0,133432856.0,100.0,Movie,101.0,min,"France, Belgium, United States"
+Real Steel,Real Steel,2011.0,110000000.0,299268508.0,127.0,Movie,127.0,min,"United States, India"
+Hotel Pacific,Hotel Pacific,1975.0,,,94.0,Movie,96.0,min,"Poland,"
+Miss Representation,Miss Representation,2011.0,750000.0,,85.0,Movie,90.0,min,United States
+The Adventures of Tintin,The Adventures of Tintin,2011.0,130000000.0,371940071.0,107.0,Movie,107.0,min,"United States, New Zealand, United Kingdom"
+Hugo,Hugo,2011.0,170000000.0,185770160.0,126.0,Movie,127.0,min,"United Kingdom, United States, France"
+Like Crazy,Like Crazy,2011.0,250000.0,3542353.0,90.0,Movie,91.0,min,United States
+The Muppets,The Muppets,2011.0,45000000.0,165184237.0,103.0,Movie,104.0,min,United States
+War Horse,War Horse,2011.0,66000000.0,177584879.0,146.0,Movie,147.0,min,"United States, India"
+The Rum Diary,THE RUM DIARY,2011.0,45000000.0,24000000.0,120.0,Movie,120.0,min,"United States, United Kingdom"
+My Week with Marilyn,My Week with Marilyn,2011.0,6400000.0,35057696.0,99.0,Movie,99.0,min,"United Kingdom, United States"
+Singham,Singham,2011.0,3062000.0,25034000.0,143.0,Movie,142.0,min,India
+Sarah's Key,Sarah's Key,2010.0,10000000.0,17511906.0,111.0,Movie,102.0,min,France
+Arthur Christmas,Arthur Christmas,2011.0,,,97.0,Movie,98.0,min,"United Kingdom, United States"
+Young Adult,Young Adult,2011.0,12000000.0,22939027.0,94.0,Movie,94.0,min,United States
+The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,2011.0,90000000.0,232617430.0,158.0,Movie,158.0,min,"United States, Sweden, Norway"
+The Darkest Hour,The Darkest Hour,2011.0,30000000.0,64626786.0,89.0,Movie,89.0,min,"United States, Russia"
+The Devil Inside,The Devil Inside,2012.0,1000000.0,101758490.0,83.0,Movie,84.0,min,United States
+Being Elmo: A Puppeteer's Journey,Being Elmo: A Puppeteer's Journey,2011.0,,286201.0,80.0,Movie,76.0,min,United States
+The Iron Lady,The Iron Lady,2011.0,13000000.0,114956699.0,105.0,Movie,105.0,min,"United Kingdom, France"
+Underworld: Awakening,Underworld: Awakening,2012.0,70000000.0,160112671.0,88.0,Movie,89.0,min,"United States, Canada"
+Haywire,Haywire,2011.0,23000000.0,33372606.0,93.0,Movie,93.0,min,"Ireland, United States"
+14 Blades,14 Blades,2010.0,20000000.0,,114.0,Movie,113.0,min,"Hong Kong, China, Singapore"
+Apollo 18,Apollo 18,2011.0,5000000.0,25562924.0,86.0,Movie,87.0,min,"United States, Canada"
+Hostel: Part III,Hostel: Part III,2011.0,6000000.0,,88.0,Movie,88.0,min,United States
+The Intouchables,The Intouchables,2011.0,13000000.0,426480871.0,112.0,Movie,112.0,min,France
+W.E.,W.E.,2011.0,15000000.0,868439.0,119.0,Movie,119.0,min,United Kingdom
+Big Miracle,Big Miracle,2012.0,40000000.0,24719215.0,107.0,Movie,107.0,min,"United States, United Kingdom"
+Safe House,Safe House,2012.0,85000000.0,208076205.0,115.0,Movie,115.0,min,"South Africa, United States, Japan"
+Act of Valor,Act of Valor,2012.0,12000000.0,81272766.0,110.0,Movie,110.0,min,United States
+Undefeated,Undefeated,2011.0,,,113.0,Movie,113.0,min,United States
+John Carter,John Carter,2012.0,260000000.0,284139100.0,132.0,Movie,133.0,min,United States
+Forks Over Knives,Forks Over Knives,2011.0,,664747.0,90.0,Movie,96.0,min,United States
+Yes or No,Yes or No,2010.0,,,107.0,Movie,111.0,min,Thailand
+Lockout,Lockout,2012.0,20000000.0,32204030.0,95.0,Movie,95.0,min,"France, United States"
+Casa De Mi Padre,Casa de mi Padre,2012.0,,,84.0,Movie,84.0,min,"United States, Mexico"
+Jiro Dreams of Sushi,Jiro Dreams of Sushi,2011.0,,2550508.0,82.0,Movie,79.0,min,United States
+Mirror Mirror,Mirror Mirror,2012.0,85000000.0,183018522.0,106.0,Movie,106.0,min,"United States, Canada"
+Rush: Beyond the Lighted Stage,Rush: Beyond the Lighted Stage,2010.0,,,107.0,Movie,107.0,min,Canada
+Jumping the Broom,Jumping the Broom,2011.0,6600000.0,37710610.0,112.0,Movie,113.0,min,United States
+Chernobyl Diaries,Chernobyl Diaries,2012.0,,18112929.0,88.0,Movie,88.0,min,United States
+Kahaani,Kahaani,2012.0,1200000.0,16000000.0,122.0,Movie,122.0,min,India
+A Thousand Words,A Thousand Words,2012.0,40000000.0,22044277.0,91.0,Movie,92.0,min,United States
+Safety Not Guaranteed,Safety Not Guaranteed,2012.0,750000.0,4007792.0,85.0,Movie,86.0,min,United States
+Madagascar 3: Europe's Most Wanted,Madagascar 3: Europe's Most Wanted,2012.0,145000000.0,746921274.0,93.0,Movie,96.0,min,United States
+Savages,Savages,2012.0,45000000.0,82966152.0,131.0,Movie,131.0,min,United States
+ParaNorman,ParaNorman,2012.0,60000000.0,107139399.0,90.0,Movie,93.0,min,United States
+Lawless,Lawless,2012.0,26000000.0,53676580.0,115.0,Movie,116.0,min,United States
+ATM,ATM,2012.0,3000000.0,3010.0,90.0,Movie,122.0,min,"United States, Canada"
+Searching for Sugar Man,Searching for Sugar Man,2012.0,,,85.0,Movie,86.0,min,"Sweden, United Kingdom, Finland"
+6 Bullets,6 Bullets,2012.0,10000000.0,,115.0,Movie,115.0,min,United States
+Ai Weiwei: Never Sorry,Ai Weiwei: Never Sorry,2012.0,,181107.0,91.0,Movie,91.0,min,United States
+The Master,The Master,2012.0,32000000.0,28258060.0,137.0,Movie,137.0,min,United States
+Blood Money,Blood Money,2012.0,2300000.0,,106.0,Movie,110.0,min,India
+End of Watch,End of Watch,2012.0,7000000.0,48126384.0,109.0,Movie,109.0,min,United States
+The Perks of Being a Wallflower,The Perks of Being a Wallflower,2012.0,13000000.0,33400000.0,102.0,Movie,103.0,min,United States
+Bleach the Movie: Fade to Black,Bleach The Movie: Fade to Black,2008.0,,,94.0,Movie,94.0,min,Japan
+House at the End of the Street,House at the End of the Street,2012.0,6900000.0,44287131.0,101.0,Movie,101.0,min,"United States, Canada"
+The Sapphires,The Sapphires,2012.0,,,103.0,Movie,99.0,min,Australia
+Kon-Tiki,Kon-Tiki,2012.0,16600000.0,,118.0,Movie,96.0,min,"United Kingdom, Norway, Denmark, Germany, Sweden"
+Michael,Michael,2011.0,,,96.0,Movie,86.0,min,India
+Hoodwinked Too! Hood VS. Evil,Hoodwinked Too! Hood vs. Evil,2011.0,30000000.0,13521829.0,86.0,Movie,86.0,min,United States
+Cloud Atlas,Cloud Atlas,2012.0,102000000.0,130482868.0,172.0,Movie,172.0,min,"Germany, United States, Hong Kong, Singapore"
+Killing Them Softly,Killing Them Softly,2012.0,15000000.0,37930465.0,97.0,Movie,97.0,min,United States
+Silver Linings Playbook,Silver Linings Playbook,2012.0,21000000.0,205738714.0,122.0,Movie,122.0,min,United States
+Lincoln,Lincoln,2012.0,65000000.0,275293450.0,149.0,Movie,150.0,min,"United States, India"
+A Holiday Engagement,A Holiday Engagement,2011.0,,,92.0,Movie,92.0,min,United States
+Mac & Devin Go to High School,Mac & Devin Go to High School,2012.0,,,75.0,Movie,76.0,min,United States
+The Congress,The Congress,2013.0,,455815.0,122.0,Movie,123.0,min,"Israel, Germany, Poland, Luxembourg, Belgium, France, United States"
+Martial Arts of Shaolin,Martial Arts of Shaolin,1986.0,10000000.0,,90.0,Movie,90.0,min,"Hong Kong, China"
+7 Khoon Maaf,7 Khoon Maaf,2011.0,,,137.0,Movie,148.0,min,India
+Playing for Keeps,Playing for Keeps,2012.0,35000000.0,,106.0,Movie,106.0,min,United States
+Django Unchained,Django Unchained,2012.0,100000000.0,425368238.0,165.0,Movie,165.0,min,United States
+The Impossible,The Impossible,2012.0,42000000.0,180274123.0,113.0,Movie,114.0,min,"Spain, Thailand, United States"
+Les Misérables,Les Misérables,2012.0,61000000.0,441809770.0,157.0,Movie,158.0,min,"United Kingdom, United States"
+Quartet,Quartet,2012.0,11000000.0,59520298.0,98.0,Movie,98.0,min,United Kingdom
+Pusher,Pusher,2012.0,,,86.0,Movie,89.0,min,United Kingdom
+Mad Ron's Prevues from Hell,Mad Ron's Prevues from Hell,1987.0,,,83.0,Movie,84.0,min,United States
+A Haunted House,A Haunted House,2013.0,2500000.0,60141683.0,86.0,Movie,86.0,min,United States
+Ginger & Rosa,Ginger & Rosa,2012.0,,1005700.0,89.0,Movie,90.0,min,"United Kingdom, Denmark, Canada, Croatia"
+Middle of Nowhere,Middle of Nowhere,2012.0,,,101.0,Movie,102.0,min,United States
+Movie 43,Movie 43,2013.0,6000000.0,32438988.0,90.0,Movie,94.0,min,United States
+Parker,Parker,2013.0,35000000.0,46216641.0,118.0,Movie,119.0,min,United States
+After Porn Ends,After Porn Ends,2012.0,400000.0,,90.0,Movie,93.0,min,United States
+Udaan,Udaan,2010.0,,,138.0,Movie,137.0,min,India
+The Haunting in Connecticut 2: Ghosts of Georgia,The Haunting in Connecticut 2: Ghosts of Georgia,2013.0,,,101.0,Movie,101.0,min,United States
+A Glimpse Inside the Mind of Charles Swan III,A Glimpse Inside the Mind of Charles Swan III,2012.0,,,86.0,Movie,86.0,min,United States
+21 & Over,21 & Over,2013.0,13000000.0,48065672.0,93.0,Movie,93.0,min,United States
+Safe Haven,Safe Haven,2013.0,28000000.0,97594140.0,115.0,Movie,116.0,min,United States
+Frozen Planet,Frozen Planet,2011.0,,,392.0,TV Show,1.0,season,"United Kingdom, United States, Spain, Germany, Greece, Canada"
+Escape from Planet Earth,Escape from Planet Earth,2013.0,40000000.0,74597643.0,89.0,Movie,89.0,min,"United States, Canada"
+Heroine,Heroine,2012.0,,,140.0,Movie,143.0,min,India
+Dark Skies,Dark Skies,2013.0,3500000.0,25174316.0,97.0,Movie,97.0,min,United States
+Wadjda,Wadjda,2012.0,,1347747.0,98.0,Movie,93.0,min,"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States"
+Dead Man Down,Dead Man Down,2013.0,,18074539.0,118.0,Movie,118.0,min,United States
+The Croods,The Croods,2013.0,135000000.0,585178928.0,98.0,Movie,99.0,min,United States
+Life 2.0,Life 2.0,2010.0,,,100.0,Movie,99.0,min,United States
+Radio Rebel,Radio Rebel,2012.0,,,90.0,Movie,90.0,min,United States
+Unspeakable Acts,Unspeakable Acts,1990.0,,,100.0,Movie,95.0,min,United States
+Olympus Has Fallen,Olympus Has Fallen,2013.0,70000000.0,161025640.0,120.0,Movie,119.0,min,United States
+Scary Movie 5,Scary Movie 5,2013.0,20000000.0,78378744.0,86.0,Movie,88.0,min,United States
+Thor: Tales of Asgard,Thor: Tales of Asgard,2011.0,,3100000.0,77.0,Movie,77.0,min,"United States, Canada"
+Planet Hulk,Planet Hulk,2010.0,,7000000.0,81.0,Movie,81.0,min,United States
+The Grandmaster,The Grandmaster,2013.0,3860000.0,64076736.0,130.0,Movie,108.0,min,"Hong Kong, China"
+Bill Hicks: Revelations,Bill Hicks: Revelations,1993.0,,,60.0,Movie,56.0,min,United Kingdom
+Legendary Weapons of China,Legendary Weapons of China,1982.0,,,109.0,Movie,101.0,min,Hong Kong
+Reincarnated,Reincarnated,2012.0,,,98.0,Movie,96.0,min,United States
+Company of Heroes,Company of Heroes,2013.0,,,100.0,Movie,101.0,min,United States
+Players,Players,2012.0,,,165.0,Movie,162.0,min,India
+Only God Forgives,Only God Forgives,2013.0,4800000.0,10337387.0,90.0,Movie,90.0,min,"Denmark, France, United States, Sweden"
+Aftershock,Aftershock,2012.0,2000000.0,58510.0,89.0,Movie,89.0,min,"United States, Chile"
+Pyaar Ka Punchnama,Pyaar Ka Punchnama,2011.0,,,149.0,Movie,149.0,min,India
+20 Feet from Stardom,20 Feet From Stardom,2013.0,1000000.0,,89.0,Movie,91.0,min,United States
+The Bling Ring,The Bling Ring,2013.0,15000000.0,19145732.0,90.0,Movie,91.0,min,"United States, United Kingdom, France, Germany, Japan"
+Yamla Pagla Deewana 2,Yamla Pagla Deewana 2,2013.0,6800000.0,,154.0,Movie,147.0,min,India
+Jim Gaffigan: Mr. Universe,Jim Gaffigan: Mr. Universe,2012.0,,,78.0,Movie,77.0,min,United States
+The Spectacular Now,The Spectacular Now,2013.0,2500000.0,6854611.0,95.0,Movie,95.0,min,United States
+Gagarin: First in Space,Gagarin: First in Space,2013.0,7000000.0,,108.0,Movie,108.0,min,Russia
+Fruitvale Station,Fruitvale Station,2013.0,,17385830.0,85.0,Movie,85.0,min,United States
+Joker,Joker,2012.0,,,0.0,Movie,98.0,min,India
+The Conjuring,The Conjuring,2013.0,13000000.0,318000141.0,112.0,Movie,112.0,min,United States
+Mean Girls 2,Mean Girls 2,2011.0,,,96.0,Movie,98.0,min,United States
+Turbo,Turbo,2013.0,135000000.0,282570682.0,96.0,Movie,96.0,min,United States
+Out of Life,Out of Life,1991.0,,,97.0,Movie,94.0,min,"France, Belgium, Italy"
+Blue Jasmine,Blue Jasmine,2013.0,18000000.0,99206215.0,98.0,Movie,98.0,min,United States
+The Smurfs 2,The Smurfs 2,2013.0,105000000.0,347434178.0,105.0,Movie,105.0,min,"United States, France, Canada, Belgium"
+Man of Tai Chi,Man of Tai Chi,2013.0,25000000.0,2054941.0,105.0,Movie,105.0,min,"United States, China, Hong Kong"
+From One Second to the Next,From One Second to the Next,2013.0,,,34.0,Movie,35.0,min,United States
+Blackfish,Blackfish,2013.0,,2063312.0,83.0,Movie,83.0,min,United States
+Paranoia,Paranoia,2013.0,35000000.0,13785015.0,106.0,Movie,106.0,min,"United States, India, France"
+About Time,About Time,2013.0,12000000.0,87100449.0,123.0,Movie,123.0,min,United Kingdom
+Chennai Express,Chennai Express,2013.0,18000000.0,62000000.0,141.0,Movie,135.0,min,India
+The Frozen Ground,The Frozen Ground,2013.0,27220000.0,5496951.0,105.0,Movie,106.0,min,United States
+Adore,Adore,2013.0,16000000.0,318982.0,100.0,Movie,111.0,min,"Australia, France"
+Simon Killer,Simon Killer,2012.0,,,105.0,Movie,105.0,min,"United States, France"
+Instructions Not Included,Instructions Not Included,2013.0,5500000.0,99067206.0,115.0,Movie,122.0,min,Mexico
+One Direction: This Is Us,One Direction: This Is Us,2013.0,10000000.0,,92.0,Movie,92.0,min,United States
+Closed Circuit,Closed Circuit,2013.0,,5750401.0,96.0,Movie,96.0,min,"United Kingdom, United States"
+The History of Future Folk,The History of Future Folk,2012.0,,,86.0,Movie,85.0,min,United States
+Rush,Rush,2013.0,38000000.0,90247624.0,123.0,Movie,123.0,min,"United Kingdom, Germany, United States"
+Vizontele,Vizontele,2001.0,,,110.0,Movie,106.0,min,Turkey
+Short Term 12,Short Term 12,2013.0,,1600000.0,96.0,Movie,97.0,min,United States
+Grand Masti,Grand Masti,2013.0,5500000.0,47000000.0,140.0,Movie,93.0,min,India
+Shanghai,Shanghai,2012.0,,,120.0,Movie,109.0,min,India
+Special 26,Special 26,2013.0,7100000.0,18000000.0,144.0,Movie,137.0,min,India
+Blue Is the Warmest Color,Blue Is the Warmest Color,2013.0,4300000.0,10165694.0,179.0,Movie,180.0,min,"France, Belgium, Spain"
+Inequality for All,Inequality for All,2013.0,,,88.0,Movie,90.0,min,United States
+Cloudy with a Chance of Meatballs 2,Cloudy with a Chance of Meatballs 2,2013.0,78000000.0,248384621.0,95.0,Movie,95.0,min,United States
+Talaash,Talaash,2012.0,8510000.0,,149.0,Movie,140.0,min,India
+An American Girl: McKenna Shoots for the Stars,An American Girl: McKenna Shoots for the Stars,2012.0,,,85.0,Movie,94.0,min,"United States, Canada"
+Machete Kills,Machete Kills,2013.0,12000000.0,15008161.0,107.0,Movie,108.0,min,"United States, Russia"
+Race,Race,2008.0,,,161.0,Movie,155.0,min,India
+Dallas Buyers Club,Dallas Buyers Club,2013.0,5000000.0,55198285.0,117.0,Movie,117.0,min,United States
+Marc Maron: Thinky Pain,Marc Maron: Thinky Pain,2013.0,,,90.0,Movie,95.0,min,United States
+Aziz Ansari: Buried Alive,Aziz Ansari: Buried Alive,2013.0,,,79.0,Movie,80.0,min,United States
+Philomena,Philomena,2013.0,12000000.0,100129872.0,98.0,Movie,98.0,min,"United Kingdom, United States, France"
+Homefront,Homefront,2013.0,22000000.0,43058898.0,100.0,Movie,100.0,min,United States
+Mandela: Long Walk to Freedom,Mandela: Long Walk to Freedom,2013.0,35000000.0,27330000.0,141.0,Movie,141.0,min,"United Kingdom, South Africa, France"
+Her,Her,2013.0,23000000.0,47351251.0,126.0,Movie,126.0,min,United States
+Dead Set,Dead Set,2008.0,,,141.0,TV Show,1.0,season,United Kingdom
+Saving Mr. Banks,Saving Mr. Banks,2013.0,35000000.0,112544580.0,125.0,Movie,126.0,min,"United States, United Kingdom, Australia"
+A Perfect Man,A Perfect Man,2013.0,5000000.0,388.0,95.0,Movie,94.0,min,United States
+Snowpiercer,Snowpiercer,2013.0,39200000.0,86758912.0,126.0,Movie,126.0,min,"South Korea, Czech Republic"
+A Princess for Christmas,A Princess for Christmas,2011.0,,,89.0,Movie,91.0,min,United States
+The Physician,The Physician,2013.0,32000000.0,57284237.0,155.0,Movie,155.0,min,Germany
+I Am Divine,I Am Divine,2013.0,,,90.0,Movie,90.0,min,United States
+Underdogs,Underdogs,2013.0,22000000.0,24000000.0,106.0,Movie,85.0,min,"Argentina, Spain"
+The Railway Man,The Railway Man,2013.0,18000000.0,22309223.0,116.0,Movie,108.0,min,"Switzerland, United Kingdom, Australia"
+Cutie and the Boxer,Cutie and the Boxer,2013.0,,,81.0,Movie,82.0,min,United States
+The Square,The Square,2013.0,,,88.0,Movie,105.0,min,"United Kingdom, Egypt, United States"
+Concussion,Concussion,2013.0,,,96.0,Movie,96.0,min,United States
+Vizontele Tuuba,Vizontele Tuuba,2004.0,3000000.0,13954476.0,111.0,Movie,106.0,min,Turkey
+Mitt,Mitt,2014.0,,,93.0,Movie,93.0,min,United States
+Enemy,Enemy,2013.0,,3396726.0,91.0,Movie,91.0,min,"Canada, Spain, France"
+The Art of the Steal,The Art of the Steal,2013.0,,64065.0,90.0,Movie,90.0,min,"Canada, United States"
+Sabotage,Sabotage,2014.0,35000000.0,17508518.0,110.0,Movie,109.0,min,United States
+Pardes,Pardes,1997.0,,,191.0,Movie,187.0,min,India
+Don't Go Breaking My Heart,Don't Go Breaking My Heart,2011.0,,,115.0,Movie,115.0,min,Hong Kong
+GLOW: The Story of the Gorgeous Ladies of Wrestling,GLOW: The Story of the Gorgeous Ladies of Wrestling,2012.0,33157.0,,76.0,Movie,77.0,min,United States
+Highway,Highway,2014.0,,,133.0,Movie,127.0,min,India
+3 Days to Kill,3 Days to Kill,2014.0,28000000.0,52597999.0,113.0,Movie,117.0,min,"United States, France, Serbia"
+The Garden of Words,The Garden of Words,2013.0,,,46.0,Movie,46.0,min,Japan
+Kai Po Che!,Kai Po Che!,2013.0,,,120.0,Movie,120.0,min,India
+Obvious Child,Obvious Child,2014.0,,3123963.0,83.0,Movie,84.0,min,United States
+Buddies,Buddies,2012.0,2511000.0,,0.0,Movie,103.0,min,Brazil
+Mr. Peabody & Sherman,Mr. Peabody & Sherman,2014.0,145000000.0,272912430.0,92.0,Movie,93.0,min,United States
+Starred Up,Starred Up,2013.0,,54915.0,106.0,Movie,106.0,min,United Kingdom
+The Nut Job,The Nut Job,2014.0,,,85.0,Movie,85.0,min,"Canada, South Korea, United States"
+13 Sins,13 Sins,2014.0,5000000.0,13809.0,93.0,Movie,93.0,min,United States
+Muppets Most Wanted,Muppets Most Wanted,2014.0,50000000.0,80383290.0,112.0,Movie,110.0,min,United States
+Free to Play,Free to Play,2014.0,150000.0,,75.0,Movie,76.0,min,United States
+The Unknown Known,The Unknown Known,2013.0,,,102.0,Movie,103.0,min,United States
+God's Not Dead,God's Not Dead,2014.0,17000000.0,29789000.0,113.0,Movie,113.0,min,United States
+Transcendence,Transcendence,2014.0,100000000.0,103039258.0,119.0,Movie,119.0,min,"United Kingdom, China, United States"
+A Haunted House 2,A Haunted House 2,2014.0,,,87.0,Movie,86.0,min,United States
+Vampire Academy,Vampire Academy,2014.0,,,104.0,Movie,104.0,min,"United States, United Kingdom"
+Brick Mansions,Brick Mansions,2014.0,28000000.0,68896829.0,90.0,Movie,90.0,min,"France, Canada, United States, Spain"
+Mortified Nation,Mortified Nation,2013.0,,,85.0,Movie,84.0,min,United States
+Alpha and Omega 2: A Howl-iday Adventure,Alpha and Omega 2: A Howl-iday Adventure,2013.0,,,45.0,Movie,45.0,min,United States
+Good People,Good People,2014.0,,,90.0,Movie,90.0,min,"United States, United Kingdom, Denmark, Sweden"
+Walk of Shame,Walk of Shame,2014.0,15000000.0,59209.0,95.0,Movie,94.0,min,United States
+Jim Gaffigan: Obsessed,Jim Gaffigan: Obsessed,2014.0,,,70.0,Movie,70.0,min,United States
+Chef,Chef,2014.0,11000000.0,45967935.0,114.0,Movie,115.0,min,United States
+The Short Game,The Short Game,2013.0,,,100.0,Movie,100.0,min,United States
+Maps to the Stars,Maps to the Stars,2014.0,,1338365.0,112.0,Movie,112.0,min,"Canada, Germany, France, United States"
+How to Train Your Dragon 2,How to Train Your Dragon 2,2014.0,145000000.0,609123048.0,102.0,Movie,102.0,min,United States
+Jersey Boys,Jersey Boys,2014.0,40000000.0,67347013.0,134.0,Movie,134.0,min,United States
+Duplicate,Duplicate,1998.0,,,166.0,Movie,165.0,min,India
+The Great Magician,The Great Magician,2011.0,15000000.0,,128.0,Movie,128.0,min,"Hong Kong, China"
+The Battered Bastards of Baseball,The Battered Bastards of Baseball,2014.0,,,80.0,Movie,80.0,min,United States
+The Signal,The Signal,2014.0,4000000.0,600896.0,95.0,Movie,97.0,min,United States
+Wish I Was Here,Wish I Was Here,2014.0,5500000.0,5483299.0,120.0,Movie,106.0,min,United States
+Earth to Echo,Earth to Echo,2014.0,13000000.0,45300000.0,89.0,Movie,91.0,min,United States
+Life After Beth,Life After Beth,2014.0,2400000.0,88273.0,90.0,Movie,89.0,min,United States
+The Rover,The Rover,2014.0,12250000.0,2295423.0,103.0,Movie,103.0,min,"Australia, United States"
+Get on Up,Get on Up,2014.0,,31911598.0,139.0,Movie,139.0,min,"United Kingdom, United States"
+The Hundred-Foot Journey,The Hundred-Foot Journey,2014.0,22000000.0,88880821.0,122.0,Movie,123.0,min,"United States, India, United Arab Emirates"
+Jupiter Ascending,Jupiter Ascending,2015.0,176000003.0,183987723.0,124.0,Movie,128.0,min,"United States, Australia"
+Revenge of the Green Dragons,Revenge of the Green Dragons,2014.0,5000000.0,,94.0,Movie,95.0,min,"Hong Kong, United States"
+Welcome to New York,Welcome to New York,2014.0,,,125.0,Movie,108.0,min,"United States, France"
+Life of Crime,Life of Crime,2013.0,12000000.0,265452.0,94.0,Movie,101.0,min,United States
+"As Above, So Below","As Above, So Below",2014.0,5000000.0,40100000.0,93.0,Movie,93.0,min,United States
+The One I Love,The One I Love,2014.0,,,91.0,Movie,91.0,min,United States
+Camp X-Ray,Camp X-Ray,2014.0,1000000.0,59744.0,117.0,Movie,117.0,min,United States
+The Riot Club,The Riot Club,2014.0,,2146041.0,107.0,Movie,107.0,min,United Kingdom
+The November Man,The November Man,2014.0,15000000.0,32556119.0,108.0,Movie,108.0,min,"United States, United Kingdom"
+Who Am I,Who Am I,2014.0,,,105.0,Movie,102.0,min,Germany
+The Look of Silence,The Look of Silence,2014.0,,332710.0,103.0,Movie,103.0,min,"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands"
+Tusk,Tusk,2014.0,2800000.0,1826705.0,102.0,Movie,102.0,min,United States
+Horns,Horns,2013.0,,,120.0,Movie,120.0,min,"United States, Canada"
+Automata,Automata,2014.0,7000000.0,,110.0,Movie,110.0,min,"Bulgaria, United States, Spain, Canada"
+The Prince,The Prince,2014.0,18000000.0,266586800.0,93.0,Movie,91.0,min,"United States, United Kingdom"
+The Captive,The Captive,2014.0,,1075178.0,112.0,Movie,112.0,min,Canada
+Jack and the Cuckoo-Clock Heart,Jack and the Cuckoo-Clock Heart,2013.0,33.0,,94.0,Movie,93.0,min,"France, Belgium"
+Bad Grandpa .5,Bad Grandpa .5,2014.0,,,76.0,Movie,87.0,min,United States
+The Salvation,The Salvation,2014.0,10500000.0,42070000.0,100.0,Movie,92.0,min,"Denmark, United Kingdom, South Africa, Sweden, Belgium"
+Left Behind,Left Behind,2014.0,16000000.0,19682924.0,110.0,Movie,110.0,min,"United States, Canada"
+Stop at Nothing: The Lance Armstrong Story,Stop at Nothing: The Lance Armstrong Story,2014.0,,,100.0,Movie,100.0,min,"Australia, United Kingdom, United States, New Zealand, Italy, France"
+Nightcrawler,Nightcrawler,2014.0,8500000.0,38697217.0,117.0,Movie,118.0,min,United States
+"Love, Rosie","Love, Rosie",2014.0,,4439431.0,102.0,Movie,103.0,min,"Germany, United Kingdom"
+Ex Machina,Ex Machina,2015.0,15000000.0,36869414.0,108.0,Movie,108.0,min,United Kingdom
+Copenhagen,Copenhagen,2014.0,,,98.0,Movie,99.0,min,"Canada, United States, Denmark"
+An American Tail: The Mystery of the Night Monster,An American Tail: The Mystery of the Night Monster,1999.0,,,78.0,Movie,75.0,min,United States
+Haider,Haider,2014.0,,,150.0,Movie,154.0,min,India
+Stereo,Stereo,2014.0,,,95.0,Movie,91.0,min,Germany
+Sniper: Legacy,Sniper: Legacy,2014.0,,,94.0,Movie,98.0,min,"United States, Bulgaria"
+Stonehearst Asylum,Stonehearst Asylum,2014.0,,,112.0,Movie,113.0,min,United States
+Lion's Heart,Lion's Heart,2013.0,,,100.0,Movie,111.0,min,Egypt
+Secret,Secret,2007.0,,,101.0,Movie,101.0,min,"Hong Kong, Taiwan"
+Trash,Trash,2014.0,,,112.0,Movie,114.0,min,"United Kingdom, Brazil, Germany"
+Bo Burnham: what.,Bo Burnham: what.,2013.0,,,60.0,Movie,60.0,min,United States
+The Theory of Everything,The Theory of Everything,2014.0,15000000.0,123726688.0,123.0,Movie,123.0,min,"United Kingdom, Japan"
+Dolphin Tale 2,Dolphin Tale 2,2014.0,36000000.0,52424533.0,107.0,Movie,107.0,min,United States
+Virunga,Virunga,2014.0,,,90.0,Movie,100.0,min,"United Kingdom,"
+The Boy Who Cried Werewolf,The Boy Who Cried Werewolf,2010.0,,,97.0,Movie,86.0,min,"United States, Canada"
+Iceman,Iceman,2014.0,,,103.0,Movie,104.0,min,"China, Hong Kong"
+Disciples of the 36th Chamber,Disciples Of The 36th Chamber,1985.0,,,89.0,Movie,90.0,min,Hong Kong
+DragonHeart: A New Beginning,Dragonheart: A New Beginning,2000.0,,,84.0,Movie,84.0,min,United States
+Black or White,Black or White,2014.0,9000000.0,21571189.0,121.0,Movie,121.0,min,United States
+The Water Diviner,The Water Diviner,2014.0,22500000.0,15520023.0,112.0,Movie,111.0,min,"Australia, United States"
+Cowspiracy: The Sustainability Secret,Cowspiracy: The Sustainability Secret,2014.0,117.0,,85.0,Movie,90.0,min,United States
+Clouds of Sils Maria,Clouds of Sils Maria,2014.0,6600000.0,1851517.0,124.0,Movie,124.0,min,"France, Germany, Switzerland"
+Kill the Messenger,Kill the Messenger,2014.0,5000000.0,2450846.0,112.0,Movie,112.0,min,United States
+Bill Hicks: Relentless,Bill Hicks: Relentless,1992.0,,,61.0,Movie,61.0,min,United Kingdom
+A Most Violent Year,A Most Violent Year,2014.0,20000000.0,12007070.0,125.0,Movie,125.0,min,"United Arab Emirates, United States"
+Bill Burr: I'm Sorry You Feel That Way,Bill Burr: I'm Sorry You Feel That Way,2014.0,,,80.0,Movie,81.0,min,United States
+The Interview,The Interview,2014.0,44000000.0,12342632.0,112.0,Movie,112.0,min,United States
+Bill Burr: You People Are All The Same,Bill Burr: You People Are All the Same,2012.0,,,68.0,Movie,69.0,min,United States
+Seventh Son,Seventh Son,2014.0,95000000.0,114178613.0,102.0,Movie,102.0,min,"United States, United Kingdom, Canada, China"
+Class of '61,Class of '61,1993.0,,,95.0,Movie,91.0,min,United States
+PK,PK,2014.0,13000000.0,120000000.0,153.0,Movie,146.0,min,India
+Forget Me Not,Forget Me Not,2011.0,,,93.0,TV Show,1.0,season,United Kingdom
+Garfield Gets Real,Garfield Gets Real,2007.0,,,75.0,Movie,78.0,min,United States
+Garfield's Fun Fest,Garfield's Fun Fest,2008.0,,,79.0,Movie,79.0,min,"United States, South Korea"
+Chappie,Chappie,2015.0,49000000.0,104399548.0,120.0,Movie,121.0,min,"South Africa, United States"
+Gimme Shelter,Gimme Shelter,2013.0,7500000.0,1359910.0,101.0,Movie,101.0,min,United States
+Son of a Gun,Son of a Gun,2014.0,,,108.0,Movie,109.0,min,"Australia, United Kingdom, Canada"
+John Mulaney: New In Town,John Mulaney: New in Town,2012.0,,,60.0,Movie,60.0,min,United States
+Justin Bieber: Never Say Never,Justin Bieber: Never Say Never,2011.0,13000000.0,98441954.0,105.0,Movie,106.0,min,United States
+The Car,The Car,1977.0,,,96.0,Movie,96.0,min,United States
+Kevin Hart: Let Me Explain,Kevin Hart: Let Me Explain,2013.0,,32230907.0,74.0,Movie,75.0,min,United States
+Happy New Year,Happy New Year,2014.0,25000000.0,,180.0,Movie,179.0,min,India
+Bill Burr: Let It Go,Bill Burr: Let It Go,2010.0,,,65.0,Movie,65.0,min,United States
+Lizzie Borden Took An Ax,Lizzie Borden Took an Ax,2014.0,,,91.0,Movie,87.0,min,United States
+Sebastian Maniscalco: What's Wrong with People?,Sebastian Maniscalco: What's Wrong with People?,2012.0,,,75.0,Movie,76.0,min,United States
+The Dancer,The Dancer,2011.0,,,112.0,Movie,105.0,min,Indonesia
+Kevin Hart: Seriously Funny,Kevin Hart: Seriously Funny,2010.0,,,72.0,Movie,67.0,min,United States
+Thorne: Sleepyhead,Thorne: Sleepyhead,2010.0,,,125.0,Movie,125.0,min,"United Kingdom, Australia, Canada, United States"
+Mosquita y Mari,Mosquita y Mari,2012.0,,,85.0,Movie,85.0,min,United States
+Thor: Ragnarok,Thor: Ragnarok,2017.0,,,0.0,Movie,131.0,min,United States
+Sankofa,Sankofa,1993.0,1000000.0,2691899.0,124.0,Movie,125.0,min,"United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia"
+Playing for Time,Playing for Time,1980.0,,,150.0,Movie,149.0,min,United States
+Katt Williams: Kattpacalypse,Katt Williams: Kattpacalypse,2012.0,,,60.0,Movie,61.0,min,United States
+I Will Follow,I Will Follow,2010.0,,,76.0,Movie,80.0,min,United States
+Print the Legend,Print the Legend,2014.0,,,100.0,Movie,100.0,min,United States
+American Heist,American Heist,2014.0,10000000.0,,94.0,Movie,95.0,min,"Canada, Luxembourg"
+Louis C.K.: Live at The Comedy Store,Louis C.K.: Live at the Comedy Store,2015.0,,,65.0,Movie,,nan,United States
+Don Verdean,Don Verdean,2015.0,,31309.0,96.0,Movie,96.0,min,United States
+The End of the Tour,The End of the Tour,2015.0,,3002884.0,106.0,Movie,106.0,min,United States
+I Am Michael,I Am Michael,2015.0,,,98.0,Movie,102.0,min,United States
+Lila & Eve,Lila & Eve,2015.0,,,94.0,Movie,94.0,min,United States
+I'll See You in My Dreams,I'll See You in My Dreams,2015.0,,7449681.0,92.0,Movie,96.0,min,United States
+Seoul Searching,Seoul Searching,2015.0,,,105.0,Movie,109.0,min,"South Korea, China, United States"
+Mississippi Grind,Mississippi Grind,2015.0,,130541.0,108.0,Movie,109.0,min,United States
+Sleeping with Other People,Sleeping with Other People,2015.0,,3214116.0,100.0,Movie,101.0,min,United States
+Tig,Tig,2015.0,,,95.0,Movie,92.0,min,United States
+"What Happened, Miss Simone?","What Happened, Miss Simone?",2015.0,,,101.0,Movie,103.0,min,United States
+Advantageous,Advantageous,2015.0,,,92.0,Movie,92.0,min,United States
+The D Train,The D Train,2015.0,447524.0,771317.0,101.0,Movie,101.0,min,"United Kingdom, United States"
+Results,Results,2015.0,,104507.0,105.0,Movie,105.0,min,United States
+The Stanford Prison Experiment,The Stanford Prison Experiment,2015.0,,643557.0,122.0,Movie,122.0,min,United States
+Miss Julie,Miss Julie,2014.0,5500000.0,5000000.0,120.0,Movie,130.0,min,"Norway, United Kingdom, France, Ireland"
+We Are Young. We Are Strong.,We Are Young. We Are Strong.,2014.0,,,123.0,Movie,123.0,min,Germany
+Kevin Hart: I'm a Grown Little Man,Kevin Hart: I'm a Grown Little Man,2009.0,,,72.0,Movie,62.0,min,United States
+The Hateful Eight,The Hateful Eight,2015.0,44000000.0,155760117.0,167.0,Movie,168.0,min,United States
+Diary of a Chambermaid,Diary of a Chambermaid,2015.0,,,96.0,Movie,96.0,min,"France, Belgium"
+Crimson Peak,Crimson Peak,2015.0,55000000.0,74679822.0,119.0,Movie,119.0,min,"Canada, United States, Mexico"
+Cloudburst,Cloudburst,2011.0,,,93.0,Movie,93.0,min,"United States, Canada"
+Mike Birbiglia: My Girlfriend's Boyfriend,Mike Birbiglia: My Girlfriend's Boyfriend,2013.0,,,75.0,Movie,76.0,min,United States
+Tom Segura: Completely Normal,Tom Segura: Completely Normal,2014.0,,,73.0,Movie,74.0,min,United States
+Effie Gray,Effie Gray,2014.0,,,108.0,Movie,109.0,min,United Kingdom
+Demonic,Demonic,2015.0,3000000.0,3387000.0,83.0,Movie,83.0,min,United States
+Ugly,Ugly,2013.0,,,128.0,Movie,125.0,min,India
+Tracers,Tracers,2015.0,11000000.0,593683.0,94.0,Movie,94.0,min,United States
+Sacro GRA,Sacro GRA,2013.0,,,93.0,Movie,91.0,min,"Italy, France"
+Kidnapping Mr. Heineken,Kidnapping Mr. Heineken,2015.0,,2633527.0,95.0,Movie,95.0,min,"Netherlands, Belgium, United Kingdom, United States"
+Crazy Beautiful You,Crazy Beautiful You,2015.0,,,115.0,Movie,114.0,min,Philippines
+Bill Hicks: Sane Man,Bill Hicks: Sane Man,1989.0,,,84.0,Movie,81.0,min,United States
+While We're Young,While We're Young,2015.0,10000000.0,7587485.0,97.0,Movie,97.0,min,United States
+Suite Française,Suite Française,2014.0,15000000.0,9104716.0,107.0,Movie,107.0,min,"United Kingdom, France, Canada, Belgium, United States"
+Home,Home,2015.0,135000000.0,368871007.0,94.0,Movie,94.0,min,United States
+Midnight Special,Midnight Special,2016.0,18000000.0,6212282.0,112.0,Movie,112.0,min,"United States, Greece"
+A Little Chaos,A Little Chaos,2014.0,,,117.0,Movie,113.0,min,United Kingdom
+Santa's Apprentice,Santa's Apprentice,2010.0,,,80.0,Movie,72.0,min,"Australia, France, Ireland"
+WWII IN HD,WWII in HD,2009.0,,,0.0,TV Show,1.0,season,United States
+Last Knights,Last Knights,2015.0,,3643591.0,115.0,Movie,115.0,min,"United Kingdom, South Korea"
+Iliza Shlesinger: Freezing Hot,Iliza Shlesinger: Freezing Hot,2015.0,,,71.0,Movie,72.0,min,
+Cut Bank,Cut Bank,2014.0,5000000.0,,92.0,Movie,93.0,min,United States
+Swearnet: The Movie,Swearnet: The Movie,2014.0,,,112.0,Movie,112.0,min,Canada
+Survivor,Survivor,2014.0,,,93.0,TV Show,2.0,season,United States
+Sinatra: All or Nothing at All,Sinatra: All or Nothing at All,2015.0,,,240.0,TV Show,1.0,season,United States
+Tinker Bell and the Legend of the NeverBeast,Tinker Bell and the Legend of the NeverBeast,2014.0,,,77.0,Movie,78.0,min,United States
+One More Time,One More Time,2016.0,,,98.0,TV Show,1.0,season,South Korea
+Man Up,Man Up,2015.0,,,88.0,Movie,88.0,min,"United Kingdom, France"
+Barbie in Princess Power,Barbie in Princess Power,2015.0,,,74.0,Movie,74.0,min,United States
+Barbie: Princess Charm School,Barbie: Princess Charm School,2011.0,,,79.0,Movie,80.0,min,"United States, Canada"
+Barbie: The Princess & The Popstar,Barbie: The Princess & the Popstar,2012.0,,,86.0,Movie,75.0,min,United States
+Barbie in A Mermaid Tale,Barbie in A Mermaid Tale,2010.0,,16441438.0,75.0,Movie,74.0,min,United States
+Barbie & Her Sisters in A Pony Tale,Barbie & Her Sisters in a Pony Tale,2013.0,,,72.0,Movie,74.0,min,United States
+Chelsea Peretti: One of the Greats,Chelsea Peretti: One of the Greats,2014.0,,,74.0,Movie,75.0,min,United States
+The Eichmann Show,The Eichmann Show,2015.0,,,90.0,Movie,96.0,min,"United Kingdom, Lithuania"
+The Seven Five,The Seven Five,2014.0,,,102.0,Movie,104.0,min,United States
+Iverson,Iverson,2014.0,,,87.0,Movie,88.0,min,United States
+Tunisian Victory,Tunisian Victory,1944.0,,,75.0,Movie,76.0,min,"United States, United Kingdom"
+Carol,Carol,2015.0,11800000.0,40272135.0,118.0,Movie,119.0,min,"United Kingdom, United States, Australia"
+Ankhon Dekhi,Ankhon Dekhi,2013.0,,,107.0,Movie,104.0,min,India
+Black Friday,Black Friday,2004.0,,,143.0,Movie,162.0,min,India
+Monsters: Dark Continent,Monsters: Dark Continent,2014.0,,,119.0,Movie,119.0,min,United Kingdom
+Andaz Apna Apna,Andaz Apna Apna,1994.0,,,160.0,Movie,160.0,min,India
+The Lobster,The Lobster,2015.0,4000000.0,15656193.0,118.0,Movie,119.0,min,"Ireland, United Kingdom, Greece, France, Netherlands"
+Slow West,Slow West,2015.0,,229094.0,84.0,Movie,84.0,min,"United Kingdom, New Zealand"
+Sparkle,Sparkle,1976.0,,,98.0,Movie,98.0,min,United States
+Barely Lethal,Barely Lethal,2015.0,,6075.0,96.0,Movie,99.0,min,United States
+5 to 7,5 to 7,2014.0,,,98.0,Movie,97.0,min,United States
+Wake Up Sid,Wake Up Sid,2009.0,3000000.0,11000000.0,138.0,Movie,132.0,min,India
+Lakshya,Lakshya,2004.0,483719.0,,186.0,Movie,185.0,min,India
+Hot Girls Wanted,Hot Girls Wanted,2015.0,,,84.0,Movie,83.0,min,United States
+Bombay Talkies,Bombay Talkies,2013.0,,,127.0,Movie,123.0,min,India
+Bhool Bhulaiyaa,Bhool Bhulaiyaa,2007.0,,,151.0,Movie,148.0,min,India
+Phir Hera Pheri,Phir Hera Pheri,2006.0,,,155.0,Movie,150.0,min,India
+Convict,Convict,2014.0,,,110.0,Movie,97.0,min,
+I Hate Luv Storys,I Hate Luv Storys,2010.0,,,135.0,Movie,128.0,min,India
+5 Flights Up,5 Flights Up,2014.0,6000000.0,1020921.0,92.0,Movie,92.0,min,United States
+Tanu Weds Manu,Tanu Weds Manu,2011.0,400000.0,252000.0,119.0,Movie,114.0,min,India
+What's Up with Love?,What's Up With Love?,2002.0,,,112.0,Movie,110.0,min,Indonesia
+Mission Blue,Mission Blue,2014.0,,,94.0,Movie,94.0,min,"United States, Bermuda, Ecuador"
+E-Team,E-Team,2014.0,,,88.0,Movie,90.0,min,United States
+B.A. Pass,B.A. Pass,2013.0,,,95.0,Movie,99.0,min,India
+Gabbar Is Back,Gabbar Is Back,2015.0,11000000.0,41000000.0,128.0,Movie,128.0,min,India
+Bluffmaster!,BluffMaster!,2005.0,1823152.0,7133082.0,137.0,Movie,129.0,min,India
+Bhoot,Bhoot,2003.0,,,113.0,Movie,114.0,min,India
+1920,1920,2008.0,,,138.0,Movie,143.0,min,India
+Darna Mana Hai,Darna Mana Hai,2003.0,,,121.0,Movie,116.0,min,India
+Rock On!!,Rock On!!,2008.0,,,145.0,Movie,139.0,min,India
+The Fluffy Movie,The Fluffy Movie,2014.0,,,101.0,Movie,101.0,min,United States
+Iliza Shlesinger: War Paint,Iliza Shlesinger: War Paint,2013.0,,,75.0,Movie,75.0,min,United States
+Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine),Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine),2015.0,,,78.0,Movie,78.0,min,United States
+Shiva,Shiva,1990.0,,,161.0,Movie,168.0,min,India
+Kaminey,Kaminey,2009.0,9000000.0,18130000.0,135.0,Movie,128.0,min,India
+Company,Company,2002.0,1500000.0,6000000.0,156.0,Movie,137.0,min,India
+Ghayal,Ghayal,1990.0,,,163.0,Movie,163.0,min,India
+Shaitan,Shaitan,2011.0,,,126.0,Movie,126.0,min,India
+Awara Paagal Deewana,Awara Paagal Deewana,2002.0,,,169.0,Movie,162.0,min,India
+Shootout at Lokhandwala,Shootout at Lokhandwala,2007.0,11000000.0,12000000.0,150.0,Movie,116.0,min,India
+Never Back Down 2: The Beatdown,Never Back Down 2: The Beatdown,2011.0,3000000.0,,90.0,Movie,104.0,min,United States
+Queen,Queen,2014.0,,,146.0,Movie,138.0,min,India
+The Sign of Venus,The Sign of Venus,1955.0,,,101.0,Movie,97.0,min,Italy
+Scooby-Doo on Zombie Island,Scooby-Doo on Zombie Island,1998.0,,,77.0,Movie,77.0,min,United States
+Iron Man & Captain America: Heroes United,Iron Man & Captain America: Heroes United,2014.0,,,71.0,Movie,71.0,min,United States
+Jeff Dunham: Arguing with Myself,Jeff Dunham: Arguing with Myself,2006.0,,,76.0,Movie,69.0,min,United States
+Kevin Hart: Laugh at My Pain,Kevin Hart: Laugh at My Pain,2011.0,,,89.0,Movie,89.0,min,United States
+Dev.D,Dev.D,2009.0,,,144.0,Movie,137.0,min,India
+Jeff Dunham: All Over the Map,Jeff Dunham: All Over the Map,2014.0,,,41.0,Movie,84.0,min,United States
+Jeff Dunham: Minding the Monsters,Jeff Dunham: Minding the Monsters,2012.0,,,80.0,Movie,80.0,min,United States
+Jeff Dunham: Controlled Chaos,Jeff Dunham: Controlled Chaos,2011.0,,,90.0,Movie,97.0,min,United States
+Steve Jobs,Steve Jobs,2015.0,30000000.0,34441873.0,122.0,Movie,122.0,min,"United Kingdom, United States"
+Creep,Creep,2014.0,,,82.0,Movie,78.0,min,United States
+Search Party,Search Party,2014.0,20000000.0,,93.0,Movie,93.0,min,United States
+Skin Trade,Skin Trade,2014.0,9000000.0,,96.0,Movie,96.0,min,"Thailand, Canada, United States"
+Christian Mingle,Christian Mingle,2014.0,,,99.0,Movie,99.0,min,United States
+Russell Madness,Russell Madness,2015.0,,,92.0,Movie,93.0,min,United States
+Shabd,Shabd,2005.0,2500000.0,3100000.0,0.0,Movie,146.0,min,India
+Dil,Dil,1990.0,,,172.0,Movie,165.0,min,India
+Seal Team Six: The Raid on Osama Bin Laden,Seal Team Six: The Raid on Osama Bin Laden,2012.0,,,90.0,Movie,90.0,min,United States
+Once Upon a Time in Mumbaai,Once Upon a Time in Mumbaai,2010.0,10.0,,135.0,Movie,133.0,min,India
+Love in a Puff,Love in a Puff,2010.0,,,104.0,Movie,103.0,min,Hong Kong
+Love in a Puff,Love In A Puff,2010.0,,,104.0,Movie,103.0,min,Hong Kong
+Killa,Killa,2014.0,,,0.0,Movie,107.0,min,India
+Amy,Amy,2015.0,,8413144.0,128.0,Movie,128.0,min,United Kingdom
+Spectral,Spectral,2016.0,,,108.0,Movie,108.0,min,"United States, Hungary"
+Waar,Waar,2013.0,2000000.0,,0.0,Movie,130.0,min,Pakistan
+Hokkabaz,Hokkabaz,2006.0,,,122.0,Movie,118.0,min,Turkey
+Dark Places,Dark Places,2015.0,20000000.0,208588.0,113.0,Movie,113.0,min,"United States, United Kingdom, France"
+Yellowbird,Yellowbird,2014.0,,,90.0,Movie,90.0,min,"France, Belgium"
+Smosh: The Movie,SMOSH: The Movie,2015.0,,,84.0,Movie,83.0,min,United States
+FTA,FTA,1972.0,,,97.0,Movie,104.0,min,United States
+The Vatican Tapes,The Vatican Tapes,2015.0,13000000.0,1784763.0,91.0,Movie,91.0,min,United States
+Room,Room,2015.0,6000000.0,35401758.0,117.0,Movie,118.0,min,"Ireland, Canada, United Kingdom, United States"
+Dear Santa,Dear Santa,2011.0,,,90.0,Movie,92.0,min,Canada
+The Runner,The Runner,2015.0,6000000.0,,90.0,Movie,90.0,min,United States
+Mobile Suit Gundam II: Soldiers of Sorrow,Mobile Suit Gundam II: Soldiers of Sorrow,1981.0,,,139.0,Movie,133.0,min,
+Mobile Suit Gundam III: Encounters in Space,Mobile Suit Gundam III: Encounters in Space,1982.0,,,144.0,Movie,140.0,min,
+Chris Tucker Live,Chris Tucker Live,2015.0,,,92.0,Movie,92.0,min,United States
+The Visit,The Visit,2015.0,5000000.0,98450062.0,94.0,Movie,138.0,min,
+Secret in Their Eyes,Secret in Their Eyes,2015.0,19500000.0,34854990.0,111.0,Movie,111.0,min,"United States, United Kingdom, Spain, South Korea"
+Sinister 2,Sinister 2,2015.0,10000000.0,52882018.0,97.0,Movie,97.0,min,"United States, United Kingdom"
+Ghadi,Ghadi,2013.0,,,100.0,Movie,101.0,min,Lebanon
+American Ultra,American Ultra,2015.0,28000000.0,27139524.0,96.0,Movie,96.0,min,"United States, Switzerland"
+No Escape,No Escape,2015.0,5000000.0,54418872.0,103.0,Movie,103.0,min,"United States, Thailand"
+Cop Car,Cop Car,2015.0,,134552.0,86.0,Movie,88.0,min,United States
+Brothers,Brothers,2015.0,,,156.0,Movie,155.0,min,"India, United States"
+Demetri Martin: Live (At The Time),Demetri Martin: Live (At the Time),2015.0,,,61.0,Movie,62.0,min,United States
+Equals,Equals,2015.0,16000000.0,2084628.0,101.0,Movie,102.0,min,"United States, Indonesia"
+Suffragette,Suffragette,2015.0,14000000.0,16002420.0,106.0,Movie,107.0,min,"United Kingdom, France"
+Let There Be Light,Let There Be Light,1946.0,,,58.0,Movie,58.0,min,United States
+The Bad Education Movie,The Bad Education Movie,2015.0,,,90.0,Movie,87.0,min,United Kingdom
+We Are Your Friends,We Are Your Friends,2015.0,6000000.0,11122090.0,96.0,Movie,96.0,min,"United Kingdom, France, United States"
+Joseph: King of Dreams,Joseph: King of Dreams,2000.0,,,74.0,Movie,75.0,min,"United States, France, United Kingdom"
+Legend,Legend,2015.0,25000000.0,42972994.0,131.0,Movie,132.0,min,"United Kingdom, France, United States"
+The Outcasts,The Outcasts,2017.0,,,95.0,Movie,94.0,min,United States
+Drishyam,Drishyam,2015.0,,,163.0,Movie,162.0,min,India
+Phantom,Phantom,2015.0,,,136.0,Movie,129.0,min,India
+The Danish Girl,The Danish Girl,2015.0,15000000.0,64191523.0,120.0,Movie,120.0,min,"United Kingdom, United States, Germany, Denmark, Belgium, Japan"
+Beasts of No Nation,Beasts of No Nation,2015.0,6000000.0,9077700.0,137.0,Movie,137.0,min,United States
+He Named Me Malala,He Named Me Malala,2015.0,,2642899.0,87.0,Movie,89.0,min,"United States, United Arab Emirates"
+6 Years,6 Years,2015.0,,,84.0,Movie,80.0,min,United States
+Knock Knock,Knock Knock,2015.0,2500000.0,6341684.0,99.0,Movie,99.0,min,"United States, Chile, Israel"
+The Negro Soldier,The Negro Soldier,1944.0,,,43.0,Movie,40.0,min,United States
+You Carry Me,You Carry Me,2015.0,,,155.0,Movie,157.0,min,"Croatia, Slovenia, Serbia, Montenegro"
+Spotlight,Spotlight,2015.0,20000000.0,88346473.0,128.0,Movie,129.0,min,United States
+Hardcore Henry,Hardcore Henry,2015.0,10000000.0,14333790.0,97.0,Movie,96.0,min,"Russia, United States, China"
+Queen of the Desert,Queen of the Desert,2015.0,15000000.0,,128.0,Movie,128.0,min,"United States, Morocco"
+Heneral Luna,Heneral Luna,2015.0,,,118.0,Movie,118.0,min,Philippines
+Miss Hokusai,Miss Hokusai,2015.0,,,90.0,Movie,90.0,min,Japan
+Helios,Helios,2015.0,25784494.0,,118.0,Movie,118.0,min,"Hong Kong, China, United States"
+Full Out,Full Out,2015.0,1500000.0,,94.0,Movie,88.0,min,"Canada, United States"
+Apaharan,Apaharan,2005.0,,,173.0,Movie,161.0,min,India
+The Dirty Picture,The Dirty Picture,2011.0,,,144.0,Movie,145.0,min,India
+Chup Chup Ke,Chup Chup Ke,2006.0,,,165.0,Movie,158.0,min,India
+Much Loved,Much Loved,2015.0,,,108.0,Movie,104.0,min,"France, Morocco"
+Sunrise,Sunrise,2014.0,,,85.0,Movie,85.0,min,"India, France"
+Immoral Tales,Immoral Tales,1974.0,,,103.0,Movie,103.0,min,France
+By the Sea,By the Sea,2015.0,10000000.0,3727746.0,122.0,Movie,122.0,min,"France, Malta, United States"
+The Little Prince,The Little Prince,2015.0,64000000.0,97571250.0,92.0,Movie,107.0,min,"France, Canada, Italy, United States, China"
+Get Santa,Get Santa,2014.0,,,102.0,Movie,103.0,min,"United Kingdom, United States"
+A Tale of Love and Darkness,A Tale of Love and Darkness,2015.0,4000000.0,,95.0,Movie,98.0,min,"Israel, United States"
+Numbered,Numbered,2012.0,,,60.0,Movie,55.0,min,Israel
+Into the Grizzly Maze,Into the Grizzly Maze,2015.0,10000000.0,,94.0,Movie,90.0,min,"United States, Canada"
+The Invitation,The Invitation,2015.0,,231737.0,100.0,Movie,100.0,min,United States
+The Parole Officer,The Parole Officer,2001.0,,,93.0,Movie,94.0,min,United Kingdom
+Scandal in Sorrento,Scandal in Sorrento,1955.0,,,106.0,Movie,93.0,min,"Italy, France"
+"Hail, Caesar!","Hail, Caesar!",2016.0,22000000.0,63647656.0,106.0,Movie,106.0,min,"United States, United Kingdom, Japan"
+Hunt to Kill,Hunt to Kill,2010.0,2300000.0,,98.0,Movie,97.0,min,Canada
+How To Change The World,How to Change the World,2015.0,,,110.0,Movie,110.0,min,"Canada, United Kingdom, Netherlands"
+Look Who's Back,Look Who's Back,2015.0,3196621.0,25513752.0,116.0,Movie,116.0,min,Germany
+The Other,The Other,1999.0,,,105.0,Movie,106.0,min,"France, Egypt"
+The Blackcoat's Daughter,The Blackcoat's Daughter,2015.0,,19980.0,93.0,Movie,95.0,min,"Canada, United States"
+Keith Richards: Under the Influence,Keith Richards: Under the Influence,2015.0,,,82.0,Movie,82.0,min,United States
+The Beast Stalker,The Beast Stalker,2008.0,,,109.0,Movie,110.0,min,Hong Kong
+Once a Gangster,Once a Gangster,2010.0,2000000.0,,95.0,Movie,95.0,min,Hong Kong
+The Twins Effect II,The Twins Effect II,2004.0,,,106.0,Movie,106.0,min,"Hong Kong, China"
+Santa Claws,Santa Claws,2014.0,,,86.0,Movie,86.0,min,United States
+Circle,Circle,2015.0,,,87.0,Movie,86.0,min,United States
+Fakta Ladh Mhana,Fakta Ladh Mhana,2011.0,10.0,,145.0,Movie,150.0,min,India
+Blind Detective,Blind Detective,2013.0,,,130.0,Movie,130.0,min,"Hong Kong, China"
+The Girl King,The Girl King,2015.0,,,106.0,Movie,106.0,min,
+The Christmas Candle,The Christmas Candle,2013.0,,,100.0,Movie,100.0,min,"United Kingdom, United States"
+Chupke Chupke,Chupke Chupke,1975.0,,,155.0,Movie,127.0,min,India
+Rock the Kasbah,Rock the Kasbah,2015.0,15000000.0,3020664.0,100.0,Movie,106.0,min,United States
+The Diabolical,The Diabolical,2015.0,,,86.0,Movie,86.0,min,United States
+Phantom Boy,Phantom Boy,2015.0,,,84.0,Movie,85.0,min,"France, Belgium"
+Pyaar Ka Punchnama 2,Pyaar Ka Punchnama 2,2015.0,1.0,,159.0,Movie,136.0,min,India
+Jem and the Holograms,Jem and the Holograms,2015.0,5000000.0,2333684.0,119.0,Movie,119.0,min,United States
+Suburra,Suburra,2015.0,7000000.0,,130.0,Movie,135.0,min,"Italy, France"
+The Butterfly's Dream,The Butterfly's Dream,2013.0,,,138.0,Movie,118.0,min,Turkey
+Trumbo,Trumbo,2015.0,15000000.0,8235661.0,124.0,Movie,124.0,min,United States
+Premachi Goshta,Premachi Goshta,2013.0,,,0.0,Movie,127.0,min,India
+Time Please,Time Please,2013.0,,,132.0,Movie,125.0,min,India
+Zenda,Zenda,2009.0,,,0.0,Movie,120.0,min,India
+Khubsoorat,Khubsoorat,1980.0,,,126.0,Movie,120.0,min,India
+Masoom,Masoom,1983.0,,,165.0,Movie,138.0,min,India
+Maine Pyar Kiya,Maine Pyar Kiya,1989.0,,,192.0,Movie,192.0,min,India
+Chamatkar,Chamatkar,1992.0,,,171.0,Movie,164.0,min,India
+Blue Mountain State: The Rise of Thadland,Blue Mountain State: The Rise of Thadland,2016.0,,,90.0,Movie,90.0,min,United States
+Barsaat,Barsaat,1995.0,,,0.0,Movie,166.0,min,India
+Raja Hindustani,Raja Hindustani,1996.0,,,177.0,Movie,177.0,min,India
+Judwaa,Judwaa,1997.0,,,138.0,Movie,133.0,min,India
+Taal,Taal,1999.0,,,170.0,Movie,177.0,min,India
+Hello Brother,Hello Brother,1999.0,,,139.0,Movie,126.0,min,India
+Kya Kehna,Kya Kehna,2000.0,,,0.0,Movie,149.0,min,India
+Fiza,Fiza,2000.0,1000000.0,623791.0,170.0,Movie,163.0,min,India
+Pukar,Pukar,2000.0,,,0.0,Movie,165.0,min,India
+Naomi and Ely's No Kiss List,Naomi and Ely's No Kiss List,2015.0,,,89.0,Movie,91.0,min,United States
+Bana Masal Anlatma,Bana Masal Anlatma,2015.0,,,0.0,Movie,103.0,min,Turkey
+Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,2015.0,23400000.0,67000000.0,174.0,Movie,164.0,min,India
+(T)ERROR,(T)ERROR,2015.0,,,93.0,Movie,84.0,min,United States
+The Flying Guillotine,The Flying Guillotine,1975.0,,,111.0,Movie,101.0,min,Hong Kong
+Anthony Jeselnik: Thoughts and Prayers,Anthony Jeselnik: Thoughts and Prayers,2015.0,,,59.0,Movie,59.0,min,United States
+Manson Family Vacation,Manson Family Vacation,2015.0,,,85.0,Movie,85.0,min,United States
+Tamasha,Tamasha,2015.0,,,139.0,Movie,133.0,min,India
+Winter on Fire: Ukraine's Fight for Freedom,Winter on Fire: Ukraine's Fight for Freedom,2015.0,,,98.0,Movie,99.0,min,"United Kingdom, Ukraine, United States"
+Mary Kom,Mary Kom,2014.0,224056.0,15536328.0,122.0,Movie,120.0,min,India
+Pek Yakında,Pek Yakında,2014.0,,,0.0,Movie,134.0,min,Turkey
+A Very Murray Christmas,A Very Murray Christmas,2015.0,,,56.0,Movie,57.0,min,United States
+The Ridiculous 6,The Ridiculous 6,2015.0,60000000.0,,119.0,Movie,120.0,min,United States
+John Mulaney: The Comeback Kid,John Mulaney: The Comeback Kid,2015.0,,,62.0,Movie,62.0,min,United States
+The Incident,The Incident,2014.0,,,102.0,Movie,100.0,min,Mexico
+Mojave,Mojave,2015.0,,,93.0,Movie,93.0,min,United States
+The Legend of Bhagat Singh,The Legend of Bhagat Singh,2002.0,3000000.0,6000000.0,155.0,Movie,156.0,min,India
+Locust,Locust,2014.0,,467363.0,118.0,TV Show,1.0,season,Russia
+Extraction,Extraction,2015.0,,16775.0,83.0,Movie,82.0,min,"United States, United Kingdom, Canada"
+"Justice, My Foot!","Justice, My Foot!",1992.0,,,102.0,Movie,95.0,min,Hong Kong
+Marvel Super Hero Adventures: Frost Fight!,Marvel Super Hero Adventures: Frost Fight!,2015.0,,,73.0,Movie,74.0,min,United States
+He Never Died,He Never Died,2015.0,,,99.0,Movie,97.0,min,Canada
+The Monster of Mangatiti,The Monster of Mangatiti,2015.0,,,70.0,Movie,70.0,min,New Zealand
+Nocturnal Animals,Nocturnal Animals,2016.0,22500000.0,29252978.0,116.0,Movie,117.0,min,United States
+Tyke Elephant Outlaw,Tyke Elephant Outlaw,2015.0,,,78.0,Movie,78.0,min,Australia
+Mobile Suit Gundam: Char's Counterattack,Mobile Suit Gundam: Char's Counterattack,1988.0,,,124.0,Movie,120.0,min,
+Marco Polo: One Hundred Eyes,Marco Polo: One Hundred Eyes,2015.0,,,28.0,Movie,29.0,min,United States
+Namastey London,Namastey London,2007.0,,,128.0,Movie,130.0,min,India
+It's Now or Never,It's Now or Never,2015.0,,,91.0,Movie,91.0,min,Spain
+A Perfect Ending,A Perfect Ending,2012.0,,,110.0,Movie,110.0,min,United States
+Bride for Rent,Bride For Rent,2014.0,,,115.0,Movie,110.0,min,Philippines
+Dilwale,Dilwale,2015.0,26000000.0,61000000.0,158.0,Movie,154.0,min,India
+Riot,Riot,2015.0,,,88.0,Movie,88.0,min,
+The Forest,The Forest,2016.0,10000000.0,40055439.0,95.0,Movie,93.0,min,United States
+Guzaarish,Guzaarish,2010.0,,,135.0,Movie,121.0,min,India
+Sadece Sen,Sadece Sen,2014.0,,,0.0,Movie,105.0,min,Turkey
+Rowdy Rathore,Rowdy Rathore,2012.0,6700000.0,31000000.0,143.0,Movie,137.0,min,India
+Khoobsurat,Khoobsurat,2014.0,,,131.0,Movie,121.0,min,India
+Wazir,Wazir,2016.0,5200000.0,9200000.0,102.0,Movie,98.0,min,India
+Moonwalkers,Moonwalkers,2015.0,,,107.0,Movie,96.0,min,"France, Belgium"
+Naruto the Movie: Ninja Clash in the Land of Snow,Naruto the Movie: Ninja Clash in the Land of Snow,2004.0,,,82.0,Movie,83.0,min,Japan
+Spy Time,Spy Time,2015.0,,,0.0,Movie,93.0,min,Spain
+Blind Date,Blind Date,2015.0,,,90.0,Movie,91.0,min,France
+The Lovers and the Despot,The Lovers and the Despot,2016.0,,,100.0,Movie,98.0,min,United Kingdom
+Fitoor,Fitoor,2016.0,,,131.0,Movie,124.0,min,India
+Big Stone Gap,Big Stone Gap,2014.0,,,93.0,Movie,103.0,min,United States
+Lo and Behold: Reveries of the Connected World,Lo and Behold: Reveries of the Connected World,2016.0,,,98.0,Movie,98.0,min,United States
+The Boy,The Boy,2016.0,10000000.0,64188367.0,97.0,Movie,97.0,min,"United States, Canada, China"
+Holy Hell,Holy Hell,2016.0,,16905.0,100.0,Movie,103.0,min,United States
+April and the Extraordinary World,April and the Extraordinary World,2015.0,,,103.0,Movie,107.0,min,"France, Canada, Belgium"
+X: Past Is Present,X: Past Is Present,2015.0,,,105.0,Movie,105.0,min,India
+Holding the Man,Holding the Man,2015.0,,,128.0,Movie,128.0,min,Australia
+Yaadein,Yaadein,2001.0,,,193.0,Movie,171.0,min,India
+"Crouching Tiger, Hidden Dragon: Sword of Destiny","Crouching Tiger, Hidden Dragon: Sword of Destiny",2016.0,20000000.0,,103.0,Movie,101.0,min,"China, United States"
+Triple 9,Triple 9,2016.0,20000000.0,12639297.0,115.0,Movie,115.0,min,United States
+The Young Messiah,The Young Messiah,2016.0,18500000.0,6490401.0,120.0,Movie,111.0,min,United States
+Un plus une,Un plus une,2015.0,,,115.0,Movie,114.0,min,France
+The Fear of 13,The Fear of 13,2015.0,,,96.0,Movie,95.0,min,United Kingdom
+Deewangee,Deewangee,2002.0,,,145.0,Movie,156.0,min,India
+Hisss,Hisss,2010.0,10000000.0,,98.0,Movie,97.0,min,"India, United States"
+Cabin Fever,Cabin Fever,2016.0,,,99.0,Movie,98.0,min,United States
+Traffic Signal,Traffic Signal,2007.0,,,0.0,Movie,130.0,min,India
+Ip Man 3,Ip Man 3,2015.0,36000000.0,156844753.0,105.0,Movie,105.0,min,"China, Hong Kong"
+Bhagam Bhag,Bhagam Bhag,2006.0,,,157.0,Movie,151.0,min,India
+Ishq Vishk,Ishq Vishk,2003.0,,,145.0,Movie,129.0,min,India
+Khushi,Khushi,2003.0,,,159.0,Movie,157.0,min,India
+Gangaajal,Gangaajal,2003.0,,,157.0,Movie,148.0,min,India
+Fida,Fida,2004.0,,,0.0,Movie,117.0,min,India
+Krishna Cottage,Krishna Cottage,2004.0,,,0.0,Movie,124.0,min,India
+Ek Hasina Thi,Ek Hasina Thi,2004.0,,,120.0,Movie,134.0,min,India
+Run,Run,2004.0,,,0.0,Movie,134.0,min,India
+Lusers,Lusers,2015.0,2000000.0,,100.0,Movie,100.0,min,"Argentina, Chile, Peru"
+Hunt for the Wilderpeople,Hunt for the Wilderpeople,2016.0,,,101.0,Movie,101.0,min,New Zealand
+Kaal,Kaal,2005.0,,,127.0,Movie,126.0,min,India
+Kyaa Kool Hai Hum,Kyaa Kool Hai Hum,2005.0,,,172.0,Movie,165.0,min,India
+No Entry,No Entry,2005.0,,,158.0,Movie,161.0,min,India
+Maine Pyaar Kyun Kiya,Maine Pyaar Kyun Kiya,2005.0,,,145.0,Movie,137.0,min,India
+Socha Na tha,Socha Na Tha,2005.0,,,0.0,Movie,137.0,min,India
+Pyaar Ke Side Effects,Pyaar Ke Side Effects,2006.0,,,132.0,Movie,120.0,min,India
+Welcome,Welcome,2007.0,,36500000.0,160.0,Movie,149.0,min,India
+Jaane Tu... Ya Jaane Na,Jaane Tu... Ya Jaane Na,2008.0,2300000.0,11100000.0,155.0,Movie,147.0,min,India
+Fashion,Fashion,2008.0,5000000.0,,178.0,Movie,158.0,min,India
+Dostana,Dostana,2008.0,10000000.0,20000000.0,142.0,Movie,142.0,min,"India, United States"
+Golmaal Returns,Golmaal Returns,2008.0,,,135.0,Movie,135.0,min,India
+EMI: Liya Hai To Chukana Padega,EMI: Liya Hai To Chukana Padega,2008.0,,,128.0,Movie,128.0,min,India
+Karzzzz,Karzzzz,2008.0,,,142.0,Movie,137.0,min,India
+Agyaat,Agyaat,2009.0,,,98.0,Movie,97.0,min,India
+Shor in the City,Shor In the City,2011.0,,,107.0,Movie,106.0,min,India
+No One Killed Jessica,No One Killed Jessica,2011.0,,,136.0,Movie,131.0,min,India
+Bodyguard,Bodyguard,2011.0,130.0,8.0,130.0,Movie,130.0,min,India
+Thank You,Thank You,2011.0,13100000.0,4100000.0,140.0,Movie,131.0,min,India
+Open Season: Scared Silly,Open Season: Scared Silly,2015.0,,,85.0,Movie,85.0,min,"United States, Canada"
+Boss,Boss,2013.0,,,143.0,Movie,139.0,min,India
+Kara Bela,Kara Bela,2015.0,,,0.0,Movie,101.0,min,Turkey
+Raja Natwarlal,Raja Natwarlal,2014.0,5.0,4.0,141.0,Movie,131.0,min,India
+Dedh Ishqiya,Dedh Ishqiya,2014.0,,,152.0,Movie,146.0,min,India
+2 States,2 States,2014.0,,,149.0,Movie,143.0,min,India
+Palm Trees in the Snow,Palm Trees in the Snow,2015.0,10000000.0,,163.0,Movie,163.0,min,Spain
+Spanish Affair 2,Spanish Affair 2,2015.0,4500000.0,,106.0,Movie,107.0,min,Spain
+Hunterrr,Hunterrr,2015.0,,,141.0,Movie,140.0,min,India
+Remember,Remember,2015.0,,1986615.0,94.0,Movie,95.0,min,"Canada, Mexico, Germany, South Africa"
+For Grace,For Grace,2015.0,,,95.0,Movie,92.0,min,United States
+The Real Miyagi,The Real Miyagi,2015.0,,,90.0,Movie,81.0,min,"United States, Canada, Japan, Panama"
+Emelie,Emelie,2016.0,,,82.0,Movie,82.0,min,United States
+Belgica,Belgica,2016.0,,,127.0,Movie,127.0,min,"Belgium, France, Netherlands"
+Hot Bot,Hot Bot,2016.0,,,86.0,Movie,93.0,min,United States
+Dil Dhadakne Do,Dil Dhadakne Do,2015.0,13000000.0,22000000.0,170.0,Movie,174.0,min,India
+Backtrack,Backtrack,2015.0,,,90.0,Movie,90.0,min,"Australia, United Kingdom, United Arab Emirates, Canada"
+Pee-wee's Big Holiday,Pee-wee's Big Holiday,2016.0,,,90.0,Movie,90.0,min,United States
+The Confirmation,The Confirmation,2016.0,,,101.0,Movie,101.0,min,Canada
+The Daughter,The Daughter,2015.0,,,96.0,Movie,95.0,min,Australia
+Under the Shadow,Under the Shadow,2016.0,,,84.0,Movie,84.0,min,"United Kingdom, Jordan, Qatar, Iran"
+Beynelmilel,Beynelmilel,2006.0,,,0.0,Movie,102.0,min,Turkey
+Hannibal Buress: Comedy Camisado,Hannibal Buress: Comedy Camisado,2016.0,,,61.0,Movie,68.0,min,United States
+Jimmy Carr: Funny Business,Jimmy Carr: Funny Business,2016.0,,,62.0,Movie,62.0,min,United Kingdom
+White Girl,White Girl,2016.0,700000.0,200242.0,88.0,Movie,90.0,min,United States
+Yoga Hosers,Yoga Hosers,2016.0,5000000.0,,88.0,Movie,88.0,min,United States
+War on Everyone,War on Everyone,2016.0,,,98.0,Movie,98.0,min,United Kingdom
+This Is The Life,This Is the Life,2008.0,,,97.0,Movie,98.0,min,United States
+Angry Indian Goddesses,Angry Indian Goddesses,2015.0,,,115.0,Movie,104.0,min,"India, Germany"
+Hush,Hush,2016.0,,,81.0,Movie,82.0,min,United States
+The Young Vagabond,The Young Vagabond,1985.0,,,85.0,Movie,85.0,min,Hong Kong
+The Good Neighbor,The Good Neighbor,2016.0,,,98.0,Movie,97.0,min,United States
+Don't Think Twice,Don't Think Twice,2016.0,,4417667.0,90.0,Movie,92.0,min,United States
+"Houston, We Have a Problem!","Houston, We Have a Problem!",2016.0,,,88.0,Movie,84.0,min,"Slovenia, Croatia, Germany, Czech Republic, Qatar"
+Free State of Jones,Free State of Jones,2016.0,50000000.0,25035950.0,139.0,Movie,139.0,min,United States
+Ordinary World,Ordinary World,2016.0,,,86.0,Movie,87.0,min,United States
+I Am Wrath,I Am Wrath,2016.0,18000000.0,,92.0,Movie,91.0,min,United States
+Mother's Day,Mother's Day,2016.0,25000000.0,48418160.0,118.0,Movie,118.0,min,United States
+Snowden,Snowden,2016.0,40000000.0,37279439.0,134.0,Movie,134.0,min,"United Kingdom, France, Germany, United States"
+Special Correspondents,Special Correspondents,2016.0,,,100.0,Movie,101.0,min,"Canada, United Kingdom, United States"
+Team Foxcatcher,Team Foxcatcher,2016.0,,,91.0,Movie,91.0,min,United States
+Patton Oswalt: Talking for Clapping,Patton Oswalt: Talking for Clapping,2016.0,,,66.0,Movie,66.0,min,United States
+Holidays,Holidays,2016.0,,,105.0,Movie,106.0,min,"United States, Ireland"
+Term Life,Term Life,2016.0,16500000.0,21256.0,93.0,Movie,93.0,min,United States
+Shaka Zulu,Shaka Zulu,1986.0,24000000.0,,523.0,TV Show,1.0,season,"Italy, South Africa, West Germany, Australia, United States"
+Mr. Right,MR. RIGHT,2015.0,,,79.0,Movie,96.0,min,United States
+My Big Night,My Big Night,2015.0,4000000.0,,100.0,Movie,97.0,min,Spain
+Ajab Prem Ki Ghazab Kahani,Ajab Prem Ki Ghazab Kahani,2009.0,,26000000.0,150.0,Movie,150.0,min,India
+Zapped,Zapped,2014.0,,,92.0,Movie,92.0,min,"Canada, United States"
+1 Chance 2 Dance,1 Chance 2 Dance,2014.0,,,90.0,Movie,89.0,min,United States
+Sairat,Sairat,2016.0,,,170.0,Movie,173.0,min,India
+Aitraaz,Aitraaz,2004.0,3500000.0,9250000.0,159.0,Movie,153.0,min,India
+The BFG,The BFG,2016.0,140000000.0,183345589.0,120.0,Movie,118.0,min,"United States, India, United Kingdom"
+Kill Command,Kill Command,2016.0,,,99.0,Movie,100.0,min,United Kingdom
+The Eyes of My Mother,The Eyes of My Mother,2016.0,,,76.0,Movie,76.0,min,United States
+Captain Fantastic,Captain Fantastic,2016.0,5000000.0,5879736.0,119.0,Movie,119.0,min,United States
+Neruda,Neruda,2016.0,,939101.0,108.0,Movie,108.0,min,"Chile, Argentina, France, Spain, United States"
+My Beautiful Broken Brain,My Beautiful Broken Brain,2016.0,,,84.0,Movie,84.0,min,United Kingdom
+Colin Quinn: Unconstitutional,Colin Quinn: Unconstitutional,2015.0,,,55.0,Movie,56.0,min,United States
+I'm Brent Morin,I'm Brent Morin,2015.0,,,67.0,Movie,67.0,min,United States
+Ten Years,Ten Years,2015.0,,,104.0,Movie,102.0,min,Hong Kong
+Ali Wong: Baby Cobra,Ali Wong: Baby Cobra,2016.0,,,60.0,Movie,60.0,min,United States
+The Other Side of the Wind,The Other Side of the Wind,2018.0,12000000.0,,0.0,Movie,122.0,min,"France, Iran, United States"
+King Jack,King Jack,2015.0,,,81.0,Movie,81.0,min,United States
+"I, Daniel Blake","I, Daniel Blake",2016.0,,260354.0,100.0,Movie,100.0,min,"United Kingdom, France, Belgium"
+Umrika,Umrika,2015.0,,,98.0,Movie,96.0,min,India
+The Day Will Come,The Day Will Come,2016.0,4750000.0,,110.0,TV Show,1.0,season,Denmark
+Swiss Army Man,Swiss Army Man,2016.0,3000000.0,4210454.0,97.0,Movie,97.0,min,"United States, Sweden"
+Azhar,Azhar,2016.0,,,130.0,Movie,129.0,min,India
+The Do-Over,The Do-Over,2016.0,,,109.0,Movie,109.0,min,United States
+Before I Wake,Before I Wake,2016.0,,3295624.0,97.0,Movie,97.0,min,United States
+Abzurdah,Abzurdah,2015.0,,,90.0,Movie,90.0,min,Argentina
+The Darkness,The Darkness,2016.0,4000000.0,10898293.0,92.0,Movie,92.0,min,United States
+The Fundamentals of Caring,The Fundamentals of Caring,2016.0,,,93.0,Movie,97.0,min,United States
+Elstree 1976,Elstree 1976,2015.0,370000.0,,90.0,Movie,102.0,min,United Kingdom
+Monkey Planet,Monkey Planet,2014.0,,,180.0,TV Show,1.0,season,United Kingdom
+Bo Burnham: Make Happy,Bo Burnham: Make Happy,2016.0,,,60.0,Movie,60.0,min,United States
+The Conjuring 2,The Conjuring 2,2016.0,40000000.0,320170008.0,134.0,Movie,134.0,min,"Canada, United States, United Kingdom"
+Blackway,Blackway,2015.0,,,90.0,Movie,90.0,min,United States
+Be Somebody,Be Somebody,2016.0,,,88.0,Movie,88.0,min,United States
+Aarakshan,Aarakshan,2011.0,,,164.0,Movie,164.0,min,India
+Do Dooni Chaar,Do Dooni Chaar,2010.0,,,146.0,Movie,106.0,min,India
+Udta Punjab,Udta Punjab,2016.0,5980000.0,14900000.0,149.0,Movie,146.0,min,India
+Roots,Roots,2016.0,,,383.0,Movie,62.0,min,
+Thithi,Thithi,2015.0,,,123.0,Movie,123.0,min,"India, United States"
+Internet Famous,Internet Famous,2016.0,,,0.0,Movie,87.0,min,United States
+Te3n,TE3N,2016.0,5069632.0,4817642.0,136.0,Movie,128.0,min,India
+Ghanchakkar,Ghanchakkar,2013.0,,,137.0,Movie,129.0,min,India
+"LSD: Love, Sex aur Dhokha","LSD: Love, Sex Aur Dhokha",2010.0,,,108.0,Movie,112.0,min,India
+Oye Lucky! Lucky Oye!,Oye Lucky! Lucky Oye!,2008.0,,,0.0,Movie,118.0,min,India
+Saheb Biwi Aur Gangster Returns,Saheb Biwi Aur Gangster Returns,2013.0,,,142.0,Movie,139.0,min,India
+Tere Naal Love Ho Gaya,Tere Naal Love Ho Gaya,2012.0,,,0.0,Movie,127.0,min,India
+Raman Raghav 2.0,Raman Raghav 2.0,2016.0,521873.0,1013926.0,127.0,Movie,133.0,min,India
+The Duel,The Duel,2016.0,10000000.0,4500.0,110.0,Movie,110.0,min,United States
+Tallulah,Tallulah,2016.0,,,111.0,Movie,112.0,min,United States
+The ReZort,The Rezort,2016.0,,,87.0,Movie,90.0,min,"United Kingdom, Spain, Belgium"
+Palio,Palio,2015.0,,,92.0,Movie,91.0,min,United Kingdom
+Marauders,Marauders,2016.0,15000000.0,,107.0,Movie,107.0,min,"Canada, United States"
+Notes on Blindness,Notes on Blindness,2016.0,,,90.0,Movie,87.0,min,United Kingdom
+Three,Three,2016.0,,,88.0,Movie,88.0,min,"Hong Kong, China"
+Jim Jefferies: Freedumb,Jim Jefferies: Freedumb,2016.0,,,86.0,Movie,87.0,min,United States
+Goldstone,Goldstone,2016.0,,,109.0,Movie,110.0,min,Australia
+Rolling Papers,Rolling Papers,2015.0,,,77.0,Movie,79.0,min,"United States, Uruguay"
+Kismat Konnection,Kismat Konnection,2008.0,4180000.0,11000000.0,153.0,Movie,145.0,min,India
+War Dogs,War Dogs,2016.0,40000000.0,86234523.0,114.0,Movie,114.0,min,"United States, Cambodia, Romania"
+Brahman Naman,Brahman Naman,2016.0,,,94.0,Movie,96.0,min,"India, United Kingdom"
+Helix,Helix,2015.0,,,98.0,TV Show,1.0,season,"United States, Canada"
+Rebirth,Rebirth,2016.0,,,101.0,Movie,101.0,min,United States
+Black,Black,2015.0,1200000.0,,95.0,Movie,137.0,min,India
+Tony Robbins: I Am Not Your Guru,Tony Robbins: I Am Not Your Guru,2016.0,,,115.0,Movie,117.0,min,United States
+Batman: The Killing Joke,Batman: The Killing Joke,2016.0,3500000.0,3775000.0,72.0,Movie,77.0,min,United States
+Hell or High Water,Hell or High Water,2016.0,12000000.0,37589296.0,102.0,Movie,102.0,min,United States
+Little Men,Little Men,2016.0,,,85.0,Movie,85.0,min,"United States, Greece, Brazil"
+Kingsglaive: Final Fantasy XV,Kingsglaive: Final Fantasy XV,2016.0,,269980.0,115.0,Movie,116.0,min,"Japan, United States"
+Madaari,Madaari,2016.0,,,134.0,Movie,134.0,min,India
+The Edge of Seventeen,The Edge of Seventeen,2016.0,9000000.0,18803648.0,104.0,Movie,105.0,min,"United States, China"
+Blood Father,Blood Father,2016.0,13000000.0,,88.0,Movie,88.0,min,France
+Grandmaster,Grandmaster,2012.0,120000.0,130000.0,130.0,Movie,133.0,min,India
+Train to Busan,Train to Busan,2016.0,8820000.0,2129768.0,118.0,Movie,118.0,min,South Korea
+Friend Request,Friend Request,2016.0,9900000.0,2400000.0,92.0,Movie,92.0,min,Germany
+Tom Segura: Mostly Stories,Tom Segura: Mostly Stories,2016.0,,,73.0,Movie,74.0,min,United States
+Sniper: Ghost Shooter,Sniper: Ghost Shooter,2016.0,3000000.0,,100.0,Movie,99.0,min,United States
+Skiptrace,Skiptrace,2016.0,32000000.0,58500000.0,107.0,Movie,107.0,min,"China, Hong Kong, United States"
+Moonlight,Moonlight,2016.0,4000000.0,65046687.0,111.0,Movie,111.0,min,United States
+Rustom,Rustom,2016.0,1000000.0,,150.0,Movie,141.0,min,India
+13 Cameras,13 Cameras,2015.0,,,87.0,Movie,90.0,min,United States
+Middle School: The Worst Years of My Life,Middle School: The Worst Years of My Life,2016.0,8500000.0,19985196.0,92.0,Movie,92.0,min,"United States, Cambodia"
+Gie,Gie,2005.0,,,147.0,Movie,141.0,min,Indonesia
+Baaghi,Baaghi,2016.0,,,133.0,Movie,127.0,min,India
+Mohenjo Daro,Mohenjo Daro,2016.0,15050000.0,16180000.0,155.0,Movie,168.0,min,India
+Operation Chromite,Operation Chromite,2016.0,,,110.0,Movie,111.0,min,South Korea
+The Whole Truth,The Whole Truth,2016.0,,,93.0,Movie,93.0,min,United States
+The Model,The Model,2016.0,4000000.0,,105.0,Movie,104.0,min,Denmark
+American Honey,American Honey,2016.0,,1751330.0,162.0,Movie,163.0,min,"United Kingdom, United States"
+David Brent: Life on the Road,David Brent: Life on the Road,2016.0,,,96.0,Movie,97.0,min,"United Kingdom, United States"
+Race 2,Race 2,2013.0,,,150.0,Movie,139.0,min,India
+26 Years,26 Years,2012.0,4330000.0,,135.0,Movie,135.0,min,South Korea
+Chris D'Elia: Incorrigible,Chris D'Elia: Incorrigible,2015.0,,,83.0,Movie,84.0,min,United States
+Morris from America,Morris from America,2016.0,,,89.0,Movie,91.0,min,"Germany, United States"
+Hattrick,Hattrick,2007.0,,,110.0,Movie,109.0,min,India
+Sniper: Special Ops,Sniper: Special Ops,2016.0,,,84.0,Movie,86.0,min,United States
+XOXO,XOXO,2016.0,,,92.0,Movie,92.0,min,United States
+Terra,Terra,2015.0,,,97.0,Movie,98.0,min,France
+Eyes of a Thief,Eyes of a Thief,2014.0,,,98.0,Movie,103.0,min,", France, Algeria"
+Dhamaal,Dhamaal,2007.0,,,135.0,Movie,128.0,min,India
+Himmatwala,Himmatwala,2013.0,,,0.0,Movie,140.0,min,India
+Tees Maar Khan,Tees Maar Khan,2010.0,,,135.0,Movie,125.0,min,India
+Little Sister,Little Sister,2016.0,,,91.0,Movie,91.0,min,United States
+Aquarius,Aquarius,2016.0,762241.0,285930.0,140.0,TV Show,2.0,season,United States
+I'll Sleep When I'm Dead,I'll Sleep When I'm Dead,2016.0,,,82.0,Movie,80.0,min,United States
+Dhanak,Dhanak,2015.0,,,106.0,Movie,114.0,min,India
+Other People,Other People,2016.0,,93000.0,97.0,Movie,97.0,min,United States
+Rampage: President Down,Rampage: President Down,2016.0,,,0.0,Movie,100.0,min,Canada
+For the Love of Spock,For the Love of Spock,2016.0,,,105.0,Movie,112.0,min,"Canada, United States"
+Toro,Toro,2016.0,4000000.0,,105.0,Movie,106.0,min,Spain
+Off Course,Off Course,2015.0,,,104.0,Movie,107.0,min,Spain
+Divines,Divines,2016.0,2791874.0,,105.0,Movie,107.0,min,"France, Qatar"
+USS Indianapolis: Men of Courage,USS Indianapolis: Men of Courage,2016.0,40000000.0,,128.0,Movie,130.0,min,United States
+Devil's Bride,Devil's Bride,2016.0,3100000.0,,108.0,Movie,108.0,min,"Finland, Sweden, Norway, Latvia, Germany"
+Kickboxer: Vengeance,Kickboxer: Vengeance,2016.0,17000000.0,,90.0,Movie,90.0,min,United States
+Loving,Loving,2016.0,9000000.0,8996802.0,123.0,Movie,124.0,min,"United Kingdom, United States"
+Miss Stevens,Miss Stevens,2016.0,,,86.0,Movie,86.0,min,United States
+Christine,Christine,2016.0,,,123.0,Movie,119.0,min,"United Kingdom, United States"
+Silicon Cowboys,Silicon Cowboys,2016.0,,,78.0,Movie,77.0,min,United States
+ARQ,ARQ,2016.0,,,88.0,Movie,89.0,min,"Canada, United States"
+Fire at Sea,Fire at Sea,2016.0,,,108.0,Movie,114.0,min,"Italy, France"
+We Need to Talk,We Need to Talk,2016.0,,,0.0,Movie,91.0,min,Spain
+Planetarium,Planetarium,2016.0,,,106.0,Movie,108.0,min,"France, Belgium"
+A Monster Calls,A Monster Calls,2016.0,43000000.0,46652768.0,108.0,Movie,108.0,min,"United Kingdom, Spain, United States"
+Audrie & Daisy,Audrie & Daisy,2016.0,,,95.0,Movie,99.0,min,United States
+Iliza Shlesinger: Confirmed Kills,Iliza Shlesinger: Confirmed Kills,2016.0,,,77.0,Movie,78.0,min,United States
+The Distinguished Citizen,The Distinguished Citizen,2016.0,,,118.0,Movie,113.0,min,"Argentina, Spain"
+Railroad Tigers,Railroad Tigers,2016.0,50000000.0,102205175.0,124.0,Movie,124.0,min,China
+Asura: The City of Madness,Asura: The City of Madness,2016.0,,,136.0,Movie,133.0,min,South Korea
+Erased,Erased,2016.0,,,120.0,TV Show,1.0,season,Japan
+Line Walker,Line Walker,2016.0,,88658655.0,108.0,Movie,109.0,min,"China, Hong Kong"
+My Life as a Zucchini,My Life as a Zucchini,2016.0,8000000.0,292279.0,66.0,Movie,68.0,min,"Switzerland, France"
+Amanda Knox,Amanda Knox,2016.0,,,92.0,Movie,92.0,min,"Denmark, United States"
+Imperial Dreams,Imperial Dreams,2014.0,,,87.0,Movie,86.0,min,United States
+Gringo: The Dangerous Life of John McAfee,Gringo: The Dangerous Life of John McAfee,2016.0,,,100.0,Movie,97.0,min,United States
+The Fury of a Patient Man,The Fury of a Patient Man,2016.0,1200000.0,,92.0,Movie,92.0,min,Spain
+Danny Says,Danny Says,2015.0,,,0.0,Movie,103.0,min,United States
+Raising the Bar,Raising the Bar,2016.0,600000.0,,93.0,Movie,97.0,min,Australia
+Harriet the Spy: Blog Wars,Harriet the Spy: Blog Wars,2010.0,,,90.0,Movie,87.0,min,"United States, Canada"
+Honey 2,Honey 2,2011.0,,,110.0,Movie,111.0,min,United States
+Blue Jay,Blue Jay,2016.0,,,80.0,Movie,81.0,min,United States
+13th,13TH,2016.0,,,100.0,Movie,101.0,min,United States
+The Siege of Jadotville,The Siege of Jadotville,2016.0,,,108.0,Movie,108.0,min,"Ireland, South Africa"
+Vincent N Roxxy,Vincent N Roxxy,2016.0,5000000.0,,110.0,Movie,101.0,min,United States
+Road to Yesterday,Road to Yesterday,2015.0,,,95.0,Movie,96.0,min,Nigeria
+Barbie in Rock 'N Royals,Barbie in Rock 'N Royals,2015.0,,,84.0,Movie,83.0,min,United States
+Barbie: Spy Squad,Barbie: Spy Squad,2016.0,,,75.0,Movie,75.0,min,"United States, Canada"
+The Monster,The Monster,2016.0,2700000.0,,91.0,Movie,91.0,min,"United States, Canada"
+Mascots,Mascots,2016.0,20000000.0,,89.0,Movie,95.0,min,United States
+Wild Oats,Wild Oats,2016.0,,,96.0,Movie,86.0,min,"Germany, United States"
+Sky Ladder: The Art of Cai Guo-Qiang,Sky Ladder: The Art of Cai Guo-Qiang,2016.0,,,80.0,Movie,80.0,min,United States
+Russell Peters: Almost Famous,Russell Peters: Almost Famous,2016.0,,,0.0,Movie,73.0,min,United States
+Raiders!: The Story of the Greatest Fan Film Ever Made,Raiders!: The Story of the Greatest Fan Film Ever Made,2015.0,,,93.0,Movie,93.0,min,United States
+Dream/Killer,Dream/Killer,2015.0,,,107.0,Movie,109.0,min,United States
+The Forgotten,The Forgotten,2014.0,1446950.0,,89.0,Movie,89.0,min,United Kingdom
+Una,Una,2016.0,,23275.0,94.0,Movie,94.0,min,"United Kingdom, Canada, United States"
+Operator,Operator,2016.0,,,89.0,Movie,91.0,min,United States
+Jessica Darling's It List,Jessica Darling's It List,2016.0,,,79.0,Movie,80.0,min,United States
+Frank & Lola,Frank & Lola,2016.0,,9188.0,88.0,Movie,87.0,min,United States
+In a Valley of Violence,In a Valley of Violence,2016.0,,53647.0,104.0,Movie,104.0,min,United States
+Bon Bini Holland,Bon Bini Holland,2015.0,,,95.0,Movie,88.0,min,Netherlands
+Joe Rogan: Triggered,Joe Rogan: Triggered,2016.0,,,63.0,Movie,64.0,min,United States
+Into the Inferno,Into the Inferno,2016.0,,,104.0,Movie,107.0,min,"United Kingdom, Germany, Canada"
+Mr. Church,Mr. Church,2016.0,8000000.0,,104.0,Movie,105.0,min,United States
+Before the Flood,Before the Flood,2016.0,,,93.0,Movie,97.0,min,United States
+Come and Find Me,Come and Find Me,2016.0,,,112.0,Movie,112.0,min,"Canada, United States, United Kingdom"
+Operation Mekong,Operation Mekong,2016.0,,173000000.0,140.0,Movie,124.0,min,"China, Hong Kong"
+I Am the Pretty Thing That Lives in the House,I Am the Pretty Thing That Lives in the House,2016.0,,,89.0,Movie,89.0,min,"Canada, United States"
+The Autopsy of Jane Doe,The Autopsy of Jane Doe,2016.0,,5972942.0,86.0,Movie,86.0,min,"United Kingdom, United States"
+Kajraare,Kajraare,2010.0,,,160.0,Movie,113.0,min,India
+The Late Bloomer,The Late Bloomer,2016.0,,,90.0,Movie,95.0,min,United States
+Ice Guardians,Ice Guardians,2016.0,,,108.0,Movie,108.0,min,"Canada, Ireland, United States"
+Dare to Be Wild,Dare to Be Wild,2015.0,,,100.0,Movie,100.0,min,Ireland
+The Battle of Midway,The Battle of Midway,1942.0,,,18.0,Movie,18.0,min,United States
+Newtown,Newtown,2016.0,,,85.0,Movie,84.0,min,United States
+Miss Sharon Jones!,Miss Sharon Jones!,2015.0,,,93.0,Movie,94.0,min,United States
+Smoke & Mirrors,Smoke & Mirrors,2016.0,5000000.0,2387127.0,123.0,Movie,123.0,min,Spain
+They Are Everywhere,They Are Everywhere,2016.0,,,0.0,Movie,110.0,min,"France, Belgium"
+The Ivory Game,The Ivory Game,2016.0,,,112.0,Movie,112.0,min,Austria
+Collateral Beauty,Collateral Beauty,2016.0,36000000.0,87416021.0,97.0,Movie,97.0,min,United States
+True Memoirs of an International Assassin,True Memoirs of an International Assassin,2016.0,40000000.0,,98.0,Movie,98.0,min,United States
+The African Doctor,The African Doctor,2016.0,,,96.0,Movie,94.0,min,France
+Dog Eat Dog,Dog Eat Dog,2016.0,,,93.0,Movie,93.0,min,United States
+Justin Timberlake + The Tennessee Kids,Justin Timberlake + the Tennessee Kids,2016.0,,,90.0,Movie,90.0,min,United States
+Godless,Godless,2017.0,,,99.0,TV Show,1.0,season,United States
+Good Kids,Good Kids,2016.0,,,86.0,Movie,90.0,min,United States
+Officer Downe,Officer Downe,2016.0,,,88.0,Movie,91.0,min,United States
+A Silent Voice,A Silent Voice,2016.0,,19606617.0,130.0,Movie,130.0,min,Japan
+In the Shadow of Iris,In the Shadow of Iris,2016.0,,,99.0,Movie,99.0,min,"France, Belgium"
+100 Meters,100 Meters,2016.0,,,0.0,Movie,109.0,min,"Portugal, Spain"
+Sour Grapes,Sour Grapes,2016.0,,,86.0,Movie,85.0,min,United Kingdom
+"Thelonious Monk: Straight, No Chaser","Thelonious Monk: Straight, No Chaser",1988.0,,,90.0,Movie,89.0,min,United States
+Siren,Siren,2016.0,,,82.0,Movie,83.0,min,United States
+Asperger's Are Us,Asperger's Are Us,2016.0,,,83.0,Movie,83.0,min,United States
+Opening Night,Opening Night,2016.0,,,90.0,Movie,84.0,min,United States
+A Kind of Murder,A Kind of Murder,2016.0,,,95.0,Movie,96.0,min,United States
+Miss Sloane,Miss Sloane,2016.0,13000000.0,3500605.0,132.0,Movie,132.0,min,"France, United States, United Kingdom, Canada"
+When Two Worlds Collide,When Two Worlds Collide,2016.0,,,103.0,Movie,103.0,min,"Peru, United States, United Kingdom"
+Dügün Dernek 2: Sünnet,Dügün Dernek 2: Sünnet,2015.0,,,0.0,Movie,107.0,min,Turkey
+Michael Che Matters,Michael Che Matters,2016.0,,,60.0,Movie,61.0,min,United States
+The Charnel House,The Charnel House,2016.0,,,90.0,Movie,93.0,min,United States
+Bleed for This,Bleed for This,2016.0,6000000.0,6174491.0,116.0,Movie,120.0,min,United States
+Rainbow Time,Rainbow Time,2016.0,,,91.0,Movie,92.0,min,United States
+20th Century Women,20th Century Women,2016.0,7000000.0,5816211.0,119.0,Movie,119.0,min,United States
+Money,Money,2016.0,,,86.0,Movie,84.0,min,"United States, Spain"
+The Women's Balcony,The Women's Balcony,2016.0,,,96.0,Movie,100.0,min,Israel
+The Hurt Business,The Hurt Business,2016.0,,,107.0,Movie,111.0,min,United States
+Mercenary,Mercenary,2016.0,,,112.0,Movie,99.0,min,France
+Reggie Watts: Spatial,Reggie Watts: Spatial,2016.0,,,61.0,Movie,62.0,min,United States
+Mercy,Mercy,2016.0,,,82.0,Movie,88.0,min,United States
+The Founder,The Founder,2016.0,25000000.0,23964782.0,115.0,Movie,115.0,min,"United States, Greece"
+I Am Bolt,I Am Bolt,2016.0,,,107.0,Movie,107.0,min,United Kingdom
+Dear Zindagi,Dear Zindagi,2016.0,4300000.0,3376375.0,149.0,Movie,149.0,min,India
+Wyatt Cenac: Brooklyn,Wyatt Cenac: Brooklyn,2014.0,,,67.0,Movie,68.0,min,United States
+I Am Not Your Negro,I Am Not Your Negro,2017.0,,,95.0,Movie,94.0,min,"Switzerland, France, Belgium, United States"
+Alone in Berlin,Alone in Berlin,2016.0,,33125.0,103.0,Movie,103.0,min,"United Kingdom, France, Germany"
+A Grand Night In: The Story of Aardman,A Grand Night In: The Story of Aardman,2015.0,,,59.0,Movie,59.0,min,United Kingdom
+Barry,Barry,2016.0,,,104.0,Movie,105.0,min,United States
+Hurricane Bianca,Hurricane Bianca,2016.0,,,84.0,Movie,85.0,min,United States
+Our Lovers,Our Lovers,2016.0,1400000.0,,88.0,Movie,92.0,min,Spain
+Greater,Greater,2016.0,,,130.0,Movie,131.0,min,United States
+Dangal,Dangal,2016.0,10400000.0,310000000.0,161.0,Movie,161.0,min,India
+The Darkest Dawn,The Darkest Dawn,2016.0,,,76.0,Movie,75.0,min,United Kingdom
+The Little Hours,The Little Hours,2017.0,,,89.0,Movie,89.0,min,"Canada, United States"
+The Third Party,The Third Party,2016.0,,,120.0,Movie,118.0,min,Philippines
+Sleepless,Sleepless,2017.0,30000000.0,32540674.0,95.0,Movie,95.0,min,United States
+Garfunkel and Oates: Trying to be Special,Garfunkel and Oates: Trying to be Special,2016.0,,,62.0,Movie,62.0,min,United States
+The Unknown Girl,The Unknown Girl,2016.0,,,106.0,Movie,106.0,min,"Belgium, France"
+Heroes Wanted,Heroes Wanted,2016.0,,,0.0,Movie,97.0,min,Spain
+The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared,The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared,2016.0,,,108.0,Movie,108.0,min,Sweden
+The Bye Bye Man,The Bye Bye Man,2017.0,7400000.0,26667197.0,96.0,Movie,96.0,min,"United States, China"
+Trailer Park Boys: Say Goodnight to the Bad Guys,Trailer Park Boys: Say Goodnight to the Bad Guys,2008.0,,,60.0,Movie,47.0,min,Canada
+Swearnet Live,Swearnet Live,2014.0,,,75.0,Movie,75.0,min,Canada
+The 24 Hour War,The 24 Hour War,2016.0,,,99.0,Movie,100.0,min,United States
+The Invisible Guest,The Invisible Guest,2016.0,4000000.0,,106.0,Movie,106.0,min,Spain
+Kung Fu Yoga,Kung Fu Yoga,2017.0,65000000.0,254212245.0,130.0,Movie,107.0,min,"China, India, Nepal"
+Rangoon,Rangoon,2017.0,12003848.0,,167.0,Movie,153.0,min,India
+"Dana Carvey: Straight White Male, 60","Dana Carvey: Straight White Male, 60",2016.0,,,64.0,Movie,64.0,min,United States
+Master,Master,2016.0,,,143.0,Movie,143.0,min,South Korea
+The White Helmets,The White Helmets,2016.0,,,40.0,Movie,41.0,min,United Kingdom
+How to Win the US Presidency,How to Win the US Presidency,2016.0,,,50.0,Movie,51.0,min,United States
+Hitler's Olympics,Hitler's Olympics,2016.0,,,44.0,Movie,44.0,min,United Kingdom
+Coin Heist,Coin Heist,2017.0,,,97.0,Movie,98.0,min,United States
+The Young Offenders,The Young Offenders,2016.0,,,84.0,Movie,83.0,min,Ireland
+Tini: The New Life of Violetta,Tini: The New Life of Violetta,2016.0,,,95.0,Movie,99.0,min,"Spain, Italy, Argentina"
+Sword Master,Sword Master,2016.0,,,108.0,Movie,108.0,min,"China, Hong Kong"
+Clinical,Clinical,2017.0,,,104.0,Movie,104.0,min,United States
+Teenage Cocktail,Teenage Cocktail,2016.0,,,88.0,Movie,89.0,min,United States
+Legends of the Hidden Temple,LEGENDS OF THE HIDDEN TEMPLE,2016.0,,,65.0,Movie,68.0,min,United States
+Jim Gaffigan: King Baby,Jim Gaffigan: King Baby,2009.0,,,72.0,Movie,71.0,min,United States
+Jim Gaffigan: Cinco,Jim Gaffigan: Cinco,2017.0,,,73.0,Movie,74.0,min,United States
+Very Big Shot,Very Big Shot,2015.0,,,107.0,Movie,109.0,min,"Lebanon, Qatar"
+Before I Fall,Before I Fall,2017.0,5000000.0,10025571.0,98.0,Movie,98.0,min,United States
+I Don't Feel at Home in This World Anymore,I Don't Feel at Home in This World Anymore,2017.0,,,96.0,Movie,97.0,min,United States
+Headshot,Headshot,2016.0,,,117.0,Movie,119.0,min,Indonesia
+Incarnate,Incarnate,2016.0,5000000.0,6341855.0,91.0,Movie,87.0,min,United States
+Take the 10,Take the 10,2017.0,,,80.0,Movie,80.0,min,United States
+"Liar, Liar, Vampire","Liar, Liar, Vampire",2015.0,3500000.0,,66.0,Movie,68.0,min,United States
+The Similars,The Similars,2015.0,,,89.0,Movie,90.0,min,Mexico
+The River Thief,The River Thief,2016.0,,,97.0,Movie,87.0,min,United States
+iBoy,IBOY,2017.0,1500000.0,,90.0,Movie,91.0,min,United Kingdom
+Two Lovers and a Bear,Two Lovers and a Bear,2016.0,,,96.0,Movie,95.0,min,Canada
+A Ghost Story,A Ghost Story,2017.0,100000.0,15584255.0,92.0,Movie,92.0,min,United States
+Journey To Greenland,Journey to Greenland,2016.0,,,98.0,Movie,99.0,min,France
+Bill Burr: Walk Your Way Out,Bill Burr: Walk Your Way Out,2017.0,,,77.0,Movie,78.0,min,United States
+XX,XX,2017.0,,30911.0,80.0,Movie,81.0,min,"Canada, United States"
+Kills on Wheels,Kills on Wheels,2016.0,,,105.0,Movie,103.0,min,Hungary
+The Hollow Point,The Hollow Point,2016.0,,,97.0,Movie,97.0,min,United States
+Black Snow,Black Snow,2017.0,4000000.0,1440000.0,90.0,Movie,91.0,min,"Argentina, Spain"
+Neal Brennan: 3 Mics,Neal Brennan: 3 Mics,2017.0,,,65.0,Movie,66.0,min,United States
+"Michael Bolton's Big, Sexy Valentine's Day Special","Michael Bolton's Big, Sexy Valentine's Day Special",2017.0,,,54.0,Movie,54.0,min,United States
+Sarajevo,Sarajevo,2014.0,,,98.0,Movie,98.0,min,"Austria, Czech Republic"
+Pink,Pink,2016.0,75000000.0,,136.0,Movie,130.0,min,India
+Berlin Syndrome,Berlin Syndrome,2017.0,,201719.0,116.0,Movie,116.0,min,Australia
+Peter and the Farm,Peter and the Farm,2016.0,,,92.0,Movie,92.0,min,United States
+Dukhtar,Dukhtar,2014.0,,,93.0,Movie,93.0,min,"Pakistan, Norway, United States"
+The Beginning of Life,The Beginning of Life,2016.0,,,98.0,Movie,96.0,min,
+When Hari Got Married,When Hari Got Married,2013.0,,,75.0,Movie,75.0,min,"United Kingdom, India, United States"
+Beauties of the Night,Beauties of the Night,2016.0,,,90.0,Movie,92.0,min,Mexico
+To the Bone,To the Bone,2017.0,,,107.0,Movie,108.0,min,United States
+Girlfriend's Day,Girlfriend's Day,2017.0,,,70.0,Movie,71.0,min,United States
+Katherine Ryan: In Trouble,Katherine Ryan: In Trouble,2017.0,,,63.0,Movie,64.0,min,United Kingdom
+God's Own Country,God's Own Country,2017.0,,,105.0,Movie,105.0,min,United Kingdom
+Hostages,Hostages,2017.0,,,104.0,Movie,91.0,min,
+Kill Ratio,Kill Ratio,2016.0,,,86.0,Movie,87.0,min,United States
+Trash Fire,Trash Fire,2016.0,,,91.0,Movie,94.0,min,United States
+Colin Quinn: The New York Story,Colin Quinn: The New York Story,2016.0,,,62.0,Movie,62.0,min,United States
+Cedric the Entertainer: Live from the Ville,Cedric the Entertainer: Live from the Ville,2016.0,,,60.0,Movie,60.0,min,United States
+The Reconquest,The Reconquest,2016.0,,,108.0,Movie,108.0,min,Spain
+Theo Von: No Offense,Theo Von: No Offense,2016.0,,,66.0,Movie,67.0,min,United States
+Kathleen Madigan: Bothering Jesus,Kathleen Madigan: Bothering Jesus,2016.0,,,71.0,Movie,71.0,min,United States
+My Entire High School Sinking Into the Sea,My Entire High School Sinking Into the Sea,2016.0,,,75.0,Movie,77.0,min,United States
+Gantz:O,GANTZ:O,2016.0,,2238600.0,95.0,Movie,96.0,min,Japan
+Mr. Pig,Mr. Pig,2016.0,,,100.0,Movie,97.0,min,Mexico
+Sister Cities,Sister Cities,2016.0,,,86.0,Movie,88.0,min,United States
+Oklahoma City,Oklahoma City,2017.0,,,101.0,Movie,102.0,min,United States
+Ralphie May: Unruly,Ralphie May: Unruly,2015.0,,,83.0,Movie,83.0,min,United States
+Jeff Dunham: Unhinged in Hollywood,Jeff Dunham: Unhinged in Hollywood,2015.0,,,42.0,Movie,71.0,min,United States
+Anjelah Johnson: Not Fancy,Anjelah Johnson: Not Fancy,2015.0,,,63.0,Movie,64.0,min,United States
+Mike Epps: Don't Take It Personal,Mike Epps: Don't Take It Personal,2015.0,,,60.0,Movie,60.0,min,United States
+Mean Dreams,Mean Dreams,2016.0,,,108.0,Movie,105.0,min,Canada
+The Apostate,The Apostate,2015.0,,,80.0,Movie,80.0,min,"Spain, France, Uruguay"
+Magnus,Magnus,2016.0,,,76.0,Movie,75.0,min,Norway
+Sand Storm,Sand Storm,2016.0,,,87.0,Movie,88.0,min,"Israel, Germany, France"
+Wolves,Wolves,2016.0,,,109.0,Movie,109.0,min,United States
+The Ottoman Lieutenant,The Ottoman Lieutenant,2017.0,40000000.0,240978.0,111.0,Movie,111.0,min,"Turkey, United States"
+Personal Shopper,Personal Shopper,2016.0,6000000.0,1305195.0,105.0,Movie,105.0,min,"France, Germany, Czech Republic, Belgium"
+Love on Delivery,Love on Delivery,1994.0,,,100.0,Movie,93.0,min,Hong Kong
+Extremis,Extremis,2016.0,,,24.0,Movie,25.0,min,United States
+Midnight Diner,Midnight Diner,2014.0,,,119.0,TV Show,3.0,season,Japan
+The Assignment,The Assignment,2016.0,5000000.0,,95.0,Movie,95.0,min,"France, Canada, United States"
+Yes or No 2,Yes or No 2,2012.0,,,0.0,Movie,112.0,min,Thailand
+Kaabil,Kaabil,2017.0,5200000.0,,139.0,Movie,139.0,min,India
+The Sunshine Makers,The Sunshine Makers,2015.0,,,101.0,Movie,91.0,min,United Kingdom
+Moshe Kasher: Live in Oakland,Moshe Kasher: Live in Oakland,2012.0,,,60.0,Movie,61.0,min,United States
+Casting JonBenet,Casting JonBenet,2017.0,,,81.0,Movie,81.0,min,"United States, Australia, China"
+Amy Schumer: The Leather Special,Amy Schumer: The Leather Special,2017.0,,,57.0,Movie,57.0,min,United States
+Jim Norton: Mouthful of Shame,Jim Norton: Mouthful of Shame,2017.0,,,61.0,Movie,62.0,min,United States
+The Invisible Guardian,The Invisible Guardian,2017.0,,,129.0,Movie,129.0,min,"Spain, Germany"
+Trevor Noah: Afraid of the Dark,Trevor Noah: Afraid of the Dark,2017.0,,,68.0,Movie,67.0,min,United States
+Population 436,Population 436,2006.0,,,88.0,Movie,93.0,min,"Canada, United States"
+Bokeh,Bokeh,2017.0,,,104.0,Movie,92.0,min,"United States, Iceland"
+Deidra & Laney Rob a Train,Deidra & Laney Rob a Train,2017.0,,,92.0,Movie,92.0,min,United States
+A Flying Jatt,A Flying Jatt,2016.0,,,151.0,Movie,142.0,min,India
+The Most Hated Woman in America,The Most Hated Woman in America,2017.0,,,91.0,Movie,93.0,min,United States
+O Kadhal Kanmani,O Kadhal Kanmani,2015.0,940000.0,5100000.0,138.0,Movie,133.0,min,
+Apex: The Story of the Hypercar,APEX: The Story of the Hypercar,2016.0,,,0.0,Movie,86.0,min,United States
+People You May Know,People You May Know,2016.0,,,101.0,Movie,108.0,min,"United States, Spain"
+Enter the Warriors Gate,Enter the Warriors Gate,2016.0,,,108.0,Movie,105.0,min,"France, Canada, China, Cambodia"
+The Bar,The Bar,2017.0,,,0.0,Movie,102.0,min,"Spain, Argentina"
+Pandora,Pandora,2016.0,,,136.0,Movie,137.0,min,South Korea
+The Discovery,The Discovery,2017.0,,,102.0,Movie,102.0,min,United States
+Viceroy's House,Viceroy's House,2017.0,,,106.0,Movie,106.0,min,"United Kingdom, India, Sweden"
+The Zookeeper's Wife,The Zookeeper's Wife,2017.0,20000000.0,13162475.0,126.0,Movie,127.0,min,"Czech Republic, United Kingdom, United States"
+Brave Miss World,Brave Miss World,2013.0,,,99.0,TV Show,1.0,season,"United States, Israel, Italy, South Africa"
+Louis C.K. 2017,Louis C.K. 2017,2017.0,,,74.0,Movie,,nan,United States
+Habibie & Ainun,Habibie & Ainun,2012.0,,,125.0,Movie,125.0,min,"Indonesia, Singapore"
+The Case for Christ,The Case for Christ,2017.0,,,112.0,Movie,113.0,min,United States
+1 Mile to You,1 Mile to You,2017.0,,,104.0,Movie,105.0,min,United States
+Boy Missing,Boy Missing,2016.0,,,105.0,Movie,105.0,min,Spain
+Burning Sands,Burning Sands,2017.0,,,105.0,Movie,102.0,min,United States
+I Am Not Madame Bovary,I Am Not Madame Bovary,2016.0,,,128.0,Movie,139.0,min,China
+Sandy Wexler,Sandy Wexler,2017.0,,,130.0,Movie,131.0,min,United States
+Betting on Zero,Betting on Zero,2017.0,,,99.0,Movie,104.0,min,United States
+Here Alone,Here Alone,2016.0,,,97.0,Movie,97.0,min,United States
+London Spy,London Spy,2015.0,,,300.0,TV Show,1.0,season,United Kingdom
+Win It All,Win It All,2017.0,,,88.0,Movie,89.0,min,United States
+Band Aid,Band Aid,2017.0,,,91.0,Movie,94.0,min,United States
+It Comes at Night,It Comes at Night,2017.0,5000000.0,,91.0,Movie,92.0,min,United States
+Horror Story,Horror Story,2013.0,,,91.0,Movie,85.0,min,India
+The Book of Henry,The Book of Henry,2017.0,10000000.0,4219536.0,105.0,Movie,105.0,min,United States
+Planet Earth II,Planet Earth II,2016.0,,,300.0,TV Show,1.0,season,United Kingdom
+In This Corner of the World,In This Corner of the World,2016.0,,19204593.0,128.0,Movie,129.0,min,Japan
+Skins,Skins,2017.0,,,78.0,Movie,78.0,min,Spain
+Beyond Skyline,Beyond Skyline,2017.0,,,0.0,Movie,107.0,min,"United States, Canada, Indonesia, United Kingdom, China, Singapore"
+How to Be a Latin Lover,How to Be a Latin Lover,2017.0,,26251899.0,115.0,Movie,116.0,min,"Mexico, United States"
+Phobia 2,Phobia 2,2009.0,,,125.0,Movie,125.0,min,Thailand
+Laddaland,Laddaland,2011.0,,,117.0,Movie,112.0,min,Thailand
+Nobody Speak: Trials of the Free Press,Nobody Speak: Trials of the Free Press,2017.0,,,105.0,Movie,96.0,min,"Netherlands, United States"
+Lucas Brothers: On Drugs,Lucas Brothers: On Drugs,2017.0,,,49.0,Movie,50.0,min,United States
+Katt Williams: Live,Katt Williams: Live,2006.0,,,86.0,Movie,85.0,min,United States
+Sand Castle,Sand Castle,2017.0,,,113.0,Movie,113.0,min,United States
+Ali Baba ve 7 Cüceler,Ali Baba ve 7 Cüceler,2015.0,,,0.0,Movie,115.0,min,Turkey
+Romantik Komedi,Romantik Komedi,2010.0,,,0.0,Movie,110.0,min,Turkey
+The Age of Shadows,The Age of Shadows,2016.0,8620000.0,,140.0,Movie,140.0,min,South Korea
+Small Crimes,Small Crimes,2017.0,,,95.0,Movie,95.0,min,"Canada, United States"
+Bottom of the World,Bottom of the World,2017.0,,,85.0,Movie,84.0,min,"Canada, United States"
+The Lovers,The Lovers,2017.0,,214078.0,94.0,Movie,98.0,min,United States
+Maria Bamford: Old Baby,Maria Bamford: Old Baby,2017.0,,,64.0,Movie,64.0,min,United States
+Sam Kinison: Breaking the Rules,Sam Kinison: Breaking the Rules,1987.0,,,50.0,Movie,50.0,min,United States
+Sam Kinison: Family Entertainment Hour,Sam Kinison: Family Entertainment Hour,1991.0,,,49.0,Movie,49.0,min,United States
+The Lighthouse of the Orcas,The Lighthouse of the Orcas,2016.0,6000000.0,,110.0,Movie,110.0,min,"Spain, Argentina"
+Kabhi Alvida Naa Kehna,Kabhi Alvida Naa Kehna,2006.0,7400000.0,17000000.0,193.0,Movie,192.0,min,India
+The Beguiled,The Beguiled,2017.0,10500000.0,25442939.0,93.0,Movie,94.0,min,United States
+Okja,Okja,2017.0,50000000.0,,121.0,Movie,121.0,min,"South Korea, United States"
+Lady Bloodfight,Lady Bloodfight,2016.0,,,97.0,Movie,101.0,min,Hong Kong
+Catching the Sun,Catching the Sun,2015.0,,,90.0,Movie,74.0,min,"China, Germany, India, United States"
+Mindhorn,Mindhorn,2017.0,,,89.0,Movie,88.0,min,United Kingdom
+Generation Iron 2,Generation Iron 2,2017.0,,,106.0,Movie,107.0,min,United States
+Much Ado About Nothing,Much Ado About Nothing,2016.0,,,94.0,Movie,96.0,min,"Chile, United States, France"
+Monster High: Electrified,Monster High: Electrified,2017.0,,,72.0,Movie,72.0,min,
+"Monster High: Boo York, Boo York","Monster High: Boo York, Boo York",2015.0,,,72.0,Movie,72.0,min,United States
+Monster High: Haunted,Monster High: Haunted,2015.0,,,75.0,Movie,76.0,min,United States
+Monster High: Fright On!,Monster High: Fright On!,2011.0,500000.0,,0.0,Movie,46.0,min,United States
+Monster High: Freaky Fusion,Monster High: Freaky Fusion,2014.0,,,0.0,Movie,74.0,min,United States
+Monster High: Friday Night Frights,Monster High: Friday Night Frights,2013.0,,,46.0,Movie,46.0,min,United States
+"Monster High: Frights, Camera, Action!","Monster High: Frights, Camera, Action!",2014.0,,,72.0,Movie,74.0,min,United States
+Monster High: Escape from Skull Shores,Monster High: Escape from Skull Shores,2012.0,,,45.0,Movie,46.0,min,United States
+Monster High: Ghouls Rule,Monster High: Ghouls Rule,2012.0,,,70.0,Movie,71.0,min,United States
+Handsome: A Netflix Mystery Movie,Handsome: A Netflix Mystery Movie,2017.0,,,81.0,Movie,81.0,min,United States
+Bugs,Bugs,2016.0,,,75.0,Movie,73.0,min,"Netherlands, Denmark, France, Germany"
+George of the Jungle 2,George of the Jungle 2,2003.0,,,87.0,Movie,87.0,min,"United States, Australia"
+The Dukes of Hazzard: The Beginning,The Dukes of Hazzard: The Beginning,2007.0,,,95.0,Movie,95.0,min,United States
+My Honor Was Loyalty,My Honor Was Loyalty,2015.0,,,116.0,Movie,115.0,min,Italy
+The Black Room,The Black Room,2016.0,,,91.0,Movie,95.0,min,United States
+Get Me Roger Stone,Get Me Roger Stone,2017.0,,,100.0,Movie,101.0,min,United States
+Blame!,BLAME!,2017.0,,,106.0,Movie,106.0,min,Japan
+This Is Not What I Expected,This Is Not What I Expected,2017.0,,,106.0,Movie,107.0,min,China
+War Machine,War Machine,2017.0,60000000.0,,122.0,Movie,123.0,min,United States
+2 Alone in Paris,2 Alone in Paris,2008.0,,,94.0,Movie,97.0,min,France
+Vir Das: Abroad Understanding,Vir Das: Abroad Understanding,2017.0,,,65.0,Movie,66.0,min,United States
+"Norm Macdonald: Hitler's Dog, Gossip & Trickery","Norm Macdonald: Hitler's Dog, Gossip & Trickery",2017.0,,,61.0,Movie,61.0,min,United States
+Wakefield,Wakefield,2016.0,,,106.0,Movie,109.0,min,United States
+The Mars Generation,The Mars Generation,2017.0,,,97.0,Movie,98.0,min,United States
+The Pass,The Pass,2016.0,,,87.0,Movie,87.0,min,United Kingdom
+Hasan Minhaj: Homecoming King,Hasan Minhaj: Homecoming King,2017.0,,,72.0,Movie,73.0,min,
+Jeremiah Tower: The Last Magnificent,Jeremiah Tower: The Last Magnificent,2016.0,,,120.0,Movie,103.0,min,"Mexico, United States"
+I Am Jane Doe,I Am Jane Doe,2017.0,,,91.0,Movie,98.0,min,United States
+Sweet Virginia,Sweet Virginia,2017.0,,,95.0,Movie,93.0,min,"United States, Canada"
+Harold and Lillian: A Hollywood Love Story,Harold and Lillian: A Hollywood Love Story,2015.0,,,96.0,Movie,95.0,min,United States
+Lucid Dream,Lucid Dream,2017.0,5000000.0,,101.0,Movie,102.0,min,South Korea
+Dragonheart: Battle for the Heartfire,Dragonheart: Battle for the Heartfire,2017.0,,,98.0,Movie,98.0,min,United States
+Shimmer Lake,Shimmer Lake,2017.0,,,83.0,Movie,87.0,min,"Canada, United States"
+What Happened to Monday,What Happened to Monday,2017.0,,,123.0,Movie,124.0,min,"United Kingdom, France, United States, Belgium"
+7:19,7:19,2016.0,,,0.0,Movie,93.0,min,Mexico
+On Body and Soul,On Body and Soul,2017.0,,,116.0,Movie,116.0,min,Hungary
+God of War,God of War,2017.0,25000000.0,,130.0,Movie,129.0,min,"China, Hong Kong"
+BoJack Horseman Christmas Special: Sabrina's Christmas Wish,BoJack Horseman Christmas Special: Sabrina's Christmas Wish,2014.0,,,25.0,Movie,26.0,min,United States
+The Keepers,The Keepers,2017.0,,,432.0,TV Show,1.0,season,United States
+A Gray State,A Gray State,2017.0,,,93.0,Movie,93.0,min,United States
+Strong Island,Strong Island,2017.0,,,107.0,Movie,108.0,min,"United States, Denmark"
+Orbiter 9,Orbiter 9,2017.0,,,95.0,Movie,95.0,min,"Spain, Colombia"
+Havenhurst,Havenhurst,2016.0,,,80.0,Movie,85.0,min,United States
+Cave,Cave,2016.0,,,85.0,Movie,77.0,min,Norway
+You Get Me,You Get Me,2017.0,,,89.0,Movie,89.0,min,United States
+Good Time,Good Time,2017.0,,10893246.0,99.0,Movie,101.0,min,United States
+Sadie's Last Days on Earth,Sadie's Last Days on Earth,2016.0,,,90.0,Movie,94.0,min,Canada
+Five Came Back,Five Came Back,2017.0,,,195.0,TV Show,1.0,season,
+Operações Especiais,Operações Especiais,2015.0,6000000.0,,99.0,Movie,99.0,min,Brazil
+Chasing Coral,Chasing Coral,2017.0,,,93.0,Movie,89.0,min,United States
+Water & Power: A California Heist,Water & Power: A California Heist,2017.0,,,87.0,Movie,78.0,min,United States
+What the Health,What the Health,2017.0,273428.0,,97.0,Movie,92.0,min,United States
+Joshua: Teenager vs. Superpower,Joshua: Teenager vs. Superpower,2017.0,,,78.0,Movie,79.0,min,United States
+Revolt,Revolt,2017.0,,,87.0,Movie,87.0,min,United Kingdom
+Hickok,Hickok,2017.0,,,88.0,Movie,88.0,min,United States
+Inconceivable,Inconceivable,2017.0,,,105.0,Movie,106.0,min,"United Kingdom, United States"
+Bon Cop Bad Cop 2,Bon Cop Bad Cop 2,2017.0,,,0.0,Movie,126.0,min,Canada
+Speech & Debate,Speech & Debate,2017.0,,,105.0,Movie,96.0,min,United States
+Devil's Gate,Devil's Gate,2017.0,,,94.0,Movie,94.0,min,Canada
+American Anarchist,American Anarchist,2016.0,,,80.0,Movie,81.0,min,United States
+The Saint,The Saint,2017.0,,,92.0,Movie,92.0,min,United States
+Aiyyaa,Aiyyaa,2012.0,,,146.0,Movie,151.0,min,India
+Wind River,Wind River,2017.0,11000000.0,184770205.0,111.0,Movie,107.0,min,"United Kingdom, Canada, United States"
+Rory Scovel Tries Stand-Up for the First Time,Rory Scovel Tries Stand-Up for the First Time,2017.0,,,66.0,Movie,66.0,min,United States
+Blockbuster,Blockbuster,2017.0,,,82.0,Movie,85.0,min,France
+Shot Caller,Shot Caller,2017.0,,,121.0,Movie,121.0,min,United States
+Mike Birbiglia: Thank God for Jokes,Mike Birbiglia: Thank God for Jokes,2017.0,,,71.0,Movie,71.0,min,United States
+Chris D'Elia: Man on Fire,Chris D'Elia: Man on Fire,2017.0,,,65.0,Movie,66.0,min,United States
+S.W.A.T.: Under Siege,S.W.A.T.: Under Siege,2017.0,,,89.0,Movie,89.0,min,United States
+Sahara,Sahara,2017.0,,7800000.0,86.0,Movie,86.0,min,"France, Canada"
+First Kill,First Kill,2017.0,,,97.0,Movie,102.0,min,"United Kingdom, Canada, United States"
+LA 92,LA 92,2017.0,,,114.0,Movie,114.0,min,United States
+Harry Benson: Shoot First,Harry Benson: Shoot First,2016.0,,,87.0,Movie,90.0,min,United States
+Take Me,Take Me,2017.0,,,83.0,Movie,84.0,min,United States
+The Incredible Jessica James,The Incredible Jessica James,2017.0,,,83.0,Movie,84.0,min,United States
+Cop and a Half: New Recruit,Cop and a Half: New Recruit,2017.0,,,97.0,Movie,96.0,min,Canada
+Mom,Mom,2017.0,,,146.0,Movie,139.0,min,India
